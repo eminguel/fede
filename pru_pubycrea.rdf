@@ -11,7 +11,7 @@
     <dct:description xml:lang="es">Catálogo de Datos Abiertos que sirve de ejemplo en DCAT-AP-ES.</dct:description>
     <foaf:homepage rdf:resource="http://dcat-ap-es.ejemplo.org"/>
     
-    <dct:publisher rdf:resource="http://datos.gob.es"/>
+    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
     
     <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
     <dct:issued rdf:datatype="http://www.w3.org">2025-01-01T09:00:00+01:00</dct:issued>
