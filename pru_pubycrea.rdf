@@ -58,8 +58,11 @@
         <dcat:distribution>
           <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-CSV">
             <dct:title xml:lang="es">Distribucion CSV</dct:title>
+            <dct:description xml:lang="es">Descripción de distribucion csv</dct:description>
             <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-ejemplo-1.CSV"/>
             <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/> 
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/dir/2007/2/2019-06-26"/>
           </dcat:Distribution>
         </dcat:distribution>
       </dcat:Dataset>
