@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:dcat="http://www.w3.org/ns/dcat#"
-         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:dct="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
          xmlns:adms="http://www.w3.org/ns/adms#"
          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
@@ -15,13 +15,13 @@
   <dcat:Catalog rdf:about="http://dcat-ap-es.ejemplo.org">
     <dct:title xml:lang="es">Catálogo de Datos Abiertos</dct:title>
     <dct:description xml:lang="es">Catálogo de Datos Abiertos que sirve de ejemplo en DCAT-AP-ES.</dct:description>
-    <foaf:homepage rdf:resource="http://dcat-ap-es.ejemplo.org"/>
+    <foaf:homepage rdf:resource="http://dcat-ap-es.ejemplo.org/home"/>
     
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
     
     <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
-    <dct:issued rdf:datatype="http://www.w3.org">2025-01-01T09:00:00+01:00</dct:issued>
-    <dct:modified rdf:datatype="http://www.w3.org">2025-01-02T12:00:00+01:00</dct:modified>
+     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-01T09:00:00+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-02T12:00:00+01:00</dct:modified>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
     <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
@@ -29,38 +29,39 @@
     <dct:creator rdf:resource="http://otro.es"/>
 
     <dcat:dataset>
-      <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org">
+      <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset">
         <dct:title xml:lang="es">Dataset de ejemplo</dct:title>
         
-        <dc:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dcat:keyword xml:lang="es">estadísticas</dcat:keyword>
         <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
 
         <dcat:contactPoint>
-          <vcard:Organization rdf:about="http://dcat-ap-es.ejemplo.org">
+          <vcard:Organization rdf:about="http://dcat-ap-es.ejemplo.org/org">
             <vcard:organization-name xml:lang="es">Organismo</vcard:organization-name>
             <vcard:fn xml:lang="es">Oficina del dato</vcard:fn>
-            <vcard:hasURL rdf:resource="http://dcat-ap-es.ejemplo.org"/>
+            <vcard:hasURL rdf:resource="http://dcat-ap-es.ejemplo.org/organiza"/>
             <vcard:hasUID rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
             <vcard:hasEmail rdf:resource="mailto:info-contacto@dcat-ap-es.ejemplo.org"/>
           </vcard:Organization>
         </dcat:contactPoint>
 		
         <dcat:distribution>
-          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.orgdistribucion/dataset-CSV">
+          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-CSV">
             <dct:title xml:lang="es">Distribucion CSV</dct:title>
-            <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.orgfiles/dataset-ejemplo-1.CSV"/>
+            <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-ejemplo-1.CSV"/>
             <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/> 
           </dcat:Distribution>
         </dcat:distribution>
       </dcat:Dataset>
     </dcat:dataset>
 
-    <foaf:Agent rdf:about="http://otro.es">
-      <foaf:name xml:lang="es">Otro</foaf:name>
-      <dct:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
-    </foaf:Agent>
-
   </dcat:Catalog>
+  
+  <foaf:Agent rdf:about="http://otro.es">
+    <foaf:name xml:lang="es">Otro</foaf:name>
+    <dct:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
+  </foaf:Agent>
+
 </rdf:RDF>
