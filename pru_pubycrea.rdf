@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dcat="http://www.w3.org/ns/dcat#"
+         xmlns:dcatap="http://data.europa.eu/r5r/"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:odrs="http://schema.theodi.org/odrs#">
+
+  <dcat:Catalog rdf:about="http://dcat-ap-es.ejemplo.org/catalogo">
+    <dct:title xml:lang="es">Catálogo de Datos Abiertos</dct:title>
+    <dct:description xml:lang="es">Catálogo de Datos Abiertos que sirve de ejemplo en DCAT-AP-ES.</dct:description>
+    <foaf:homepage rdf:resource="http://dcat-ap-es.ejemplo.org"/>
+    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+    <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-01T09:00:00+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-02T12:00:00+01:00</dct:modified>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
+    <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
+
+	<dct:publisher>
+        <foaf:Organization>
+            <foaf:name>Organismo Publicador</foaf:name>
+			<dct:identifier>http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001</dct:identifier>
+            <dct:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
+        </foaf:Organization>
+    </dct:publisher>
+
+    <dct:creator>
+      <foaf:Organization>
+        <foaf:name>Organismo Creador</foaf:name>
+		<dct:identifier>http://datos.gob.es/recurso/sector-publico/org/Organismo/99999999</dct:identifier>
+        <dct:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
+      </foaf:Organization>
+    </dct:creator>
+
+
+		
+    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+
+    <dcat:dataset>
+      <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1">
+        <dct:title xml:lang="es">Dataset de ejemplo</dct:title>
+        <dct:description xml:lang="es">Descripción de un dataset de ejemplo.</dct:description>
+        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0043127"/>
+        <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-HVD-ejemplo-1-RDF">
+          <dcat:accessURL rdf:resource="https://orgea.exampleMS.gov/files/1T2p3o4B.ttl"/>
+          <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.0</dcat:spatialResolutionInMeters>
+          <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE"/>  
+          <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+          <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+          </dcat:Distribution>
+        </dcat:distribution>
+
+      </dcat:Dataset>
+    </dcat:dataset>
+
+
+  </dcat:Catalog>
+</rdf:RDF>
