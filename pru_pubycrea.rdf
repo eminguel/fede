@@ -2,7 +2,7 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org"
          xmlns:dcat="http://www.w3.org"
          xmlns:dcatap="http://data.europa.eu"
-         xmlns:dct="http://purl.org"
+         xmlns:dct="http://purl.org/dc/terms/"
          xmlns:foaf="http://xmlns.com"
          xmlns:vcard="http://www.w3.org">
 
@@ -61,12 +61,12 @@
     <!-- DEFINICIÓN EXPLÍCITA DE LOS AGENTES DENTRO DEL CATÁLOGO -->
     <foaf:Agent rdf:about="http://datos.gob.es">
       <foaf:name xml:lang="es">Nombre Oficial del Organismo 1</foaf:name>
-      <dct:type rdf:resource="http://purl.org"/>
+      <dct:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
     </foaf:Agent>
 
     <foaf:Agent rdf:about="http://otro.es">
       <foaf:name xml:lang="es">Otro</foaf:name>
-      <dct:type rdf:resource="http://purl.org"/>
+      <dct:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
     </foaf:Agent>
 
   </dcat:Catalog>
