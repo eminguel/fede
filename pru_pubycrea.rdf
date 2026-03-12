@@ -26,7 +26,14 @@
     <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
 
-    <dct:creator rdf:resource="http://otro.es"/>
+    <dct:creator>
+        <foaf:Agent rdf:about="http://otro.es">
+            <foaf:name xml:lang="es">Otro</foaf:name>
+            <dct:identifier>E0DAT9999999</dct:identifier>
+            <dct:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
+        </foaf:Agent>
+    </dct:creator>   
+
 
     <dcat:dataset>
       <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset">
@@ -60,9 +67,6 @@
 
   </dcat:Catalog>
   
-  <foaf:Agent rdf:about="http://otro.es">
-    <foaf:name xml:lang="es">Otro</foaf:name>
-    <dct:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
-  </foaf:Agent>
+  
 
 </rdf:RDF>
