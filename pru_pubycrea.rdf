@@ -31,19 +31,20 @@
     <dcat:dataset>
       <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset">
         <dct:title xml:lang="es">Dataset de ejemplo</dct:title>
-        
+        <dct:description xml:lang="es">Descripción de un dataset de ejemplo.</dct:description>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dcat:keyword xml:lang="es">estadísticas</dcat:keyword>
         <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
 
         <dcat:contactPoint>
-          <vcard:Organization rdf:about="http://dcat-ap-es.ejemplo.org/org">
-            <vcard:organization-name xml:lang="es">Organismo</vcard:organization-name>
+          <vcard:Organization>
+            <vcard:organization-name xml:lang="es">OrganismoContacto</vcard:organization-name>
             <vcard:fn xml:lang="es">Oficina del dato</vcard:fn>
-            <vcard:hasURL rdf:resource="http://dcat-ap-es.ejemplo.org/organiza"/>
+            <vcard:hasURL rdf:resource="http://dcat-ap-es.ejemplo.org/oficinadeldato"/>
             <vcard:hasUID rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
             <vcard:hasEmail rdf:resource="mailto:info-contacto@dcat-ap-es.ejemplo.org"/>
+            <vcard:hasTelephone rdf:resource="tel:.+3491222222"/>
           </vcard:Organization>
         </dcat:contactPoint>
 		
