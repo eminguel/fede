@@ -13,12 +13,12 @@
     
     <dct:publisher rdf:resource="http://datos.gob.es"/>
     
-    <dcat:themeTaxonomy rdf:resource="http://datos.gob.es"/>
+    <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
     <dct:issued rdf:datatype="http://www.w3.org">2025-01-01T09:00:00+01:00</dct:issued>
     <dct:modified rdf:datatype="http://www.w3.org">2025-01-02T12:00:00+01:00</dct:modified>
-    <dct:language rdf:resource="http://publications.europa.eu"/>
-    <dct:spatial rdf:resource="http://datos.gob.es"/>		
-    <dct:license rdf:resource="http://publications.europa.eu"/>		
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
+    <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
+    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
 
     <dct:creator rdf:resource="http://otro.es"/>
 
@@ -28,9 +28,9 @@
         <dct:description xml:lang="es">Descripción de un dataset de ejemplo.</dct:description>
         
         <dct:publisher rdf:resource="http://otro.es"/>
-        <dcat:theme rdf:resource="http://datos.gob.es/medio-ambiente"/>
+        <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dcat:keyword xml:lang="es">estadísticas</dcat:keyword>
-        <dct:spatial rdf:resource="http://datos.gob.es"/>
+        <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
 
         <dcat:contactPoint>
           <vcard:Organization rdf:about="http://dcat-ap-es.ejemplo.org">
@@ -53,7 +53,7 @@
           <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.orgdistribucion/dataset-CSV">
             <dct:title xml:lang="es">Distribucion CSV</dct:title>
             <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.orgfiles/dataset-ejemplo-1.CSV"/>
-            <dct:format rdf:resource="http://publications.europa.eu"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/> 
           </dcat:Distribution>
         </dcat:distribution>
       </dcat:Dataset>
