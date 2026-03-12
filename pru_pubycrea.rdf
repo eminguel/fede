@@ -26,7 +26,7 @@
       <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org">
         <dct:title xml:lang="es">Dataset de ejemplo</dct:title>
         
-        <dct:publisher rdf:resource="http://otro.es"/>
+        <dc:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dcat:keyword xml:lang="es">estadísticas</dcat:keyword>
         <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
