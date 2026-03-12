@@ -11,20 +11,14 @@
     <dct:title xml:lang="es">Catálogo de Datos Abiertos</dct:title>
     <dct:description xml:lang="es">Catálogo de Datos Abiertos que sirve de ejemplo en DCAT-AP-ES.</dct:description>
     <foaf:homepage rdf:resource="http://dcat-ap-es.ejemplo.org"/>
-   
+    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
     <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-01T09:00:00+01:00</dct:issued>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-02T12:00:00+01:00</dct:modified>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
     <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
 
-	<dct:publisher>
-        <foaf:Organization>
-            <foaf:name>Organismo Publicador</foaf:name>
-			<dct:identifier>http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001</dct:identifier>
-            <dct:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
-        </foaf:Organization>
-    </dct:publisher>
+
 
     <dct:creator>
       <foaf:Organization>
