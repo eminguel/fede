@@ -38,14 +38,14 @@
         <dcat:keyword xml:lang="es">estadísticas</dcat:keyword>
         <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
 
-    <dct:creator>
-        <foaf:Agent rdf:about="http://otro.es">
-            <foaf:name xml:lang="es">Otro</foaf:name>
-            <dct:identifier>E0DAT9999999</dct:identifier>
-            <dct:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
-        </foaf:Agent>
-    </dct:creator>   
-    
+        <dct:creator>
+            <foaf:Agent rdf:about="http://organismocreador.es">
+              <foaf:name xml:lang="es">Organismo Creador</foaf:name>
+              <dct:identifier>9999999</dct:identifier>
+              <dct:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
+            </foaf:Agent>
+        </dct:creator>   
+
         <dcat:contactPoint>
           <vcard:Organization>
             <vcard:organization-name xml:lang="es">OrganismoContacto</vcard:organization-name>
