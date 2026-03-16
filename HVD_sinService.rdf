@@ -64,7 +64,8 @@
 			  <dct:title xml:lang="es">Distribución de ejemplo Protobuf</dct:title>
 			  <dct:description xml:lang="es">Descripción de una distribución de ejemplo Protobuf HVD.</dct:description>
 			  <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-HVD-ejemplo-1-HVD.proto"/>
-			  <dct:format rdf:resource="https://www.iana.org/assignments/media-types/application/protobuf"/>  
+			  <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+			  <dcat:packageFormat rdf:resource="https://www.iana.org/assignments/media-types/application/protobuf"/>  
 			  <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
 			  <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
 			  <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1024</dcat:byteSize>
