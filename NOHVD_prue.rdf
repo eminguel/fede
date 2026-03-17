@@ -7,8 +7,8 @@
 		 xmlns:vcard="http://www.w3.org/2006/vcard/ns#">
 
   <dcat:Catalog rdf:about="http://dcat-ap-es.ejemplo.org/catalogo">
-    <dct:title xml:lang="es">Catálogo de Datos Abiertos HVD</dct:title>
-    <dct:description xml:lang="es">Catálogo de Datos Abiertos que sirve de ejemplo en la migración a DCAT-AP-ES HVD.</dct:description>
+    <dct:title xml:lang="es">Catálogo de Datos Abiertos NOHVD</dct:title>
+    <dct:description xml:lang="es">Catálogo de Datos Abiertos que sirve de ejemplo en la migración a DCAT-AP-ES NOHVD.</dct:description>
     <foaf:homepage rdf:resource="http://dcat-ap-es.ejemplo.org"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
     <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
@@ -19,9 +19,9 @@
 	<dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
 	
     <dcat:dataset>
-      <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1-HVD">
-		<dct:title xml:lang="es">Dataset de ejemplo HVD_2</dct:title>
-        <dct:description xml:lang="es">Descripción de un dataset de ejemplo HVD_2</dct:description>
+      <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1-NOHVD">
+		<dct:title xml:lang="es">Dataset de ejemplo NOHVD_2</dct:title>
+        <dct:description xml:lang="es">Descripción de un dataset de ejemplo NOHVD_2</dct:description>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
@@ -46,10 +46,10 @@
 		
 		
         <dcat:distribution>
-          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-ejemplo-1-CSV-HVD">
+          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-ejemplo-1-CSV-NOHVD">
 			  <dct:title xml:lang="es">Distribución de ejemplo CSV_2</dct:title>
-			  <dct:description xml:lang="es">Descripción de una distribución de ejemplo CSV HVD_2</dct:description>
-			  <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-HVD-ejemplo-1-HVD.CSV"/>
+			  <dct:description xml:lang="es">Descripción de una distribución de ejemplo CSV NOHVD_2</dct:description>
+			  <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-NOHVD-ejemplo-1-NOHVD.CSV"/>
 			  <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>  
 			  <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
 			  <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
