@@ -98,7 +98,7 @@
 			  <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
 			  <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
 			  <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1024</dcat:byteSize>
-			  <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+			  
           </dcat:Distribution>
         </dcat:distribution>
 
