@@ -45,7 +45,13 @@
               <dct:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
             </foaf:Agent>
         </dct:creator>   
-
+        <prov:qualifiedAttribution>
+          <prov:Attribution>
+            <dcat:hadRole rdf:resource="http://purl.org/dc/terms/publisher"/>
+            <prov:agent rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+          </prov:Attribution>
+        </prov:qualifiedAttribution>
+        
         <dcat:contactPoint>
           <vcard:Organization>
             <vcard:organization-name xml:lang="es">OrganismoContacto</vcard:organization-name>
