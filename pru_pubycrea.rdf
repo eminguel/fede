@@ -56,11 +56,6 @@
         <dct:provenance>
           <dct:ProvenanceStatement>
             <dct:description xml:lang="es">Datos originados y validados por el Instituto de Estadística.</dct:description>
-            <dct:creator>
-              <foaf:Organization rdf:about="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001">
-                <foaf:name xml:lang="es">Instituto de Estadística</foaf:name>
-              </foaf:Organization>
-            </dct:creator>
           </dct:ProvenanceStatement>
         </dct:provenance>
 
