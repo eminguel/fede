@@ -53,11 +53,7 @@
           </prov:Attribution>
         </prov:qualifiedAttribution>
         
-        <dct:provenance>
-          <dct:ProvenanceStatement rdf:about="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001">
-            <dct:description xml:lang="es">Datos originados y validados por el Instituto de Estadística.</dct:description>
-          </dct:ProvenanceStatement>
-        </dct:provenance>
+        <dct:provenance rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
 
         <dcat:contactPoint>
           <vcard:Organization>
