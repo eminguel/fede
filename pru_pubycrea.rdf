@@ -33,17 +33,10 @@
       <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset">
         <dct:title xml:lang="es">Dataset de ejemplo</dct:title>
         <dct:description xml:lang="es">Descripción de un dataset de ejemplo.</dct:description>
+        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dcat:keyword xml:lang="es">estadísticas</dcat:keyword>
         <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
-
-        <dct:publisher>
-          <foaf:Agent rdf:about="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001">
-            <foaf:name xml:lang="es">ORGANISMO PUBLICADOR</foaf:name>
-            <dct:identifier>http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001</dct:identifier>
-            <dct:type rdf:resource="http://purl.org/adms/publishertype/Company"/>
-          </foaf:Agent>
-        </dct:publisher>
 
         <dct:creator>
             <foaf:Agent rdf:about="http://organismocreador.es">
@@ -52,6 +45,7 @@
               <dct:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
             </foaf:Agent>
         </dct:creator>   
+
         <prov:qualifiedAttribution>
           <prov:Attribution>
             <dcat:hadRole rdf:resource="http://purl.org/dc/terms/publisher"/>
@@ -59,6 +53,17 @@
           </prov:Attribution>
         </prov:qualifiedAttribution>
         
+        <dct:provenance>
+          <dct:ProvenanceStatement>
+            <dct:description xml:lang="es">Datos originados y validados por el Instituto de Estadística.</dct:description>
+            <dct:creator>
+              <foaf:Organization rdf:about="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001">
+                <foaf:name xml:lang="es">Instituto de Estadística</foaf:name>
+              </foaf:Organization>
+            </dct:creator>
+          </dct:ProvenanceStatement>
+        </dct:provenance>
+
         <dcat:contactPoint>
           <vcard:Organization>
             <vcard:organization-name xml:lang="es">OrganismoContacto</vcard:organization-name>
