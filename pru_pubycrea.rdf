@@ -53,11 +53,7 @@
           </prov:Attribution>
         </prov:qualifiedAttribution>
         
-        <dct:provenance>
-          <dct:ProvenanceStatement>
-            <dct:description xml:lang="es">Datos originados y validados por el Instituto de Estadística.</dct:description>
-          </dct:ProvenanceStatement>
-        </dct:provenance>
+        <dct:provenance xml:lang="es">Instituto de Estadística.</dct:provenance>
 
         <dcat:contactPoint>
           <vcard:Organization>
