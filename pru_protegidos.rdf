@@ -26,6 +26,9 @@
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
         <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
         <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
+        <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
+        <dcat:keyword xml:lang="es">estadísticas</dcat:keyword>
+        
         <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/RESTRICTED"/>
       
         <dcat:distribution>
@@ -36,7 +39,7 @@
             <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_NC_ND_4_0"/>
             <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
             <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
-            
+
             <dcat:accessURL rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/solicitud-acceso/datos-economicos-csv"/>
             <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45678900</dcat:byteSize>
             <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
