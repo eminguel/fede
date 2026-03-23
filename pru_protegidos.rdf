@@ -5,7 +5,6 @@
          xmlns:dcatap="http://data.europa.eu/r5r/"
          xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
-         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 
   <dcat:Catalog rdf:about="http://nsip.dcat-ap-es.ejemplo.org/catalogo-protegido">
@@ -19,34 +18,31 @@
     <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
     <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
 	
-      <dcat:Dataset rdf:about="http://nsip.dcat-ap-es.ejemplo.org/dataset/protegidos-datos-economicos-ejemplo">
-		<dct:title xml:lang="es">Dataset Datos Protegidos ejemplo</dct:title>
-		<dct:description xml:lang="es">Dataset Datos Protegidos ejemplo</dct:description>
-		<dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
-		<dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/RESTRICTED"/>
+    <dcat:Dataset rdf:about="http://nsip.dcat-ap-es.ejemplo.org/dataset/protegidos-datos-economicos-ejemplo">
+      <dct:title xml:lang="es">Dataset Datos Protegidos ejemplo</dct:title>
+      <dct:description xml:lang="es">Dataset Datos Protegidos ejemplo</dct:description>
+      <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+      <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/RESTRICTED"/>
 		
-		<dcat:distribution>
-		  <dcat:Distribution rdf:about="http://nsip.dcat-ap-es.ejemplo.org/dataset/datos-economicos-ejemplo/dist/csv">
-			<dct:title xml:lang="es">Distribucion Datos Protegidos ejemplo. Formato CSV</dct:title>
-			<dct:description xml:lang="es">Distribucion Datos Protegidos ejemplo. Formato CSV</dct:description>
-			<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
-			<dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_NC_ND_4_0"/>
-			<dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
-			
-			<dcat:accessURL rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/solicitud-acceso/datos-economicos-csv"/>
-			<dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45678900</dcat:byteSize>
-			<dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
-			<dct:rights rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/licencias/uso-ejemplo-confidencial"/>
-			
-		
-			<dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg/2022/868/oj"/>
+      <dcat:distribution>
+        <dcat:Distribution rdf:about="http://nsip.dcat-ap-es.ejemplo.org/dataset/datos-economicos-ejemplo/dist/csv">
+          <dct:title xml:lang="es">Distribucion Datos Protegidos ejemplo. Formato CSV</dct:title>
+          <dct:description xml:lang="es">Distribucion Datos Protegidos ejemplo. Formato CSV</dct:description>
+          <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
+          <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_NC_ND_4_0"/>
+          <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
+          
+          <dcat:accessURL rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/solicitud-acceso/datos-economicos-csv"/>
+          <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45678900</dcat:byteSize>
+          <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+          <dct:rights rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/licencias/uso-ejemplo-confidencial"/>
 
-		  </dcat:Distribution>
-		</dcat:distribution>
+          <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg/2022/868/oj"/>
+
+        </dcat:Distribution>
+      </dcat:distribution>
   
-      </dcat:Dataset>
     </dcat:dataset>
-
 
   </dcat:Catalog>
 </rdf:RDF>
