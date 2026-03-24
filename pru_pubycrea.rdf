@@ -53,50 +53,7 @@
           </prov:Attribution>
         </prov:qualifiedAttribution>
         
-
-            <dct:provenance>
-              <!-- Usamos rdf:about para cumplir con sh:nodeKind sh:IRI -->
-              <dct:ProvenanceStatement rdf:about="http://ejemplo.es">
-                
-                <!-- 1. Etiqueta estándar para que el portal sepa qué nombre poner al enlace -->
-                <rdfs:label xml:lang="es">Descripción de la procedencia de los datos</rdfs:label>
-                
-                <!-- 2. Descripción detallada (la que pide DCAT-AP-ES) -->
-                <dct:description xml:lang="es">
-                  Datos obtenidos del sistema de gestión de tráfico y procesados por el departamento de estadística.
-                </dct:description>
-                
-              </dct:ProvenanceStatement>
-            </dct:provenance>
-
-
-
-
-        
-<!--
-
-<dct:provenance rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
-
-        <dct:provenance>
-          <dct:ProvenanceStatement rdf:about="http://datos.gob.es/recurso/sector-publico/org/Organismo/E00000000">
-            <rdfs:label xml:lang="es">Organismo E00000000</rdfs:label>
-          </dct:ProvenanceStatement>
-        </dct:provenance>
-
-
-        <dct:provenance>
-          <dct:ProvenanceStatement rdf:about="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001">
-            <rdfs:label xml:lang="es">Organismo E0DAT0001</rdfs:label>
-          </dct:ProvenanceStatement>
-        </dct:provenance>
-        
-        
-        <dct:provenance>
-          <dct:ProvenanceStatement>
-            <rdfs:label xml:lang="es">Prueba literal en provenance</rdfs:label>
-          </dct:ProvenanceStatement>
-        </dct:provenance>
-        -->
+        <dct:provenance rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
 
         <dcat:contactPoint>
           <vcard:Organization>
