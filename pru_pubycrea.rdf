@@ -53,13 +53,14 @@
           </prov:Attribution>
         </prov:qualifiedAttribution>
         
-        <!--<dct:provenance rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>-->
-
+        <dct:provenance rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+<!--
         <dct:provenance>
           <dct:ProvenanceStatement>
             <rdfs:label xml:lang="es">Prueba literal en provenance</rdfs:label>
           </dct:ProvenanceStatement>
         </dct:provenance>
+        -->
 
         <dcat:contactPoint>
           <vcard:Organization>
