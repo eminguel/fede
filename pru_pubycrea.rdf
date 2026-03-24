@@ -53,23 +53,21 @@
           </prov:Attribution>
         </prov:qualifiedAttribution>
         
-        <dct:provenance>
-          <dct:ProvenanceStatement>
-            <rdfs:label xml:lang="es">Organismo E00000000</rdfs:label>
-          </dct:ProvenanceStatement>
-        </dct:provenance>
+
+        <dct:provenance xml:lang="es">Provenance en texto literal</dct:provenance>
+
+
+
         
 <!--
 
 <dct:provenance rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
 
-
-<dct:provenance>
-  <dct:ProvenanceStatement>
-    <rdfs:label xml:lang="es">Una declaración sobre la procedencia</rdfs:label>
-  </dct:ProvenanceStatement>
-</dct:provenance>
-
+        <dct:provenance>
+          <dct:ProvenanceStatement rdf:about="http://datos.gob.es/recurso/sector-publico/org/Organismo/E00000000">
+            <rdfs:label xml:lang="es">Organismo E00000000</rdfs:label>
+          </dct:ProvenanceStatement>
+        </dct:provenance>
 
 
         <dct:provenance>
