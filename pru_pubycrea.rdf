@@ -54,7 +54,13 @@
         </prov:qualifiedAttribution>
         
 
-        <dct:provenance xml:lang="es">Provenance en texto literal</dct:provenance>
+            <dct:provenance>
+              <dct:ProvenanceStatement rdf:about="http://ejemplo.es">
+                <dct:description xml:lang="es">
+                  Este dataset fue obtenido mediante un proceso de limpieza de datos abiertos del ayuntamiento.
+                </dct:description>
+              </dct:ProvenanceStatement>
+            </dct:provenance>
 
 
 
