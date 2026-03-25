@@ -85,7 +85,7 @@
             <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/formatEUesther"/>
             <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/mediaIANAesther"/> 
             
-            <dct:description xml:lang="es">Descripción de distribucion prueba formato<</dct:description>
+            <dct:description xml:lang="es">Descripción de distribucion prueba formato</dct:description>
             <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-ejemplo-1.pru"/>
             <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
             <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/dir/2007/2/2019-06-26"/>
