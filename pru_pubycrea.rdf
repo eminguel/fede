@@ -77,6 +77,21 @@
             <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
           </dcat:Distribution>
         </dcat:distribution>
+
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-xxx">
+            <dct:title xml:lang="es">Distribucion prueba formato</dct:title>
+            
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/> 
+            
+            <dct:description xml:lang="es">Descripción de distribucion prueba formato<</dct:description>
+            <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-ejemplo-1.pru"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/dir/2007/2/2019-06-26"/>
+            <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+          </dcat:Distribution>
+        </dcat:distribution>
       </dcat:Dataset>
     </dcat:dataset>
 
