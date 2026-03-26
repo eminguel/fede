@@ -39,6 +39,11 @@
         <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
 
         <dct:provenance rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+        <dct:provenance>
+          <dct:ProvenanceStatement>
+            <rdf:value>Procedencia de la EU</rdf:value>
+          </dct:ProvenanceStatement>
+        </dct:provenance>
 
         <dct:creator>
             <foaf:Agent rdf:about="http://organismocreadorAEPD.es">
