@@ -38,6 +38,8 @@
         <dcat:keyword xml:lang="es">estadísticas</dcat:keyword>
         <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
 
+        <dct:provenance rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+
         <dct:creator>
             <foaf:Agent rdf:about="http://organismocreadorAEPD.es">
               <foaf:name xml:lang="es">Agencia Española de Protección de Datos</foaf:name>
