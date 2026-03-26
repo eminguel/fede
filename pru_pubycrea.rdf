@@ -31,7 +31,7 @@
 
     <dcat:dataset>
       <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset">
-        <dct:title xml:lang="es">Dataset de ejemplo prueba formato</dct:title>
+        <dct:title xml:lang="es">http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0044367</dct:title>
         <dct:description xml:lang="es">Descripción de un dataset de ejemplo.</dct:description>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
