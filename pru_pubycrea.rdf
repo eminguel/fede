@@ -52,6 +52,7 @@
             <dct:type rdf:resource="http://purl.org/adms/publishertype/SupraNationalAuthority" />
           </foaf:Agent>
         </dct:creator>
+        <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
 
         <prov:qualifiedAttribution>
           <prov:Attribution>
