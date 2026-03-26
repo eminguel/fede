@@ -45,6 +45,13 @@
               <dct:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
             </foaf:Agent>
         </dct:creator>   
+        <dct:creator>
+            <foaf:Agent rdf:about="http://organismocreadorEU.es">
+              <foaf:name xml:lang="es">Oficina de publicaciones de la Unión Europea</foaf:name>
+              <dct:identifier>EU55555555</dct:identifier>
+              <dct:type rdf:resource="http://purl.org/adms/publishertype/SupraNationalAuthority"/>
+            </foaf:Agent>
+        </dct:creator>
 
         <prov:qualifiedAttribution>
           <prov:Attribution>
