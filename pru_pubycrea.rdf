@@ -33,7 +33,7 @@
       <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset">
         <dct:title xml:lang="es">Dataset de ejemplo EEE BSC</dct:title>
         <dct:description xml:lang="es">Descripción de un dataset de ejemplo EEE</dct:description>
-        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0041150"/>
+        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dcat:keyword xml:lang="es">estadísticas</dcat:keyword>
         <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
