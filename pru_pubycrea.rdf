@@ -20,7 +20,7 @@
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0002304"/>
     
     <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
-    <dcat:themeTaxonomy rdf:resource="https://inspire.ec.europa.eu/theme/bu"/>
+    <dcat:themeTaxonomy rdf:resource="http://inspire.ec.europa.eu/theme/bu"/>
 
     <dcat:themeTaxonomy rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/IACSData"/>
 
