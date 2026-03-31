@@ -79,7 +79,7 @@
 
         <dcat:distribution>
           <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-COG1">
-            <dct:title xml:lang="es">Distribucion prueba formato COG</dct:title>
+            <dct:title xml:lang="es">Distribucion prueba formato COG1</dct:title>
             
               <dct:format>
                 <dct:IMT>
@@ -89,7 +89,7 @@
               </dct:format>
             <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/image/tiff"/> 
             
-            <dct:description xml:lang="es">Descripción de distribucion prueba formato COG</dct:description>
+            <dct:description xml:lang="es">Descripción de distribucion prueba formato COG1</dct:description>
             <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-ejemplo-1.pru"/>
             <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
             <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/dir/2007/2/2019-06-26"/>
@@ -99,7 +99,7 @@
 
           <dcat:distribution>
           <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-COG2">
-            <dct:title xml:lang="es">Distribucion prueba formato COG</dct:title>
+            <dct:title xml:lang="es">Distribucion prueba formato COG2</dct:title>
             
               <dct:format>
                 <dct:IMT>
@@ -109,7 +109,7 @@
               </dct:format>
             <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/image/tiff"/> 
             
-            <dct:description xml:lang="es">Descripción de distribucion prueba formato COG</dct:description>
+            <dct:description xml:lang="es">Descripción de distribucion prueba formato COG2</dct:description>
             <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-ejemplo-1.pru"/>
             <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
             <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/dir/2007/2/2019-06-26"/>
