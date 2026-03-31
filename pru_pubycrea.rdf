@@ -103,8 +103,8 @@
             
               <dct:format>
                 <dct:IMT>
-                  <rdf:value>COG</rdf:value>
-                  <rdfs:label>COG</rdfs:label>
+                  <rdf:value>COG_value</rdf:value>
+                  <rdfs:label>COG_label</rdfs:label>
                 </dct:IMT>
               </dct:format>
             <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/image/tiff"/> 
