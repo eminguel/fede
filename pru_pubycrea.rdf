@@ -99,6 +99,7 @@
             <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
             <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/dir/2007/2/2019-06-26"/>
             <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+            <dcat:byteSize rdf:datatype="https://www.w3.org/2001/XMLSchema#decimal">100,9</dcat:byteSize>
           </dcat:Distribution>
         </dcat:distribution>
 
