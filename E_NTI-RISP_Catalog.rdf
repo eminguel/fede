@@ -21,9 +21,9 @@
 	
     <dcat:dataset>
       <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/NTIEEE_dataset-ejemplo-1">
-		    <dct:title xml:lang="es">NTIEEE Dataset de ejemplo (de audit a aporta con comentarios)</dct:title>
+		    <dct:title xml:lang="es">NTIEEE Dataset de ejemplo (despues manual hago fede manteniendo pub)</dct:title>
         <dct:description xml:lang="es">NTIEEE Descripción de un dataset de ejemplo.</dct:description>
-        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0002304"/>
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
         <dcat:keyword xml:lang="es">NTIEEE</dcat:keyword>
