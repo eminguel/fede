@@ -8,8 +8,8 @@
          xmlns:time="http://www.w3.org/2006/time#">
 
   <dcat:Catalog rdf:about="http://dcat-ap-es.ejemplo.org/catalogo">
-    <dct:title xml:lang="es">NTIEEE Catálogo de Datos Abiertos</dct:title>
-    <dct:description xml:lang="es">NTIEEE Catálogo de Datos Abiertos que sirve de ejemplo en la migración a DCAT-AP-ES.</dct:description>
+    <dct:title xml:lang="es">NTI222 Catálogo de Datos Abiertos</dct:title>
+    <dct:description xml:lang="es">NTI222 Catálogo de Datos Abiertos que sirve de ejemplo en la migración a DCAT-AP-ES.</dct:description>
     <foaf:homepage rdf:resource="http://dcat-ap-es.ejemplo.org"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
     <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
@@ -20,20 +20,20 @@
 	<dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
 	
     <dcat:dataset>
-      <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/NTI_EEE">
-       <dct:identifier>http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1</dct:identifier>
-		    <dct:title xml:lang="es">NTIEEE</dct:title>
-        <dct:description xml:lang="es">NTI_EEE. 1 Fede Apo.  </dct:description>
+      <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/NTI222">
+       <dct:identifier>NTI222</dct:identifier>
+		    <dct:title xml:lang="es">NTI222</dct:title>
+        <dct:description xml:lang="es">NTI222. 1 Fede Apo.  </dct:description>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
-        <dcat:keyword xml:lang="es">NTI_EEE</dcat:keyword>
+        <dcat:keyword xml:lang="es">NTI222</dcat:keyword>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0" />
         <dc:language>es</dc:language>
 			 
         <dcat:distribution>
-          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/NTIEEE_dataset-ejemplo-1-CSV">
-            <dct:title xml:lang="es">NTIEEE Distribución de ejemplo</dct:title>
+          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/NTI222_dataset-ejemplo-1-CSV">
+            <dct:title xml:lang="es">Distribución de ejemplo</dct:title>
             <dct:description xml:lang="es">Descripción de una distribución de ejemplo.</dct:description>
             <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/NTIEEE_dataset-ejemplo-1.CSV"/>
             <dct:format>
