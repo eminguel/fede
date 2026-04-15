@@ -21,7 +21,7 @@
 	
     <dcat:dataset>
       <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/NTI_9999">
-       <dct:identifier>http://dcat-ap-es.ejemplo.org/dataset/ID/NTI_9999</dct:identifier>
+
 		    <dct:title xml:lang="es">NTI_9999</dct:title>
         <dct:description xml:lang="es">NTI_9999. 1 Fede Apo. 2 comentario NTI_9999. 3 Man cambio pub Audit</dct:description>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0002304"/>
