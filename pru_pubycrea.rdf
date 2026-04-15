@@ -33,7 +33,7 @@
 
     <dcat:dataset>
       <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset">
-        <dct:identifier>D1</dct:identifier>
+
         <dct:title xml:lang="es">Dataset de ejemplo EEE EX Auditorio</dct:title>
         <dct:description xml:lang="es">Descripción de un dataset de ejemplo EEE</dct:description>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
