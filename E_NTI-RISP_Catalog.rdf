@@ -23,8 +23,8 @@
       <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/NTI_9999">
        <dct:identifier>http://dcat-ap-es.ejemplo.org/dataset/ID/NTI_9999</dct:identifier>
 		    <dct:title xml:lang="es">NTI_9999</dct:title>
-        <dct:description xml:lang="es">NTI_9999. 1 Fede Apo.  </dct:description>
-        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+        <dct:description xml:lang="es">NTI_9999. 1 Fede Apo. 2 comentario NTI_9999. 3 Man cambio pub Audit</dct:description>
+        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0002304"/>
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
         <dcat:keyword xml:lang="es">estaditicas</dcat:keyword>
