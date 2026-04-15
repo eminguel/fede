@@ -20,13 +20,14 @@
 	<dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
 	
     <dcat:dataset>
-      <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/NTIEEE">
+      <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/NTI_EEE">
+       <dct:identifier>http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1</dct:identifier>
 		    <dct:title xml:lang="es">NTIEEE</dct:title>
-        <dct:description xml:lang="es">NTIEEE1. 1 Fede Apo. 2 comentarios 222. 3 Man a Audit (ok y conserva coment). 4 Fede manteniendo Audit </dct:description>
-        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0002304"/>
+        <dct:description xml:lang="es">NTI_EEE. 1 Fede Apo.  </dct:description>
+        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
-        <dcat:keyword xml:lang="es">NTIEEE</dcat:keyword>
+        <dcat:keyword xml:lang="es">NTI_EEE</dcat:keyword>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0" />
         <dc:language>es</dc:language>
 			 
