@@ -22,7 +22,7 @@
     <dcat:dataset>
       <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1">
         <dct:identifier>http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1</dct:identifier>
-		    <dct:title xml:lang="es">NTI Dataset de ejemplo</dct:title>
+		    <dct:title xml:lang="es">NTIEEE Dataset de ejemplo</dct:title>
         <dct:description xml:lang="es">Descripción de un dataset de ejemplo.</dct:description>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0002304"/>
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
@@ -33,7 +33,7 @@
 			 
         <dcat:distribution>
           <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-ejemplo-1-CSV">
-            <dct:title xml:lang="es">NTI Distribución de ejemplo</dct:title>
+            <dct:title xml:lang="es">NTIEEE Distribución de ejemplo</dct:title>
             <dct:description xml:lang="es">Descripción de una distribución de ejemplo.</dct:description>
             <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-ejemplo-1.CSV"/>
             <dct:format>
