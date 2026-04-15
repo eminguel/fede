@@ -20,8 +20,7 @@
 	<dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
 	
     <dcat:dataset>
-      <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1">
-        <dct:identifier>http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1</dct:identifier>
+      <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/NTIEEE_dataset-ejemplo-1">
 		    <dct:title xml:lang="es">NTIEEE Dataset de ejemplo</dct:title>
         <dct:description xml:lang="es">NTIEEE Descripción de un dataset de ejemplo.</dct:description>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0002304"/>
@@ -32,10 +31,10 @@
         <dc:language>es</dc:language>
 			 
         <dcat:distribution>
-          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-ejemplo-1-CSV">
+          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/NTIEEE_dataset-ejemplo-1-CSV">
             <dct:title xml:lang="es">NTIEEE Distribución de ejemplo</dct:title>
             <dct:description xml:lang="es">Descripción de una distribución de ejemplo.</dct:description>
-            <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-ejemplo-1.CSV"/>
+            <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/NTIEEE_dataset-ejemplo-1.CSV"/>
             <dct:format>
               <dct:IMT>
                 <rdf:value>text/csv</rdf:value>
