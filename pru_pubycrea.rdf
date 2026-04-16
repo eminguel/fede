@@ -17,7 +17,7 @@
     <dct:description xml:lang="es">Catálogo de Datos Abiertos que sirve de ejemplo en DCAT-AP-ES.</dct:description>
     <foaf:homepage rdf:resource="http://dcat-ap-es.ejemplo.org/home"/>
     
-    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0002304"/>
+    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
     
     <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
     <dcat:themeTaxonomy rdf:resource="http://inspire.ec.europa.eu/theme"/>
@@ -34,9 +34,9 @@
     <dcat:dataset>
       <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset">
 
-        <dct:title xml:lang="es">Dataset de ejemplo EEE Auditorio</dct:title>
+        <dct:title xml:lang="es">Dataset de ejemplo EEE Organismo-Publicador-Creador</dct:title>
         <dct:description xml:lang="es">Descripción de un dataset de ejemplo EEE</dct:description>
-        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0002304"/>
+        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
 
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dcat:theme rdf:resource="http://inspire.ec.europa.eu/theme/bu"/>
@@ -66,64 +66,6 @@
             <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1024</dcat:byteSize>
           </dcat:Distribution>
         </dcat:distribution>
-
-        <dcat:distribution>
-          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-xxx">
-            <dct:title xml:lang="es">Distribucion prueba formato inventado</dct:title>
-            
-            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/formatEUesther"/>
-            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/application/bufr"/> 
-            
-            <dct:description xml:lang="es">Descripción de distribucion prueba formato inventado</dct:description>
-            <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-ejemplo-1.pru"/>
-            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-            <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/dir/2007/2/2019-06-26"/>
-            <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
-            <dcat:byteSize>12,5 Mb</dcat:byteSize>
-          </dcat:Distribution>
-        </dcat:distribution>
-
-        <dcat:distribution>
-          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-COG1">
-            <dct:title xml:lang="es">Distribucion prueba formato COG1</dct:title>
-            
-              <dct:format>
-                <dct:IMT>
-                  <rdf:value>image/tiff; application=geotiff; profile=cloud-optimized</rdf:value>
-                  <rdfs:label>COG</rdfs:label>
-                </dct:IMT>
-              </dct:format>
-            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/image/tiff"/> 
-            
-            <dct:description xml:lang="es">Descripción de distribucion prueba formato COG1</dct:description>
-            <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-ejemplo-1.pru"/>
-            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-            <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/dir/2007/2/2019-06-26"/>
-            <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
-            <dcat:byteSize rdf:datatype="https://www.w3.org/2001/XMLSchema#decimal">100,9</dcat:byteSize>
-          </dcat:Distribution>
-        </dcat:distribution>
-
-          <dcat:distribution>
-          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-COG2">
-            <dct:title xml:lang="es">Distribucion prueba formato COG2</dct:title>
-            
-              <dct:format>
-                <dct:IMT>
-                  <rdf:value>COG_value</rdf:value>
-                  <rdfs:label>COG_label</rdfs:label>
-                </dct:IMT>
-              </dct:format>
-            <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/image/tiff"/> 
-            
-            <dct:description xml:lang="es">Descripción de distribucion prueba formato COG2</dct:description>
-            <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-ejemplo-1.pru"/>
-            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-            <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/dir/2007/2/2019-06-26"/>
-            <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-
 
       </dcat:Dataset>
     </dcat:dataset>
