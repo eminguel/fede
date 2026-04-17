@@ -8,8 +8,8 @@
          xmlns:time="http://www.w3.org/2006/time#">
 
   <dcat:Catalog rdf:about="http://dcat-ap-es.ejemplo.org/catalogo">
-    <dct:title xml:lang="es">NTI_9999 Catálogo de Datos Abiertos</dct:title>
-    <dct:description xml:lang="es">NTI_9999 Catálogo de Datos Abiertos que sirve de ejemplo en la migración a DCAT-AP-ES.</dct:description>
+    <dct:title xml:lang="es">NTI_ORG Catálogo de Datos Abiertos</dct:title>
+    <dct:description xml:lang="es">NTI_ORG Catálogo de Datos Abiertos</dct:description>
     <foaf:homepage rdf:resource="http://dcat-ap-es.ejemplo.org"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
     <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
@@ -20,10 +20,10 @@
 	<dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
 	
     <dcat:dataset>
-      <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/NTI_9999">
+      <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/NTI_ORG">
 
-		    <dct:title xml:lang="es">NTI_9999</dct:title>
-        <dct:description xml:lang="es">NTI_9999. 1 Fede Apo. 2 comentario NTI_9999. 3 Man cambio pub Audit</dct:description>
+		    <dct:title xml:lang="es">NTI_ORG</dct:title>
+        <dct:description xml:lang="es">NTI_ORG</dct:description>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0002304"/>
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
@@ -32,7 +32,7 @@
         <dc:language>es</dc:language>
 			 
         <dcat:distribution>
-          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/NTI_dataset-ejemplo-1-CSV">
+          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/NTI_ORG_dataset-ejemplo-1-CSV">
             <dct:title xml:lang="es">Distribución de ejemplo</dct:title>
             <dct:description xml:lang="es">Descripción de una distribución de ejemplo.</dct:description>
             <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/NTI_dataset-ejemplo-1.CSV"/>
