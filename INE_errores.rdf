@@ -26,7 +26,7 @@
 
 	<dcat:dataset>
 		<dcat:Dataset rdf:about="urn:ine:es:TABLA:PX:t01:p044:a2016:ccaa12:0107_eee">
-			<dct:identifier>urn:ine:es:TABLA:PX:t01:p044:a2016:ccaa12:0107</dct:identifier>
+			<dct:identifier>urn:ine:es:TABLA:PX:t01:p044:a2016:ccaa12:0107_eee</dct:identifier>
 			<dct:title xml:lang="es">Otras tierras (Identificador API: null)</dct:title>
 			<dct:title xml:lang="en">Otras tierras (Identificador API: null)</dct:title>
 			<dct:description xml:lang="es"><![CDATA[Tabla de INEbase
