@@ -88,7 +88,7 @@ Otras tierras. National. Survey on the Structure of Agricultural Operations]]></
 			
 			<dcat:distribution>
 				<dcat:Distribution>
-					<dcat:accessURL rdf:resource="https://www.ine.es/jaxi/Tabla.htm?path=null&amp;file={1.px"/>
+					<dcat:accessURL rdf:resource="https://www.ine.es/jaxi/Tabla.htm?path=null&amp;file={1}.px"/>
 					<dct:title xml:lang="es">Html</dct:title>
 					<dct:title xml:lang="en">Html</dct:title>
 					<dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
