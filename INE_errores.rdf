@@ -64,7 +64,7 @@ Otras tierras. National. Survey on the Structure of Agricultural Operations]]></
 			<dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-rural-pesca"/>
 			<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
 			<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-			<dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0010587"/>
+			<dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
 			<dct:conformsTo rdf:resource="https://www.ine.es/dynt3/metadatos/es/RespuestaDatos.htm?oe=30044"/>
 			<prov:wasGeneratedBy>
 				<prov:Activity rdf:about="https://www.ine.es/dyngs/IOE/es/operacion.htm?numinv=30044">
