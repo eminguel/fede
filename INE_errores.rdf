@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dcat="http://www.w3.org/ns/dcat#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:adms="http://www.w3.org/ns/adms#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:odrs="http://schema.theodi.org/odrs#"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:dcatap="http://data.europa.eu/r5r/"
+         xmlns:prov="http://www.w3.org/ns/prov#"
+         xmlns:spdx="http://spdx.org/rdf/terms#"
+         xmlns:odrl="http://www.w3.org/ns/odrl/2/">
+
+  <dcat:Catalog rdf:about="http://dcat-ap-es.ejemplo.org">
+    <dct:title xml:lang="es">Catálogo de Datos Abiertos</dct:title>
+    <dct:description xml:lang="es">Catálogo de Datos Abiertos que sirve de ejemplo en DCAT-AP-ES.</dct:description>
+    <foaf:homepage rdf:resource="http://dcat-ap-es.ejemplo.org/home"/>
+    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+    <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-01T09:00:00+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-02T12:00:00+01:00</dct:modified>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
+    <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
+    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+
+	<dcat:dataset>
+		<dcat:Dataset rdf:about="urn:ine:es:TABLA:PX:t01:p044:a2016:ccaa12:0107">
+			<dct:identifier>urn:ine:es:TABLA:PX:t01:p044:a2016:ccaa12:0107</dct:identifier>
+			<dct:title xml:lang="es">Otras tierras (Identificador API: null)</dct:title>
+			<dct:title xml:lang="en">Otras tierras (Identificador API: null)</dct:title>
+			<dct:description xml:lang="es"><![CDATA[Tabla de INEbase
+Otras tierras. Nacional. Encuesta sobre la Estructura de las Explotaciones Agrícolas]]></dct:description>
+			<dct:description xml:lang="en"><![CDATA[Table of INEBase
+Otras tierras. National. Survey on the Structure of Agricultural Operations]]></dct:description>
+			<dcat:keyword xml:lang="es">Estadísticas</dcat:keyword>
+			<dcat:keyword xml:lang="es">Encuesta sobre la Estructura de las Explotaciones Agrícolas</dcat:keyword>
+			<dcat:keyword xml:lang="es">tamaño de las explotaciones según SAU (Ha.)</dcat:keyword>
+			<dcat:keyword xml:lang="es">Explotaciones con tierras</dcat:keyword>
+			<dcat:keyword xml:lang="es">Explotaciones sin SAU</dcat:keyword>
+			<dcat:keyword xml:lang="es">Explotaciones con SAU</dcat:keyword>
+			<dcat:keyword xml:lang="es">1  a  2</dcat:keyword>
+			<dcat:keyword xml:lang="es">2 a  5</dcat:keyword>
+			<dcat:keyword xml:lang="es">5 a   10</dcat:keyword>
+			<dcat:keyword xml:lang="es">10 a  20</dcat:keyword>
+			<dcat:keyword xml:lang="es">20 a  30</dcat:keyword>
+			<dcat:keyword xml:lang="es">30 a  50</dcat:keyword>
+			<dcat:keyword xml:lang="es">50 a  100</dcat:keyword>
+			<dcat:keyword xml:lang="es">=100</dcat:keyword>
+			<dcat:keyword xml:lang="es">otras tierras</dcat:keyword>
+			<dcat:keyword xml:lang="es">Total de otras tierras</dcat:keyword>
+			<dcat:keyword xml:lang="es">Terreno con vegetación espontánea y sin aprovechamiento agrícola o ganadero (erial espartizal y mato</dcat:keyword>
+			<dcat:keyword xml:lang="es">Especies arbóreas forestales</dcat:keyword>
+			<dcat:keyword xml:lang="es">Otras superficies</dcat:keyword>
+			<dcat:keyword xml:lang="es">Explotaciones/Ha.</dcat:keyword>
+			<dcat:keyword xml:lang="es">Explotaciones</dcat:keyword>
+			<dcat:keyword xml:lang="es">Ha.</dcat:keyword>
+			<dcat:keyword xml:lang="es">Agricultura ganadería selvicultura y caza</dcat:keyword>
+			<dcat:keyword xml:lang="es">Estructuras agrarias registros y medios de producción</dcat:keyword>
+			<dcat:keyword xml:lang="en">Statistics</dcat:keyword>
+			<dcat:keyword xml:lang="en">Survey on the Structure of Agricultural Operations</dcat:keyword>
+			<dcat:keyword xml:lang="en">Agriculture livestock forestry and hunting</dcat:keyword>
+			<dcat:keyword xml:lang="en">Agrarian structures registers and production methods</dcat:keyword>
+			<dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-rural-pesca"/>
+			<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
+			<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+			<dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0010587"/>
+			<dct:conformsTo rdf:resource="https://www.ine.es/dynt3/metadatos/es/RespuestaDatos.htm?oe=30044"/>
+			<prov:wasGeneratedBy>
+				<prov:Activity rdf:about="https://www.ine.es/dyngs/IOE/es/operacion.htm?numinv=30044">
+					<prov:generated>
+						<prov:Entity rdf:about="https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&amp;menu=resultados&amp;cid=1254736176854&amp;idp=1254735727106" />
+					</prov:generated>
+					<prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-01-01T00:00:00Z</prov:startedAtTime>
+				</prov:Activity>
+			</prov:wasGeneratedBy>
+			<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-12-14T10:17:40Z</dct:modified>
+			<dct:spatial rdf:resource="http://publications.europa.eu/resource/authority/country/ESP"/>
+			<dcat:contactPoint>
+				<vcard:Organization rdf:about="https://www.ine.es/dyngs/INE/es/index.htm?cid=498">
+					<vcard:fn xml:lang="es">Instituto Nacional de Estadistica</vcard:fn>
+					<vcard:organization-name xml:lang="es">Instituto Nacional de Estadística</vcard:organization-name>
+					<vcard:hasUID rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0010587"/>
+					<vcard:hasTelephone rdf:resource="tel:.+34915839100"/>
+					<vcard:hasURL rdf:resource="https://www.ine.es/infoine/"/>
+				</vcard:Organization>
+			</dcat:contactPoint>
+			
+			<dcat:distribution>
+				<dcat:Distribution>
+					<dcat:accessURL rdf:resource="https://www.ine.es/jaxi/Tabla.htm?path=null&amp;file={1.px"/>
+					<dct:title xml:lang="es">Html</dct:title>
+					<dct:title xml:lang="en">Html</dct:title>
+					<dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+					<dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+					<dct:license rdf:resource="https://www.ine.es/aviso_legal"/>
+				</dcat:Distribution>
+			</dcat:distribution>
+			
+		</dcat:Dataset>
+	</dcat:dataset>
+
+
+  </dcat:Catalog>
+</rdf:RDF>
