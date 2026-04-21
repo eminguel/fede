@@ -80,6 +80,7 @@
             <prov:agent rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0044367"/>
             <dcat:hadRole rdf:resource="https://standards.iso.org/iso/19115/resources/Codelists/gml/CI_RoleCode.xml#resourceProvider"/>
             <prov:hadActivity rdf:resource="http://ejemplo.es"/>
+            <rdfs:label xml:lang="es">texto de qualifiedAttribution</rdfs:label>
           </prov:Attribution>
         </prov:qualifiedAttribution>
 
