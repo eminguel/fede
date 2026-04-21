@@ -84,13 +84,6 @@
           </prov:Attribution>
         </prov:qualifiedAttribution>
 
-        <!-- La descripción del agente va aparte -->
-        <vcard:Organization rdf:about="http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0044367">
-          <vcard:fn>Ministerio de Ejemplo</vcard:fn>
-          <vcard:hasEmail rdf:resource="mailto:contacto@ejemplo.gob.es"/>
-        </vcard:Organization>
-  
-
 
         <dcat:distribution>
           <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-CSV">
