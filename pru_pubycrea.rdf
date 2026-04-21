@@ -44,7 +44,7 @@
         </dcat:contactPoint>
 
         <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0002304"/>
-        <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+        <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0044367"/>
         <dct:creator>
           <foaf:Agent rdf:about="http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0044367">
             <foaf:name xml:lang="es">Entidad Pública Empresarial Red.es</foaf:name>
