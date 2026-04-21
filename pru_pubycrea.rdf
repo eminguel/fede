@@ -74,6 +74,24 @@
         <dct:relation rdf:resource="https://demo.datos.gob.es/es/catalogo/l01280796-anemometros-externos-en-via-publica-de-fuentes-y-tuneles"/>
 
         <dct:source rdf:resource="https://demo.datos.gob.es/es/catalogo/l01280796-fuentes-de-agua-para-beber"/>
+        
+
+
+        <prov:qualifiedAttribution>
+  <prov:Attribution>
+    <!-- Aquí solo va el enlace (IRI) -->
+    <prov:agent rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0044367"/>
+    <dcat:hadRole rdf:resource="http://europa.eu"/>
+  </prov:Attribution>
+</prov:qualifiedAttribution>
+
+<!-- La descripción del agente va aparte -->
+<vcard:Organization rdf:about="http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0044367">
+  <vcard:fn>Ministerio de Ejemplo</vcard:fn>
+  <vcard:hasEmail rdf:resource="mailto:contacto@ejemplo.gob.es"/>
+</vcard:Organization>
+  
+
 
         <dcat:distribution>
           <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-CSV">
@@ -91,7 +109,7 @@
       </dcat:Dataset>
     </dcat:dataset>
 
-  </dcat:Catalog>>
+  </dcat:Catalog>
   
   
 
