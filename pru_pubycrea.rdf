@@ -43,8 +43,7 @@
           </vcard:Organization>
         </dcat:contactPoint>
 
-        <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0002304"/>
-        <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0044367"/>
+
         <dct:creator>
           <foaf:Agent rdf:about="http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0044367">
             <foaf:name xml:lang="es">Entidad Pública Empresarial Red.es</foaf:name>
@@ -79,8 +78,6 @@
           <prov:Attribution>
             <prov:agent rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0044367"/>
             <dcat:hadRole rdf:resource="https://standards.iso.org/iso/19115/resources/Codelists/gml/CI_RoleCode.xml#resourceProvider"/>
-            <prov:hadActivity rdf:resource="http://ejemplo.es"/>
-            <rdfs:label xml:lang="es">texto de qualifiedAttribution</rdfs:label>
           </prov:Attribution>
         </prov:qualifiedAttribution>
 
