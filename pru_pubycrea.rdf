@@ -66,8 +66,9 @@
             </dct:ProvenanceStatement>
         </dct:provenance>
 
+        <dct:relation rdf:resource="https://demo.datos.gob.es/es/catalogo/l01280796-anemometros-externos-en-via-publica-de-fuentes-y-tuneles"/>
 
-
+        <dct:source rdf:resource="https://demo.datos.gob.es/es/catalogo/l01280796-fuentes-de-agua-para-beber"/>
 
         <dcat:distribution>
           <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-CSV">
