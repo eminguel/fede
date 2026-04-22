@@ -24,7 +24,7 @@
 
 		    <dct:title xml:lang="es">NTI_ORG</dct:title>
         <dct:description xml:lang="es">NTI_ORG</dct:description>
-        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0002304"/>
+        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/L01100015"/>
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
         <dcat:keyword xml:lang="es">estaditicas</dcat:keyword>
