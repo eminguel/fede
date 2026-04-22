@@ -102,6 +102,12 @@
             <dcat:hadRole rdf:resource="https://standards.iso.org/iso/19115/resources/Codelists/gml/CI_RoleCode.xml#resourceProvider"/>
           </prov:Attribution>
         </prov:qualifiedAttribution>
+        <prov:qualifiedAttribution>
+          <prov:Attribution>
+            <prov:agent rdf:resource="https://www.sanidad.gob.es/estadEstudios/estadisticas/estadisticas/estMinisterio/SIAP/home.htm"/>
+            <dcat:hadRole rdf:resource="https://standards.iso.org/iso/19115/resources/Codelists/gml/CI_RoleCode.xml#resourceProvider"/>
+          </prov:Attribution>
+        </prov:qualifiedAttribution>
 
 
         <dcat:distribution>
