@@ -105,7 +105,7 @@
         <prov:qualifiedAttribution>
           <prov:Attribution>
             <prov:agent rdf:resource="https://www.sanidad.gob.es/estadEstudios/estadisticas/estadisticas/estMinisterio/SIAP/home.htm"/>
-            <dcat:hadRole rdf:resource="https://standards.iso.org/iso/19115/resources/Codelists/gml/CI_RoleCode.xml#resourceProvider"/>
+            <dcat:hadRole rdf:resource="https://standards.iso.org/iso/19115/resources/Codelists/gml/CI_RoleCode.xml#originator"/>
           </prov:Attribution>
         </prov:qualifiedAttribution>
 
