@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dcat="http://www.w3.org/ns/dcat#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:adms="http://www.w3.org/ns/adms#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:odrs="http://schema.theodi.org/odrs#"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:dcatap="http://data.europa.eu/r5r/"
+         xmlns:prov="http://www.w3.org/ns/prov#"
+         xmlns:spdx="http://spdx.org/rdf/terms#"
+         xmlns:odrl="http://www.w3.org/ns/odrl/2/">
+
+  <dcat:Catalog rdf:about="http://dcat-ap-es.ejemplo.org">
+    <dct:title xml:lang="es">Catálogo de Datos Abiertos</dct:title>
+    <dct:description xml:lang="es">Catálogo de Datos Abiertos que sirve de ejemplo en DCAT-AP-ES.</dct:description>
+    <foaf:homepage rdf:resource="http://dcat-ap-es.ejemplo.org/home"/>
+    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+    <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-01T09:00:00+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-02T12:00:00+01:00</dct:modified>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
+    <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
+    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+
+    <dcat:dataset>
+      <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset_aporta">
+        <dct:title xml:lang="es">Dataset de ejemplo EEE Aporta</dct:title>
+        <dct:description xml:lang="es">Descripción de un dataset de ejemplo EEE</dct:description>
+        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+        <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
+        <dcat:keyword xml:lang="es">estadísticas</dcat:keyword>
+        <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:organization-name xml:lang="es">OrganismoContacto</vcard:organization-name>
+            <vcard:fn xml:lang="es">Oficina del dato</vcard:fn>
+            <vcard:hasURL rdf:resource="http://dcat-ap-es.ejemplo.org/oficinadeldato"/>
+            <vcard:hasUID rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+            <vcard:hasEmail rdf:resource="mailto:info-contacto@dcat-ap-es.ejemplo.org"/>
+            <vcard:hasTelephone rdf:resource="tel:.+3491222222"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+
+
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-CSV">
+            <dct:title xml:lang="es">Distribucion CSV</dct:title>
+            <dct:description xml:lang="es">Descripción de distribucion csv</dct:description>
+            <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-ejemplo-1.CSV"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/> 
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/dir/2007/2/2019-06-26"/>
+            <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1024</dcat:byteSize>
+          </dcat:Distribution>
+        </dcat:distribution>
+
+      </dcat:Dataset>
+    </dcat:dataset>
+
+  </dcat:Catalog>
+  
+    <dcat:Catalog rdf:about="http://dcat-ap-es.ejemplo2.org">
+    <dct:title xml:lang="es">Catálogo de Datos Abiertos RED.ES</dct:title>
+    <dct:description xml:lang="es">Catálogo de Datos Abiertos que sirve de ejemplo en  RED.ES.</dct:description>
+    <foaf:homepage rdf:resource="http://dcat-ap-es.ejemplo.org/homeredes"/>
+    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0044367"/>
+    <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-01T09:00:00+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-02T12:00:00+01:00</dct:modified>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
+    <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
+    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+
+    <dcat:dataset>
+      <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset_redes">
+        <dct:title xml:lang="es">Dataset de ejemplo EEE RED.ES</dct:title>
+        <dct:description xml:lang="es">Descripción de un dataset de ejemplo EEE</dct:description>
+        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0044367"/>
+        <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
+        <dcat:keyword xml:lang="es">estadísticas</dcat:keyword>
+        <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:organization-name xml:lang="es">OrganismoContacto</vcard:organization-name>
+            <vcard:fn xml:lang="es">Oficina del dato</vcard:fn>
+            <vcard:hasURL rdf:resource="http://dcat-ap-es.ejemplo.org/oficinadeldato"/>
+            <vcard:hasUID rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+            <vcard:hasEmail rdf:resource="mailto:info-contacto@dcat-ap-es.ejemplo.org"/>
+            <vcard:hasTelephone rdf:resource="tel:.+3491222222"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+
+
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-CSV">
+            <dct:title xml:lang="es">Distribucion CSV</dct:title>
+            <dct:description xml:lang="es">Descripción de distribucion csv</dct:description>
+            <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-ejemplo-1.CSV"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/> 
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/dir/2007/2/2019-06-26"/>
+            <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1024</dcat:byteSize>
+          </dcat:Distribution>
+        </dcat:distribution>
+
+      </dcat:Dataset>
+    </dcat:dataset>
+
+  </dcat:Catalog>
+
+</rdf:RDF>
