@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dcat="http://www.w3.org/ns/dcat#"
+         xmlns:dct="http://purl.org/dc/terms/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:adms="http://www.w3.org/ns/adms#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:odrs="http://schema.theodi.org/odrs#"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+         xmlns:dcatap="http://data.europa.eu/r5r/"
+         xmlns:prov="http://www.w3.org/ns/prov#"
+         xmlns:spdx="http://spdx.org/rdf/terms#"
+         xmlns:odrl="http://www.w3.org/ns/odrl/2/">
+
+  <dcat:Catalog rdf:about="http://nextprocurement-project.com">
+    <dct:title xml:lang="es">Catálogo de Datos Nextprocurement Project</dct:title>
+    <dct:description xml:lang="es">Catálogo de Datos Nextprocurement Project</dct:description>
+    <foaf:homepage rdf:resource="http://nextprocurement-project.com"/>
+    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0041150"/>
+    <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-01T09:00:00+01:00</dct:issued>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-02T12:00:00+01:00</dct:modified>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
+    <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
+    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+
+    <dcat:dataset>
+      <dcat:Dataset rdf:about="http://nextprocurement-project.com/NSIP/Licitaciones">
+        <dct:title xml:lang="es">Licitaciones del proyecto NextProcurement Protegidos</dct:title>
+        <dct:description xml:lang="es">Licitaciones del proyecto NextProcurement Protegidos</dct:description>
+        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0041150"/>
+		<dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/RESTRICTED"/>            <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg/2022/868/oj"/>
+        <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/sector-publico"/>
+        <dcat:keyword xml:lang="es">licitaciones</dcat:keyword>
+        <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:organization-name xml:lang="es">Proyecto NextProcurement</vcard:organization-name>
+            <vcard:fn xml:lang="es">proyecto NextProcurement</vcard:fn>
+            <vcard:hasURL rdf:resource="http://nextprocurement-project.com"/>
+            <vcard:hasUID rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0041150"/>
+            <vcard:hasEmail rdf:resource="mailto:info@nexprocurement.com"/>
+            <vcard:hasTelephone rdf:resource="tel:.+3491222222"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+
+
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://nextprocurement-project.com/NSIP/Licitaciones/json">
+            <dcat:accessURL rdf:resource="http://nextprocurement-project.com/NSIP/Licitaciones/json"/>
+
+
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/> 
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1024</dcat:byteSize>
+			<dct:rights rdf:resource="http://nextprocurement-project.com/uso-confidencial"/>
+			
+			<dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg/2022/868/oj"/>
+			
+            <dct:title xml:lang="es">Distribucion JSON</dct:title>
+            <dct:description xml:lang="es">Distribucion JSON</dct:description>
+			
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+
+          </dcat:Distribution>
+        </dcat:distribution>
+
+      </dcat:Dataset>
+    </dcat:dataset>
+
+  </dcat:Catalog>
+  
+  
+
+</rdf:RDF>
