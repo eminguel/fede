@@ -110,11 +110,17 @@
             <dct:title xml:lang="es">Distribucion CSV</dct:title>
             <dct:description xml:lang="es">Descripción de distribucion csv</dct:description>
             <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-ejemplo-1.CSV"/>
-            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/> 
+
             <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
             <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/dir/2007/2/2019-06-26"/>
             <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
             <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1024</dcat:byteSize>
+            <dct:format>
+              <dct:IMT>
+                <rdf:value>COG_value</rdf:value>
+                <rdfs:label>COG_label</rdfs:label>
+              </dct:IMT>
+              </dct:format>
           </dcat:Distribution>
         </dcat:distribution>
 
