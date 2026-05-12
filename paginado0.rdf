@@ -10,14 +10,14 @@
          xmlns:dcatap="http://data.europa.eu/r5r/"
          xmlns:prov="http://www.w3.org/ns/prov#"
          xmlns:spdx="http://spdx.org/rdf/terms#"
-		 xmlns:hydra="http://www.w3.org/ns/hydra/core#"
+		     xmlns:hydra="http://www.w3.org/ns/hydra/core#"
          xmlns:odrl="http://www.w3.org/ns/odrl/2/">
 
-<hydra:PagedCollection rdf:about="https://www.ine.es/datosabiertos/dcat/tablasFederadas.rdf">
-	<hydra:lastPage>https://www.ine.es/datosabiertos/dcat/tablasFederadas_5.rdf</hydra:lastPage>
+<hydra:PagedCollection rdf:about="https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/paginado0.rdf">
+	<hydra:lastPage>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/paginado5.rdf</hydra:lastPage>
 	<hydra:itemsPerPage rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</hydra:itemsPerPage>
-	<hydra:firstPage>https://www.ine.es/datosabiertos/dcat/paginado0.rdf</hydra:firstPage>
-	<hydra:nextPage>https://www.ine.es/datosabiertos/dcat/paginado1.rdf</hydra:nextPage>
+	<hydra:firstPage>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/paginado0.rdf</hydra:firstPage>
+	<hydra:nextPage>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/paginado1.rdf</hydra:nextPage>
 	<hydra:totalItems rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</hydra:totalItems>
 </hydra:PagedCollection>
 
