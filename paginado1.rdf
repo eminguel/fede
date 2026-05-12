@@ -10,14 +10,14 @@
          xmlns:dcatap="http://data.europa.eu/r5r/"
          xmlns:prov="http://www.w3.org/ns/prov#"
          xmlns:spdx="http://spdx.org/rdf/terms#"
-		 xmlns:hydra="http://www.w3.org/ns/hydra/core#"
+		     xmlns:hydra="http://www.w3.org/ns/hydra/core#"
          xmlns:odrl="http://www.w3.org/ns/odrl/2/">
 
-<hydra:PagedCollection rdf:about="https://www.ine.es/datosabiertos/dcat/tablasFederadas.rdf">
-	<hydra:lastPage>https://www.ine.es/datosabiertos/dcat/tablasFederadas_5.rdf</hydra:lastPage>
+<hydra:PagedCollection rdf:about="https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/paginado0.rdf">
+	<hydra:lastPage>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/paginado5.rdf</hydra:lastPage>
 	<hydra:itemsPerPage rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</hydra:itemsPerPage>
-	<hydra:firstPage>https://www.ine.es/datosabiertos/dcat/paginado0.rdf</hydra:firstPage>
-	<hydra:nextPage>https://www.ine.es/datosabiertos/dcat/paginado1.rdf</hydra:nextPage>
+	<hydra:firstPage>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/paginado0.rdf</hydra:firstPage>
+	<hydra:nextPage>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/paginado2.rdf</hydra:nextPage>
 	<hydra:totalItems rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</hydra:totalItems>
 </hydra:PagedCollection>
 
@@ -34,9 +34,9 @@
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
 
     <dcat:dataset>
-      <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset_paginado0">
-        <dct:title xml:lang="es">Dataset de ejemplo EEE paginado0r</dct:title>
-        <dct:description xml:lang="es">Descripción paginado0</dct:description>
+      <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset_paginado1">
+        <dct:title xml:lang="es">Dataset de ejemplo EEE paginado1</dct:title>
+        <dct:description xml:lang="es">Descripción paginado1</dct:description>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dcat:keyword xml:lang="es">estadísticas</dcat:keyword>
@@ -53,9 +53,9 @@
         </dcat:contactPoint>
 
         <dcat:distribution>
-          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-xlsx0">
-            <dct:title xml:lang="es">Distribucion0 xlsx</dct:title>
-            <dct:description xml:lang="es">Descripción de distribucion0 xlsx</dct:description>
+          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-xlsx1">
+            <dct:title xml:lang="es">Distribucion1 xlsx</dct:title>
+            <dct:description xml:lang="es">Descripción de distribucion1 xlsx</dct:description>
             <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-ejemplo-0.CSV"/>
 			<dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
             <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
