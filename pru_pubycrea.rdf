@@ -88,6 +88,15 @@
         </dct:provenance>
 
         <dct:relation rdf:resource="https://demo.datos.gob.es/es/catalogo/l01280796-anemometros-externos-en-via-publica-de-fuentes-y-tuneles"/>
+        <dcat:isVersionOf rdf:resource="https://demo.datos.gob.es/es/catalogo/l01280796-anemometros-externos-en-via-publica-de-fuentes-y-tuneles"/>
+        <dcat:hasVersion rdf:resource="https://demo.datos.gob.es/es/catalogo/l01280796-anemometros-externos-en-via-publica-de-fuentes-y-tuneles"/>
+       
+        <dcat:qualifiedRelation>
+          <dcat:Relationship>
+            <dcterms:relation rdf:resource="https://demo.datos.gob.es/es/catalogo/l01280796-anemometros-externos-en-via-publica-de-fuentes-y-tuneles" />
+            <dcat:hadRole rdf:resource="https://standards.iso.org/iso/19115/resources/Codelists/gml/CI_RoleCode.xml#resourceProvider" />
+          </dcat:Relationship>
+        </dcat:qualifiedRelation>
 
         <dct:source rdf:resource="https://demo.datos.gob.es/es/catalogo/l01280796-fuentes-de-agua-para-beber"/>
         
@@ -131,4 +140,4 @@
   
   
 
-</rdf:RDF>>
+</rdf:RDF>
