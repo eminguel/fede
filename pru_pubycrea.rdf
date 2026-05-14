@@ -100,10 +100,9 @@
           </prov:Attribution>
         </prov:qualifiedAttribution>
 
-        <dct:source rdf:resource="http://dcat-ap-es.ejemplo.org/dataset_version"/>
         <dct:relation rdf:resource="http://dcat-ap-es.ejemplo.org/dataset_version"/>
-        <dct:isVersionOf rdf:resource="http://dcat-ap-es.ejemplo.org/dataset_version"/>
-        <dct:hasVersion rdf:resource="http://dcat-ap-es.ejemplo.org/dataset_version"/>
+        <dct:source rdf:resource="http://dcat-ap-es.ejemplo.org/dataset_version"/>
+  
         <dcat:qualifiedRelation>
           <dcat:Relationship>
             <dct:relation rdf:resource="http://dcat-ap-es.ejemplo.org/dataset_version"/>
@@ -111,6 +110,9 @@
           </dcat:Relationship>
         </dcat:qualifiedRelation>
 
+        <dct:isVersionOf rdf:resource="http://dcat-ap-es.ejemplo.org/dataset_version"/>
+        <dct:hasVersion rdf:resource="http://dcat-ap-es.ejemplo.org/dataset_version"/>
+        
         <dcat:distribution>
           <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-CSV">
             <dct:title xml:lang="es">Distribucion CSV</dct:title>
