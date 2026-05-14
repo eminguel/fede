@@ -106,7 +106,7 @@
         <dcat:hasVersion rdf:resource="http://dcat-ap-es.ejemplo.org/dataset_version"/>
         <dcat:qualifiedRelation>
           <dcat:Relationship>
-            <dct:relation rdf:resource="http://dcat-ap-es.ejemplo.org/dataset_version" />
+            <dct:relation rdf:resource="http://dcat-ap-es.ejemplo.org/dataset_version"/>
             <dcat:hadRole rdf:resource="https://standards.iso.org/iso/19115/resources/Codelists/gml/CI_RoleCode.xml#resourceProvider" />
           </dcat:Relationship>
         </dcat:qualifiedRelation>
