@@ -102,8 +102,8 @@
 
         <dct:source rdf:resource="http://dcat-ap-es.ejemplo.org/dataset_version"/>
         <dct:relation rdf:resource="http://dcat-ap-es.ejemplo.org/dataset_version"/>
-        <dcat:isVersionOf rdf:resource="http://dcat-ap-es.ejemplo.org/dataset_version"/>
-        <dcat:hasVersion rdf:resource="http://dcat-ap-es.ejemplo.org/dataset_version"/>
+        <dct:isVersionOf rdf:resource="http://dcat-ap-es.ejemplo.org/dataset_version"/>
+        <dct:hasVersion rdf:resource="http://dcat-ap-es.ejemplo.org/dataset_version"/>
         <dcat:qualifiedRelation>
           <dcat:Relationship>
             <dct:relation rdf:resource="http://dcat-ap-es.ejemplo.org/dataset_version"/>
