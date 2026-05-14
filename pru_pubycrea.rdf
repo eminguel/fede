@@ -138,7 +138,7 @@
     <dcat:dataset>
       <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset_version">
         <dct:title xml:lang="es">Dataset de ejemplo EEE version</dct:title>
-        <dct:description xml:lang="es">Descripción de un dataset de ejemplo EEE</dct:description>
+        <dct:description xml:lang="es">Descripción de un dataset version de ejemplo EEE</dct:description>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dcat:keyword xml:lang="es">estadísticas</dcat:keyword>
@@ -164,7 +164,7 @@
             <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/dir/2007/2/2019-06-26"/>
             <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
             <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1024</dcat:byteSize>
-			<dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/> 
+			      <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/> 
           </dcat:Distribution>
         </dcat:distribution>
 		
@@ -172,7 +172,6 @@
     </dcat:dataset>		
 		
   </dcat:Catalog>
-  
   
 
 </rdf:RDF>
