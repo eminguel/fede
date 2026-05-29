@@ -43,6 +43,10 @@
               </dct:IMT>
             </dct:format>
             <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1024</dcat:byteSize>
+
+            <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/RESTRICTED"/>
+
+            
           </dcat:Distribution>
         </dcat:distribution>
 
