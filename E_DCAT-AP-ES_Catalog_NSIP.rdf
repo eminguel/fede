@@ -327,7 +327,7 @@
         <dcat:downloadURL rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/solicitud-acceso/datos-agregados-xlsx.xlsx"/>
         <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34567890</dcat:byteSize>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XLSX"/>
-        <dct:rights rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/licencias/uso-ejemplo-analisis"/>
+        <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/RESTRICTED"/>
         <dct:title xml:lang="es">Datos Agregados 2018-2024 - Formato Excel de Ejemplo</dct:title>
         <dct:title xml:lang="en">Aggregated Data 2018-2024 - Example Excel Format</dct:title>
         <dct:description xml:lang="es">Archivo Excel de ejemplo con múltiples hojas organizadas por año y sector. Incluye tablas dinámicas ficticias pre-configuradas.  Únicamente para demostración.</dct:description>
