@@ -130,6 +130,7 @@
                 <rdfs:label>COG_label</rdfs:label>
               </dct:IMT>
               </dct:format>
+            <adms:status rdf:resource="http://publications.europa.eu/resource/authority/distribution-status/COMPLETED"/>
           </dcat:Distribution>
         </dcat:distribution>
 
