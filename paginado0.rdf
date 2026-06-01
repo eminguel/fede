@@ -35,7 +35,7 @@
 
     <dcat:dataset>
       <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset_paginado0">
-        <dct:title xml:lang="es">Dataset de ejemplo EEE paginado0r</dct:title>
+        <dct:title xml:lang="es">Dataset de ejemplo EEE paginado0</dct:title>
         <dct:description xml:lang="es">Descripción paginado0</dct:description>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
