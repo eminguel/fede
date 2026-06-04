@@ -13,7 +13,7 @@
          xmlns:odrl="http://www.w3.org/ns/odrl/2/">
 
   <dcat:Catalog rdf:about="http://dcat-ap-es.ejemplo.org">
-    <dct:title xml:lang="es">Catálogo de Datos Abiertos</dct:title>
+    <dct:title xml:lang="es">Catálogo de Datos Abiertos Aporta</dct:title>
     <dct:description xml:lang="es">Catálogo de Datos Abiertos que sirve de ejemplo en DCAT-AP-ES.</dct:description>
     <foaf:homepage rdf:resource="http://dcat-ap-es.ejemplo.org/home"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
@@ -34,18 +34,51 @@
         <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
         <dcat:contactPoint>
           <vcard:Organization>
-            <vcard:organization-name xml:lang="es">OrganismoContacto</vcard:organization-name>
-            <vcard:fn xml:lang="es">Oficina del dato</vcard:fn>
-            <vcard:hasURL rdf:resource="http://dcat-ap-es.ejemplo.org/oficinadeldato"/>
+            <vcard:organization-name xml:lang="es">Coordinación Iniciativa Aporta</vcard:organization-name>
+            <vcard:fn xml:lang="es">Coordinación Iniciativa Aporta</vcard:fn>
+            <vcard:hasURL rdf:resource="http://dcat-ap-es.ejemplo.org/aporta"/>
             <vcard:hasUID rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
-            <vcard:hasEmail rdf:resource="mailto:info-contacto@dcat-ap-es.ejemplo.org"/>
-            <vcard:hasTelephone rdf:resource="tel:.+3491222222"/>
+            <vcard:hasEmail rdf:resource="mailto:info-contacto@aporta"/>
+            <vcard:hasTelephone rdf:resource="tel:.+3491111111"/>
           </vcard:Organization>
         </dcat:contactPoint>
 
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/aporta/distribucion-CSV">
+            <dct:title xml:lang="es">Distribucion CSV</dct:title>
+            <dct:description xml:lang="es">Descripción de distribucion csv</dct:description>
+            <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-ejemplo-1.CSV"/>
+            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/> 
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+            <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/dir/2007/2/2019-06-26"/>
+            <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1024</dcat:byteSize>
+          </dcat:Distribution>
+        </dcat:distribution>
+      </dcat:Dataset>
+
+      <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset_auditorio">
+        <dct:title xml:lang="es">Dataset de ejemplo EEE Aporta del Auditorio de Tenerife Adán Martín</dct:title>
+        <dct:description xml:lang="es">Descripción de un dataset de ejemplo EEE del Auditorio de Tenerife Adán Martín</dct:description>
+        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0002304"/>
+        <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
+        <dcat:keyword xml:lang="es">estadísticas</dcat:keyword>
+        <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
+        <dcat:contactPoint>
+          <vcard:Organization>
+            <vcard:organization-name xml:lang="es">Auditorio de Tenerife Adán Martín, S.A.</vcard:organization-name>
+            <vcard:fn xml:lang="es">Auditorio de Tenerife Adán Martín, S.A.</vcard:fn>
+            <vcard:hasURL rdf:resource="http://dcat-ap-es.ejemplo.org/auditorio"/>
+            <vcard:hasUID rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0002304"/>
+            <vcard:hasEmail rdf:resource="mailto:info-contacto@auditorio"/>
+            <vcard:hasTelephone rdf:resource="tel:.+3497888888"/>
+          </vcard:Organization>
+        </dcat:contactPoint>
+		
+		<dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0002304"/>
 
         <dcat:distribution>
-          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-CSV">
+          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/aporta/distribucion-CSV">
             <dct:title xml:lang="es">Distribucion CSV</dct:title>
             <dct:description xml:lang="es">Descripción de distribucion csv</dct:description>
             <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-ejemplo-1.CSV"/>
@@ -58,11 +91,13 @@
         </dcat:distribution>
 
       </dcat:Dataset>
+	  
     </dcat:dataset>
 
   </dcat:Catalog>
-  
-    <dcat:Catalog rdf:about="http://dcat-ap-es.ejemplo2.org">
+
+
+  <dcat:Catalog rdf:about="http://dcat-ap-es.ejemplo2.org">
     <dct:title xml:lang="es">Catálogo de Datos Abiertos RED.ES</dct:title>
     <dct:description xml:lang="es">Catálogo de Datos Abiertos que sirve de ejemplo en  RED.ES.</dct:description>
     <foaf:homepage rdf:resource="http://dcat-ap-es.ejemplo.org/homeredes"/>
@@ -84,18 +119,18 @@
         <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
         <dcat:contactPoint>
           <vcard:Organization>
-            <vcard:organization-name xml:lang="es">OrganismoContacto</vcard:organization-name>
-            <vcard:fn xml:lang="es">Oficina del dato</vcard:fn>
-            <vcard:hasURL rdf:resource="http://dcat-ap-es.ejemplo.org/oficinadeldato"/>
+            <vcard:organization-name xml:lang="es">Entidad Pública Empresarial Red.es</vcard:organization-name>
+            <vcard:fn xml:lang="es">Entidad Pública Empresarial Red.es</vcard:fn>
+            <vcard:hasURL rdf:resource="http://dcat-ap-es.ejemplo.org/redes"/>
             <vcard:hasUID rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
-            <vcard:hasEmail rdf:resource="mailto:info-contacto@dcat-ap-es.ejemplo.org"/>
+            <vcard:hasEmail rdf:resource="mailto:info-contacto@red.es"/>
             <vcard:hasTelephone rdf:resource="tel:.+3491222222"/>
           </vcard:Organization>
         </dcat:contactPoint>
 
 
         <dcat:distribution>
-          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-CSV">
+          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/redes/distribucion-CSV">
             <dct:title xml:lang="es">Distribucion CSV</dct:title>
             <dct:description xml:lang="es">Descripción de distribucion csv</dct:description>
             <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-ejemplo-1.CSV"/>
