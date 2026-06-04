@@ -97,13 +97,8 @@
           </dcat:Distribution>
         </dcat:distribution>
 
-      </dcat:Dataset>
-	  
-    </dcat:dataset>
-
-  </dcat:Catalog>
-
-
-
-
+		</dcat:Dataset>
+	</dcat:dataset>
+  
+</dcat:Catalog>
 </rdf:RDF>
