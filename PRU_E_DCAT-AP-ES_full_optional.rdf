@@ -146,6 +146,7 @@
     <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.0</dcat:spatialResolutionInMeters>
     <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT1M</dcat:temporalResolution>
     <dc:isReferencedBy rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
+    <dc:isReferencedBy rdf:resource="//ea0041513-demandantes-de-empleo-por-municipio"/>
     <dc:provenance rdf:resource="http://dcat-ap-es.ejemplo.org/provenance/statement1"/>
     <prov:qualifiedAttribution>
       <prov:Attribution>
@@ -176,6 +177,10 @@
     <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-01-20T12:00:00+01:00</prov:endedAtTime>
   </prov:Activity>
 
+  <dcat:hasVersion rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
+  <dcat:hasVersion rdf:resource="//ea0041513-demandantes-de-empleo-por-municipio"/>
+  <dcat:isVersionOf rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-3"/>
+
   <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-ejemplo-1-CSV">
     <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/distribucion/dataset-ejemplo-1-CSV/files/1T2p3o4B.CSV"/>
     <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/dir/2007/2/2019-06-26"/>
@@ -205,8 +210,6 @@
         <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
       </spdx:Checksum>
     </spdx:checksum>
-    <dcat:hasVersion rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
-    <dcat:isVersionOf rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-3"/>
     <odrl:hasPolicy rdf:resource="http://publications.europa.eu/resource/authority/access-right/SENSITIVE"/>
     <dc:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/CONFIDENTIAL"/>
   </dcat:Distribution>
