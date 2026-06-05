@@ -144,7 +144,7 @@
     </dcat:qualifiedRelation>
 
     <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.0</dcat:spatialResolutionInMeters>
-    <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">1440</dcat:temporalResolution>
+    <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT1M</dcat:temporalResolution>
     <dc:isReferencedBy rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
     <dc:provenance rdf:resource="http://dcat-ap-es.ejemplo.org/provenance/statement1"/>
     <prov:qualifiedAttribution>
@@ -199,7 +199,7 @@
     <dcat:packageFormat rdf:resource="http://www.iana.org/assignments/media-types/application/json"/>
     <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1000</dcat:byteSize>
     <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">199.0</dcat:spatialResolutionInMeters>
-    <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT99M</dcat:temporalResolution>
+    <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT2M</dcat:temporalResolution>
     <spdx:checksum>
       <spdx:Checksum>
         <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">4304CF2E751E6053C90B1804C89C0EBB758F395A</spdx:checksumValue>
@@ -248,7 +248,7 @@
     </dcat:qualifiedRelation>
 
     <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.0</dcat:spatialResolutionInMeters>
-    <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT24M</dcat:temporalResolution>
+    <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT3M</dcat:temporalResolution>
     <dc:isReferencedBy rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-3"/>
     <dc:provenance rdf:resource="http://dcat-ap-es.ejemplo.org/provenance/statement1"/>
     <prov:qualifiedAttribution>
@@ -282,7 +282,7 @@
         <dcat:packageFormat rdf:resource="http://www.iana.org/assignments/media-types/application/json"/>
         <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2000</dcat:byteSize>
         <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">299.0</dcat:spatialResolutionInMeters>
-        <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT99M</dcat:temporalResolution>
+        <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT4M</dcat:temporalResolution>
         <spdx:checksum>
           <spdx:Checksum>
             <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">4304CF2E751E6053C90B1804C89C0EBB758F395A</spdx:checksumValue>
@@ -334,7 +334,7 @@
     </dcat:qualifiedRelation>
 
     <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.0</dcat:spatialResolutionInMeters>
-    <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT24M</dcat:temporalResolution>
+    <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT5M</dcat:temporalResolution>
     <dc:isReferencedBy rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1"/>
     <dc:provenance rdf:resource="http://dcat-ap-es.ejemplo.org/provenance/statement1"/>
     <prov:qualifiedAttribution>
@@ -368,7 +368,7 @@
         <dcat:packageFormat rdf:resource="http://www.iana.org/assignments/media-types/application/json"/>
         <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">3000</dcat:byteSize>
         <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">399.0</dcat:spatialResolutionInMeters>
-        <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT99M</dcat:temporalResolution>
+        <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT6M</dcat:temporalResolution>
         <spdx:checksum>
           <spdx:Checksum>
             <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">4304CF2E751E6053C90B1804C89C0EBB758F395A</spdx:checksumValue>
