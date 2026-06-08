@@ -380,9 +380,15 @@
     <prov:wasGeneratedBy rdf:resource="http://dcat-ap-es.ejemplo.org/actividad/generacion-dataset"/>
 
     <dcat:hasVersion rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
-    <dcat:hasVersion rdf:resource="//ea0041513-demandantes-de-empleo-por-municipio"/>
+    <dcat:hasVersion rdf:resource="https://datos.madrid.es/dataset/526874-0-emt-aparcabicicletas-emt"/>
     <dcat:isVersionOf rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-3"/>
   
+    <dcterms:isReferencedBy rdf:resource="https://datos.madrid.es/dataset/900033-0-emt-aparcamientos"/>
+    <rdf:Description rdf:about="https://datos.madrid.es/dataset/900033-0-emt-aparcamientos">
+          <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    </rdf:Description>
+  
+
     <dc:source rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-raiz-ejemplo-1"/>
     <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
     <dcat:distribution rdf:resource="http://dcat-ap-es.ejemplo.org/distribucion/dataset-ejemplo-1-CSV"/>
