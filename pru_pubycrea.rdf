@@ -103,12 +103,10 @@ Tercera línea.</dct:description>
         </prov:qualifiedAttribution>
 
         <dct:relation rdf:resource="http://dcat-ap-es.ejemplo.org/dataset_version"/>
-        <dcterms:isReferencedBy rdf:resource="https://www.miteco.gob.es/es/energia/estrategia-normativa/balances/balances/informe-balance-energetico-de-espana.html"/>
-        <rdf:Description rdf:about="https://www.miteco.gob.es/es/energia/estrategia-normativa/balances/balances/informe-balance-energetico-de-espana.html">
-          <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
-        </rdf:Description>
+
         <dct:source rdf:resource="http://dcat-ap-es.ejemplo.org/dataset_version"/>
   
+
         <dcat:qualifiedRelation>
           <dcat:Relationship>
             <dct:relation rdf:resource="http://dcat-ap-es.ejemplo.org/dataset_version"/>
