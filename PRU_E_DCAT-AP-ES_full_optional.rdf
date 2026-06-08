@@ -365,10 +365,11 @@
       </dcat:Relationship>
     </dcat:qualifiedRelation>
 
+    <dct:relation rdf:resource="https://mptmd.gob.es/portal/politica-territorial/autonomica/regimen_juridico"/>
+
     <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.0</dcat:spatialResolutionInMeters>
     <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT1M</dcat:temporalResolution>
     <dc:isReferencedBy rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
-    <dc:isReferencedBy rdf:resource="//ea0041513-demandantes-de-empleo-por-municipio"/>
     <dc:provenance rdf:resource="http://dcat-ap-es.ejemplo.org/provenance/statement1"/>
     <prov:qualifiedAttribution>
       <prov:Attribution>
@@ -379,14 +380,11 @@
 
     <prov:wasGeneratedBy rdf:resource="http://dcat-ap-es.ejemplo.org/actividad/generacion-dataset"/>
 
-    <dcat:hasVersion rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
-    <dcat:hasVersion rdf:resource="https://datos.madrid.es/dataset/526874-0-emt-aparcabicicletas-emt"/>
-    <dcat:isVersionOf rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-3"/>
+    <dcat:hasVersion rdf:dataset="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
+    <dcat:hasVersion rdf:dataset="https://datos.madrid.es/dataset/526874-0-emt-aparcabicicletas-emt"/>
+    <dcat:isVersionOf rdf:dataset="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-3"/>
   
     <dcterms:isReferencedBy rdf:resource="https://datos.madrid.es/dataset/900033-0-emt-aparcamientos"/>
-    <rdf:Description rdf:about="https://datos.madrid.es/dataset/900033-0-emt-aparcamientos">
-          <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
-    </rdf:Description>
   
 
     <dc:source rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-raiz-ejemplo-1"/>
