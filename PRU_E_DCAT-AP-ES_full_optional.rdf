@@ -107,7 +107,7 @@
 
   </dcat:Catalog>
 
-  <dcat:CatalogRecord rdf:about="http://dcat-ap-es.ejemplo.org/catalogo/record/dataset-ejemplo-1">
+  <dcat:CatalogRecord rdf:about="http://dcat-ap-es.ejemplo.org/CatalogRecord">
     <foaf:primaryTopic rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1"/>
     <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-02T12:00:00+01:00</dc:modified>
     <dc:conformsTo rdf:resource="http://datos.gob.es/es/documentacion/DCAT-AP-ES"/>
@@ -191,7 +191,7 @@
 
 
       <dc:hasVersion>
-        <dcat:Dataset rdf:about="https://datos.madrid.es/dataset/208223-0-trafico-intensidad-tramas"/>
+        <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
       </dc:hasVersion>
 
       <dc:hasVersion rdf:resource="https://datos.madrid.es/dataset/202087-0-trafico-intensidad"/>
