@@ -193,6 +193,10 @@
       <dcat:hasVersion>
         <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
       </dcat:hasVersion>
+      
+      <dc:hasVersion>
+        <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
+      </dc:hasVersion>
 
     <dc:source rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-raiz-ejemplo-1"/>
     <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
