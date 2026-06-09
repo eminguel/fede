@@ -222,25 +222,11 @@
     <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
     <foaf:page rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2/page"/>
     <dcat:landingPage rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2/landing"/>
-    <adms:sample rdf:resource="http://dcat-ap-es.ejemplo.org/distribucion/dataset-ejemplo-1-CSV"/>
     <dct:conformsTo rdf:resource="http://normativaespecifica-dataset.com"/>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-01-01T12:00:00+01:00</dct:issued>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-01T12:00:00+01:00</dct:modified>
     <dct:type rdf:resource="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
-    <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/MONTHLY"/>
-    <dcat:version>2</dcat:version>
-    <adms:versionNotes xml:lang="es">Version 2</adms:versionNotes>
-    <dcat:qualifiedRelation>
-      <dcat:Relationship>
-        <dct:relation rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-3"/>
-        <dct:type rdf:resource="http://www.w3.org/ns/dcat#isReferencedBy"/>
-        <dcat:hadRole rdf:resource="http://purl.org/dc/terms/references"/>
-      </dcat:Relationship>
-    </dcat:qualifiedRelation>
-
-    <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">200.0</dcat:spatialResolutionInMeters>
-    <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">20.0</dcat:temporalResolution>
     <dct:isReferencedBy rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-3"/>
     <dct:provenance rdf:resource="http://dcat-ap-es.ejemplo.org/provenance/statement1"/>
     <prov:qualifiedAttribution>
@@ -270,20 +256,6 @@
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-01-06T12:00:00+01:00</dct:modified>
         <adms:status rdf:resource="http://publications.europa.eu/resource/authority/distribution-status/COMPLETED"/>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
-        <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
-        <dcat:packageFormat rdf:resource="http://www.iana.org/assignments/media-types/application/json"/>
-        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2000</dcat:byteSize>
-        <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">200.0</dcat:spatialResolutionInMeters>
-        <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">20</dcat:temporalResolution>
-        <spdx:checksum>
-          <spdx:Checksum>
-            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">4304CF2E751E6053C90B1804C89C0EBB758F395A</spdx:checksumValue>
-            <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-          </spdx:Checksum>
-        </spdx:checksum>
-
-        <odrl:hasPolicy rdf:resource="http://publications.europa.eu/resource/authority/access-right/SENSITIVE"/>
-        <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/CONFIDENTIAL"/>
       </dcat:Distribution>
     </dcat:distribution>
   </dcat:Dataset>
@@ -307,25 +279,11 @@
     <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
     <foaf:page rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-3/page"/>
     <dcat:landingPage rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-3/landing"/>
-    <adms:sample rdf:resource="http://dcat-ap-es.ejemplo.org/distribucion/dataset-ejemplo-1-CSV"/>
     <dct:conformsTo rdf:resource="http://normativaespecifica-dataset.com"/>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-01-01T12:00:00+01:00</dct:issued>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-01T12:00:00+01:00</dct:modified>
     <dct:type rdf:resource="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
-    <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/MONTHLY"/>
-    <dcat:version>3</dcat:version>
-    <adms:versionNotes xml:lang="es">Version 3</adms:versionNotes>
-    <dcat:qualifiedRelation>
-      <dcat:Relationship>
-        <dct:relation rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1"/>
-        <dct:type rdf:resource="http://www.w3.org/ns/dcat#isReferencedBy"/>
-        <dcat:hadRole rdf:resource="http://purl.org/dc/terms/references"/>
-      </dcat:Relationship>
-    </dcat:qualifiedRelation>
-
-    <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">500.0</dcat:spatialResolutionInMeters>
-    <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">50</dcat:temporalResolution>
     <dct:isReferencedBy rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1"/>
     <dct:provenance rdf:resource="http://dcat-ap-es.ejemplo.org/provenance/statement1"/>
     <prov:qualifiedAttribution>
@@ -355,20 +313,6 @@
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-01-06T12:00:00+01:00</dct:modified>
         <adms:status rdf:resource="http://publications.europa.eu/resource/authority/distribution-status/COMPLETED"/>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
-        <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
-        <dcat:packageFormat rdf:resource="http://www.iana.org/assignments/media-types/application/json"/>
-        <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">3000</dcat:byteSize>
-        <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">600.0</dcat:spatialResolutionInMeters>
-        <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">60</dcat:temporalResolution>
-        <spdx:checksum>
-          <spdx:Checksum>
-            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">4304CF2E751E6053C90B1804C89C0EBB758F395A</spdx:checksumValue>
-            <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
-          </spdx:Checksum>
-        </spdx:checksum>
-
-        <odrl:hasPolicy rdf:resource="http://publications.europa.eu/resource/authority/access-right/SENSITIVE"/>
-        <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/CONFIDENTIAL"/>
       </dcat:Distribution>
     </dcat:distribution>
   </dcat:Dataset>
