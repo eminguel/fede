@@ -114,7 +114,7 @@
     <dct:title xml:lang="es">Registro del Dataset de ejemplo 1</dct:title>
     <dct:description xml:lang="es">Registro de metadatos del Dataset de ejemplo 1 del Catálogo de Datos Abiertos</dct:description>
   </dcat:CatalogRecord>
-  
+
   </dcat:Catalog>
 
 
@@ -240,7 +240,7 @@
     </dcat:qualifiedRelation>
 
     <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">200.0</dcat:spatialResolutionInMeters>
-    <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">20</dcat:temporalResolution>
+    <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">20.0</dcat:temporalResolution>
     <dct:isReferencedBy rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-3"/>
     <dct:provenance rdf:resource="http://dcat-ap-es.ejemplo.org/provenance/statement1"/>
     <prov:qualifiedAttribution>
