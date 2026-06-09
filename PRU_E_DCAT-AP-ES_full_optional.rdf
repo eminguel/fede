@@ -191,8 +191,10 @@
 
 
       <dc:hasVersion>
-        <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
+        <dcat:Dataset rdf:about="https://datos.madrid.es/dataset/208223-0-trafico-intensidad-tramas"/>
       </dc:hasVersion>
+
+      <dc:hasVersion rdf:resource="https://datos.madrid.es/dataset/202087-0-trafico-intensidad"/>
 
     <dc:source rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-raiz-ejemplo-1"/>
     <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
