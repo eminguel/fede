@@ -188,12 +188,8 @@
 
     <prov:wasGeneratedBy rdf:resource="http://dcat-ap-es.ejemplo.org/actividad/generacion-dataset"/>
 
-  
 
-      <dcat:hasVersion>
-        <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
-      </dcat:hasVersion>
-      
+
       <dc:hasVersion>
         <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
       </dc:hasVersion>
