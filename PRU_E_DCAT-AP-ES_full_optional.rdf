@@ -188,12 +188,11 @@
 
     <prov:wasGeneratedBy rdf:resource="http://dcat-ap-es.ejemplo.org/actividad/generacion-dataset"/>
 
-    <dcat:hasVersion rdf:dataset="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
-    <dcat:hasVersion rdf:dataset="https://datos.madrid.es/dataset/526874-0-emt-aparcabicicletas-emt"/>
-    <dcat:isVersionOf rdf:dataset="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-3"/>
   
 
-  
+      <dcat:hasVersion>
+        <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
+      </dcat:hasVersion>
 
     <dc:source rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-raiz-ejemplo-1"/>
     <dc:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
