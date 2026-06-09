@@ -162,8 +162,8 @@
     <dc:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/MONTHLY"/>
     <dcat:version>1</dcat:version>
     <adms:versionNotes xml:lang="es">Version 1</adms:versionNotes>
-    <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.0</dcat:spatialResolutionInMeters>
-    <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT1M</dcat:temporalResolution>
+    <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">100.0</dcat:spatialResolutionInMeters>
+    <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">10</dcat:temporalResolution>
     <dc:provenance rdf:resource="http://dcat-ap-es.ejemplo.org/provenance/statement1"/>
 	
     <dcat:qualifiedRelation>
@@ -191,7 +191,7 @@
 
 
       <dc:hasVersion>
-        <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
+        <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-3"/>
       </dc:hasVersion>
 
       <dc:hasVersion rdf:resource="https://datos.madrid.es/dataset/202087-0-trafico-intensidad"/>
@@ -237,8 +237,8 @@
       </dcat:Relationship>
     </dcat:qualifiedRelation>
 
-    <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.0</dcat:spatialResolutionInMeters>
-    <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT3M</dcat:temporalResolution>
+    <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">200.0</dcat:spatialResolutionInMeters>
+    <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">20</dcat:temporalResolution>
     <dc:isReferencedBy rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-3"/>
     <dc:provenance rdf:resource="http://dcat-ap-es.ejemplo.org/provenance/statement1"/>
     <prov:qualifiedAttribution>
@@ -271,8 +271,8 @@
         <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
         <dcat:packageFormat rdf:resource="http://www.iana.org/assignments/media-types/application/json"/>
         <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2000</dcat:byteSize>
-        <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">299.0</dcat:spatialResolutionInMeters>
-        <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT4M</dcat:temporalResolution>
+        <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">200.0</dcat:spatialResolutionInMeters>
+        <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">20</dcat:temporalResolution>
         <spdx:checksum>
           <spdx:Checksum>
             <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">4304CF2E751E6053C90B1804C89C0EBB758F395A</spdx:checksumValue>
@@ -322,8 +322,8 @@
       </dcat:Relationship>
     </dcat:qualifiedRelation>
 
-    <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.0</dcat:spatialResolutionInMeters>
-    <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT5M</dcat:temporalResolution>
+    <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">500.0</dcat:spatialResolutionInMeters>
+    <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">50</dcat:temporalResolution>
     <dc:isReferencedBy rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1"/>
     <dc:provenance rdf:resource="http://dcat-ap-es.ejemplo.org/provenance/statement1"/>
     <prov:qualifiedAttribution>
@@ -356,8 +356,8 @@
         <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
         <dcat:packageFormat rdf:resource="http://www.iana.org/assignments/media-types/application/json"/>
         <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">3000</dcat:byteSize>
-        <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">399.0</dcat:spatialResolutionInMeters>
-        <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT6M</dcat:temporalResolution>
+        <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">600.0</dcat:spatialResolutionInMeters>
+        <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">60</dcat:temporalResolution>
         <spdx:checksum>
           <spdx:Checksum>
             <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">4304CF2E751E6053C90B1804C89C0EBB758F395A</spdx:checksumValue>
@@ -394,8 +394,8 @@
     <dcat:compressFormat rdf:resource="http://www.iana.org/assignments/media-types/application/gzip"/>
     <dcat:packageFormat rdf:resource="http://www.iana.org/assignments/media-types/application/json"/>
     <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1000</dcat:byteSize>
-    <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">199.0</dcat:spatialResolutionInMeters>
-    <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT2M</dcat:temporalResolution>
+    <dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">200.0</dcat:spatialResolutionInMeters>
+    <dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">20</dcat:temporalResolution>
     <spdx:checksum>
       <spdx:Checksum>
         <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">4304CF2E751E6053C90B1804C89C0EBB758F395A</spdx:checksumValue>
