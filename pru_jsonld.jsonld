@@ -21,15 +21,15 @@
       "@type": "dcat:Catalog",
       "dct:publisher": [
         {
-          "@id": "http://datos.gob.es/recurso/sector-publico/org/Organismo/E05234801",
+          "@id": "http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001",
           "@type": "foaf:Agent",
-          "dct:identifier": "http://datos.gob.es/recurso/sector-publico/org/Organismo/E05234801",
+          "dct:identifier": "http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001",
           "dct:type": {
             "@id": "http://purl.org/adms/publishertype/NationalAuthority"
           },
           "foaf:name": [
             {
-              "@value": "Ministerio de Economía, Comercio y Empresa",
+              "@value": "Aporta",
               "@language": "es"
             }
           ]
@@ -76,77 +76,50 @@
       ],
       "dcat:dataset": [
         {
-          "@id": "https://datos.organismo.es/dataset/E05234801-1"
+          "@id": "https://datos.organismo.es/dataset/dataset-ejemplojsonld"
         },
-        {
-          "@id": "https://datos.organismo.es/dataset/E05234801-2"
-        },
-        {
-          "@id": "https://datos.organismo.es/dataset/E05234801-3"
-        },
-        {
-          "@id": "https://datos.organismo.es/dataset/E05234801-4"
-        },
-        {
-          "@id": "https://datos.organismo.es/dataset/E05234801-5"
-        },
-        {
-          "@id": "https://datos.organismo.es/dataset/E05234801-6"
-        },
-        {
-          "@id": "https://datos.organismo.es/dataset/E05234801-7"
-        },
-        {
-          "@id": "https://datos.organismo.es/dataset/E05234801-8"
-        },
-        {
-          "@id": "https://datos.organismo.es/dataset/E05234801-9"
-        },
-        {
-          "@id": "https://datos.organismo.es/dataset/E05234801-10"
-        }
       ]
     },
     {
       "@type": "dcat:Dataset",
-      "@id": "https://datos.organismo.es/dataset/E05234801-1",
+      "@id": "https://datos.organismo.es/dataset/dataset-ejemplojsonld",
       "dct:publisher": [
         {
-          "@id": "http://datos.gob.es/recurso/sector-publico/org/Organismo/E05234801",
+          "@id": "http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001",
           "@type": "foaf:Agent",
-          "dct:identifier": "http://datos.gob.es/recurso/sector-publico/org/Organismo/E05234801",
+          "dct:identifier": "http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001",
           "dct:type": {
             "@id": "http://purl.org/adms/publishertype/NationalAuthority"
           },
           "foaf:name": [
             {
-              "@value": "Ministerio de Economía, Comercio y Empresa",
+              "@value": "Aporta",
               "@language": "es"
             }
           ]
         }
       ],
       "dct:title": {
-        "@value": "Nombre CjtoDato 1",
+        "@value": "dataset ejemplojsonld",
         "@language": "es"
       },
       "dct:creator": [
         {
           "@type": "foaf:Agent",
-          "dct:identifier": "http://datos.gob.es/recurso/sector-publico/org/Organismo/E05234801",
+          "dct:identifier": "http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001",
           "dct:type": {
             "@id": "http://purl.org/adms/publishertype/NationalAuthority"
           },
           "foaf:name": [
             {
-              "@value": "Ministerio de Economía, Comercio y Empresa",
+              "@value": "Aporta",
               "@language": "es"
             }
           ]
         }
       ],
       "dct:description": {
-        "@value": "Descripción Conjunto de Datos 1",
+        "@value": "Descripción dataset ejemplojsonld",
         "@language": "es"
       },
       "dct:accessRights": {
@@ -176,7 +149,7 @@
         "@id": "http://publications.europa.eu/resource/authority/language/SPA"
       },
       "foaf:page": {
-        "@id": "http://documentacion1.es"
+        "@id": "http://dataset_ejemplojsonld.es"
       },
       "dct:accrualPeriodicity": {
         "@id": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN"
@@ -225,13 +198,13 @@
           "@type": "vcard:Kind",
           "vcard:organization-name": [
             {
-              "@value": "Ministerio de Economía, Comercio y Empresa",
+              "@value": "Aporta",
               "@language": "es"
             }
           ],
           "vcard:hasUID": [
             {
-              "@id": "E05234801"
+              "@id": "E0DAT0001"
             }
           ],
           "vcard:fn": [
@@ -242,7 +215,7 @@
           ],
           "vcard:hasEmail": [
             {
-              "@id": "mailto:test1@economia.gob.es"
+              "@id": "mailto:test@gob.es"
             }
           ],
           "vcard:hasTelephone": [
@@ -252,7 +225,7 @@
           ],
           "vcard:hasURL": [
             {
-              "@id": "https://portal.mineco.gob.es/es-es/economiayempresa/EconomiaInformesMacro/Paginas/EconomiaInformesMacro.aspx"
+              "@id": "https://dataset_ejemplojsonld.es"
             }
           ]
         }
