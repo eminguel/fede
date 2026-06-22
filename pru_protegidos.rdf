@@ -36,7 +36,7 @@
             <dct:title xml:lang="es">Distribucion Datos Protegidos ejemplo. Formato CSV</dct:title>
             <dct:description xml:lang="es">Distribucion Datos Protegidos ejemplo. Formato CSV</dct:description>
             <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
-            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_NC_ND_4_0"/>
+            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
             <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
             <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
 
