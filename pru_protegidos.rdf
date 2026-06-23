@@ -81,7 +81,6 @@
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
     <dcat:endpointURL rdf:resource="http://api.dcat-ap-es.ejemplo.org/v1"/>
     <dcat:endpointDescription rdf:resource="http://api.dcat-ap-es.ejemplo.org/v1/openapi.json"/>
-    <dcat:servesDataset rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/dataset/datos-economicos-ejemplo"/>
     <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg/2022/868/oj"/>
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/RESTRICTED"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
