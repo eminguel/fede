@@ -58,7 +58,7 @@
 			<dcat:compressFormat rdf:resource="https://www.iana.org/assignments/media-types/application/gzip"/>
 			<dcat:packageFormat rdf:resource="https://www.iana.org/assignments/media-types/application/zip"/>
 			<dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.0</dcat:spatialResolutionInMeters>
-			<dcat:temporalResolution rdf:datatype="http://w3.org">PT30M</dcat:temporalResolution>
+			<dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">P1Y</dcat:temporalResolution>
 			<spdx:checksumValue>9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08</spdx:checksumValue>
             
           </dcat:Distribution>
