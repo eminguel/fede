@@ -68,10 +68,6 @@
 	        </spdx:checksum>
 			<odrl:hasPolicy rdf:resource="https://policy_protegidos"/>
 
-   <odrl:Policy rdf:about="https://policy_protegidos">
-    <rdf:type rdf:resource="http://w3.orgSet"/>
-    <dct:title xml:lang="es">Política de datos protegidos</dct:title>
-  </odrl:Policy>
 
           </dcat:Distribution>
         </dcat:distribution>
