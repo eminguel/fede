@@ -7,6 +7,7 @@
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
 		 xmlns:adms="http://www.w3.org/ns/adms#"
 		 xmlns:spdx="http://spdx.org/rdf/terms#"
+		 xmlns:odrl="http://www.w3.org/ns/odrl/2/"
          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 
   <dcat:Catalog rdf:about="http://nsip.dcat-ap-es.ejemplo.org/catalogo-protegido">
@@ -65,7 +66,13 @@
 	            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">A1B2C3D4E5F6789012345678901234567890ABCD</spdx:checksumValue>
 	          </spdx:Checksum>
 	        </spdx:checksum>
-            
+			<odrl:hasPolicy rdf:resource="https://policy_protegidos"/>
+
+   <odrl:Policy rdf:about="https://policy_protegidos">
+    <rdf:type rdf:resource="http://w3.orgSet"/>
+    <dct:title xml:lang="es">Política de datos protegidos</dct:title>
+  </odrl:Policy>
+
           </dcat:Distribution>
         </dcat:distribution>
       </dcat:Dataset>
