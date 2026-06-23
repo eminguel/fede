@@ -5,6 +5,7 @@
          xmlns:dcatap="http://data.europa.eu/r5r/"
          xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
+		 xmlns:adms="http://www.w3.org/ns/adms#"
          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 
   <dcat:Catalog rdf:about="http://nsip.dcat-ap-es.ejemplo.org/catalogo-protegido">
@@ -33,7 +34,7 @@
       
         <dcat:distribution>
           <dcat:Distribution rdf:about="http://nsip.dcat-ap-es.ejemplo.org/dataset/datos-economicos-ejemplo/dist/csv">
-            <dcat:accessURL rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/solicitud-acceso/datos-economicos-csv"/>
+            <dcat:accessURL rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/solicitud-acceso/datos-economicos-csv/urlacceso"/>
 
             <dct:description xml:lang="es">Distribucion Datos Protegidos ejemplo. Formato CSV</dct:description>
 			<dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
@@ -47,8 +48,11 @@
 			<dct:title xml:lang="es">Distribucion Datos Protegidos ejemplo. Formato CSV</dct:title>
 			<foaf:page rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/dataset/datos-economicos-ejemplo/dist/page"/>
 			<dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/csv"/>
- 			<dcat:downloadURL rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/solicitud-acceso/datos-economicos-csv"/>
-
+ 			<dcat:downloadURL rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/solicitud-acceso/datos-economicos-csv/downloadurl"/>
+ 			<dct:conformsTo rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/solicitud-acceso/datos-economicos-csv/schema"/>
+			<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-01T09:00:00+01:00</dct:issued>
+       		<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-02T12:00:00+01:00</dct:modified>
+			<adms:status rdf:resource="http://publications.europa.eu/resource/authority/distribution-status/COMPLETED"/>
             <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
 
             
