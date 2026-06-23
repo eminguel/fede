@@ -6,6 +6,7 @@
          xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
 		 xmlns:adms="http://www.w3.org/ns/adms#"
+		 xmlns:spdx="http://spdx.org/rdf/terms#"
          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 
   <dcat:Catalog rdf:about="http://nsip.dcat-ap-es.ejemplo.org/catalogo-protegido">
