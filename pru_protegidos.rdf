@@ -68,6 +68,7 @@
 	        </spdx:checksum>
 			<odrl:hasPolicy rdf:resource="https://policy_protegidos"/>
 
+			<dcat:accessService rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/service/api-datos-protegidos"/>
 
           </dcat:Distribution>
         </dcat:distribution>
