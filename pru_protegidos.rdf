@@ -75,36 +75,39 @@
       </dcat:Dataset>
     </dcat:dataset>
 
-  <dcat:DataService rdf:about="http://nsip.dcat-ap-es.ejemplo.org/dataset/datos-economicos-ejemplo/dist/csv/servicio">
-    <dct:title xml:lang="es">Servicio</dct:title>
-    <dct:description xml:lang="es">Servicio</dct:description>
-    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
-    <dcat:endpointURL rdf:resource="http://api.dcat-ap-es.ejemplo.org/v1"/>
-    <dcat:endpointDescription rdf:resource="http://api.dcat-ap-es.ejemplo.org/v1/openapi.json"/>
-    <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg/2022/868/oj"/>
-    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/RESTRICTED"/>
-    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-    <dct:conformsTo rdf:resource="https://www.openapis.org/"/>
-    <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
-    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
-    <dcat:keyword xml:lang="es">API</dcat:keyword>
-    <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/sector-publico"/>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-01-01</dct:issued>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-12-18</dct:modified>
-    <dcat:contactPoint>
-      <vcard:Organization>
-        <vcard:fn xml:lang="es">Soporte Técnico API de Ejemplo</vcard:fn>
-        <vcard:hasEmail rdf:resource="mailto:api-soporte@ejemplo.org"/>
-        <vcard:hasTelephone rdf:resource="tel:+34-900444444"/>
-        <vcard:hasURL rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/soporte"/>
-        <vcard:hasUID rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
-        <vcard:organization-name xml:lang="es">Organización de Ejemplo</vcard:organization-name>
-      </vcard:Organization>
-    </dcat:contactPoint>
 
-    <dcat:landingPage rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/api"/>
-    <foaf:page rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/docs/api-reference"/>
-  </dcat:DataService>
+    <dcat:service>
+	  <dcat:DataService rdf:about="http://nsip.dcat-ap-es.ejemplo.org/dataset/datos-economicos-ejemplo/dist/csv/servicio">
+	    <dct:title xml:lang="es">Servicio</dct:title>
+	    <dct:description xml:lang="es">Servicio</dct:description>
+	    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+	    <dcat:endpointURL rdf:resource="http://api.dcat-ap-es.ejemplo.org/v1"/>
+	    <dcat:endpointDescription rdf:resource="http://api.dcat-ap-es.ejemplo.org/v1/openapi.json"/>
+	    <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg/2022/868/oj"/>
+	    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/RESTRICTED"/>
+	    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+	    <dct:conformsTo rdf:resource="https://www.openapis.org/"/>
+	    <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+	    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+	    <dcat:keyword xml:lang="es">API</dcat:keyword>
+	    <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/sector-publico"/>
+	    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-01-01</dct:issued>
+	    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-12-18</dct:modified>
+	    <dcat:contactPoint>
+	      <vcard:Organization>
+	        <vcard:fn xml:lang="es">Soporte Técnico API de Ejemplo</vcard:fn>
+	        <vcard:hasEmail rdf:resource="mailto:api-soporte@ejemplo.org"/>
+	        <vcard:hasTelephone rdf:resource="tel:+34-900444444"/>
+	        <vcard:hasURL rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/soporte"/>
+	        <vcard:hasUID rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+	        <vcard:organization-name xml:lang="es">Organización de Ejemplo</vcard:organization-name>
+	      </vcard:Organization>
+	    </dcat:contactPoint>
+	
+	    <dcat:landingPage rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/api"/>
+	    <foaf:page rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/docs/api-reference"/>
+	  </dcat:DataService>
+    </dcat:service>
 
   </dcat:Catalog>
 </rdf:RDF>
