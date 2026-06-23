@@ -46,23 +46,6 @@
 
             <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg/2022/868/oj"/>
           </dcat:Distribution>
-
-          <dcat:Distribution rdf:about="http://nsip.dcat-ap-es.ejemplo.org/dataset/datos-economicos-ejemplo/dist/json">
-            <dct:title xml:lang="es">Distribucion Datos Protegidos ejemplo. Formato JSON</dct:title>
-            <dct:description xml:lang="es">Distribucion Datos Protegidos ejemplo. Formato JSON</dct:description>
-            <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
-            <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-            <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
-
-            <dcat:accessURL rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/solicitud-acceso/datos-economicos-JSON"/>
-            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45678900</dcat:byteSize>
-            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
-            <dct:rights rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/licencias/uso-ejemplo-confidencial"/>
-
-            <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg/2022/868/oj"/>
-
-          </dcat:Distribution>
-
         </dcat:distribution>
       </dcat:Dataset>
     </dcat:dataset>
