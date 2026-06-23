@@ -59,7 +59,12 @@
 			<dcat:packageFormat rdf:resource="https://www.iana.org/assignments/media-types/application/zip"/>
 			<dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.0</dcat:spatialResolutionInMeters>
 			<dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">P1Y</dcat:temporalResolution>
-			<spdx:checksumValue>9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08</spdx:checksumValue>
+			<spdx:checksum>
+	          <spdx:Checksum>
+	            <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+	            <spdx:checksumValue rdf:datatype="http://www.w3.org/2001/XMLSchema#hexBinary">A1B2C3D4E5F6789012345678901234567890ABCD</spdx:checksumValue>
+	          </spdx:Checksum>
+	        </spdx:checksum>
             
           </dcat:Distribution>
         </dcat:distribution>
