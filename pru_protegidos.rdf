@@ -8,6 +8,7 @@
 		 xmlns:adms="http://www.w3.org/ns/adms#"
 		 xmlns:spdx="http://spdx.org/rdf/terms#"
 		 xmlns:odrl="http://www.w3.org/ns/odrl/2/"
+		 xmlns:prov="http://www.w3.org/ns/prov#"
          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 
   <dcat:Catalog rdf:about="http://nsip.dcat-ap-es.ejemplo.org/catalogo-protegido">
