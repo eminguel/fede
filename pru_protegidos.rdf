@@ -44,7 +44,12 @@
 		<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-01T09:00:00+01:00</dct:issued>
 		<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-02T12:00:00+01:00</dct:modified>
 		<dct:identifier>protegidos-datos-economicos-ejemplo</dct:identifier>
-		<adms:identifier>protegidos-datos-economicos-ejemplo</adms:identifier>
+	    <adms:identifier>
+	      <adms:Identifier rdf:about="http://www.idee.es/csw-codsi-idee/ES-INSPIRE-456">
+	        <foaf:page rdf:resource="https://geonetwork.example.org/metadata/uuid-xxx-xxx"/>
+			<foaf:homepage rdf:resource="http://www.idee.es/csw-codsi-idee"/>
+	      </adms:Identifier>
+	    </adms:identifier>
 
 
 
