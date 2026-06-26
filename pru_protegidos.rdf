@@ -41,6 +41,13 @@
 	        <vcard:organization-name xml:lang="es">Organización de Ejemplo</vcard:organization-name>
 	      </vcard:Organization>
 	    </dcat:contactPoint>
+		<dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
+	    <dct:temporal>
+	      <dct:PeriodOfTime>
+	        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-01-01</dcat:startDate>
+	        <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-12-31</dcat:endDate>
+	      </dct:PeriodOfTime>
+	    </dct:temporal>
 
 		<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-01T09:00:00+01:00</dct:issued>
 		<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-02T12:00:00+01:00</dct:modified>
@@ -72,7 +79,13 @@
 		        <prov:agent rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
 	      </prov:Attribution>
 	    </prov:qualifiedAttribution>
-		<prov:wasGeneratedBy rdf:resource="http://dcat-ap-es.ejemplo.org/actividad/generacion-dataset"/>
+		<prov:wasGeneratedBy>
+	      <prov:Activity>
+	        <rdfs:label xml:lang="es">Proceso de generación de datos de ejemplo</rdfs:label>
+	        <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-15T00:00:00+01:00</prov:startedAtTime>
+	        <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-28T23:59:59+01:00</prov:endedAtTime>
+	      </prov:Activity>
+	    </prov:wasGeneratedBy>
         <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/RESTRICTED"/>
 
       
