@@ -55,16 +55,16 @@
 		<adms:versionNotes xml:lang="es">Version 1</adms:versionNotes>
 	    <dcat:qualifiedRelation>
 	      <dcat:Relationship>
-	        <dc:relation rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
-	        <dc:type rdf:resource="http://www.w3.org/ns/dcat#isReferencedBy"/>
+	        <dct:relation rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
+	        <dct:type rdf:resource="http://www.w3.org/ns/dcat#isReferencedBy"/>
 	        <dcat:hadRole rdf:resource="http://purl.org/dc/terms/references"/>
 	      </dcat:Relationship>
 	    </dcat:qualifiedRelation>
 		<dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.0</dcat:spatialResolutionInMeters>
     	<dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT24M</dcat:temporalResolution>
-    	<dc:isReferencedBy rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
-		<dc:provenance rdf:resource="http://dcat-ap-es.ejemplo.org/provenance/statement1"/>
- 		<dc:relation rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
+    	<dct:isReferencedBy rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
+		<dct:provenance rdf:resource="http://dcat-ap-es.ejemplo.org/provenance/statement1"/>
+ 		<dct:relation rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
 	    <prov:qualifiedAttribution>
 			<prov:Attribution>
 		        <dcat:hadRole rdf:resource="http://purl.org/dc/terms/publisher"/>
