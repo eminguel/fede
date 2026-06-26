@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+	<?xml version="1.0" encoding="utf-8" ?>
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:dcat="http://www.w3.org/ns/dcat#"
          xmlns:dct="http://purl.org/dc/terms/"
@@ -49,11 +49,31 @@
 		<dcat:landingPage rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/dataset/protegidos-datos-economicos-ejemplo/landingpage"/>
 		<dct:conformsTo rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/dataset/protegidos-datos-economicos-ejemplo/conformsto"/>
 		<dct:type rdf:resource="http://publications.europa.eu/resource/authority/dataset-type/STATISTICAL"/>
-
-
-
-        <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
+ 		<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
+		<dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/MONTHLY"/>
+		<dcat:version>1</dcat:version>
+		<adms:versionNotes xml:lang="es">Version 1</adms:versionNotes>
+	    <dcat:qualifiedRelation>
+	      <dcat:Relationship>
+	        <dc:relation rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
+	        <dc:type rdf:resource="http://www.w3.org/ns/dcat#isReferencedBy"/>
+	        <dcat:hadRole rdf:resource="http://purl.org/dc/terms/references"/>
+	      </dcat:Relationship>
+	    </dcat:qualifiedRelation>
+		<dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.0</dcat:spatialResolutionInMeters>
+    	<dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT24M</dcat:temporalResolution>
+    	<dc:isReferencedBy rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
+		<dc:provenance rdf:resource="http://dcat-ap-es.ejemplo.org/provenance/statement1"/>
+ 		<dc:relation rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
+	    <prov:qualifiedAttribution>
+			<prov:Attribution>
+		        <dcat:hadRole rdf:resource="http://purl.org/dc/terms/publisher"/>
+		        <prov:agent rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+	      </prov:Attribution>
+	    </prov:qualifiedAttribution>
+		<prov:wasGeneratedBy rdf:resource="http://dcat-ap-es.ejemplo.org/actividad/generacion-dataset"/>
         <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/RESTRICTED"/>
+
       
         <dcat:distribution>
           <dcat:Distribution rdf:about="http://nsip.dcat-ap-es.ejemplo.org/dataset/datos-economicos-ejemplo/dist/csv">
