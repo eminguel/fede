@@ -69,16 +69,16 @@
 		<adms:versionNotes xml:lang="es">Version 1</adms:versionNotes>
 	    <dcat:qualifiedRelation>
 	      <dcat:Relationship>
-	        <dct:relation rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
+	        <dct:relation rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-qualifiedRelation"/>
 	        <dct:type rdf:resource="http://www.w3.org/ns/dcat#isReferencedBy"/>
 	        <dcat:hadRole rdf:resource="http://purl.org/dc/terms/references"/>
 	      </dcat:Relationship>
 	    </dcat:qualifiedRelation>
 		<dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.0</dcat:spatialResolutionInMeters>
     	<dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT24M</dcat:temporalResolution>
-    	<dct:isReferencedBy rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
+    	<dct:isReferencedBy rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-isReferencedBy"/>
 		<dct:provenance rdf:resource="http://dcat-ap-es.ejemplo.org/provenance/statement1"/>
- 		<dct:relation rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
+ 		<dct:relation rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-relation"/>
 	    <prov:qualifiedAttribution>
 			<prov:Attribution>
 		        <dcat:hadRole rdf:resource="http://purl.org/dc/terms/publisher"/>
@@ -86,8 +86,8 @@
 	      </prov:Attribution>
 	    </prov:qualifiedAttribution>
 		<prov:wasGeneratedBy>
-	      <prov:Activity>
-	        <rdfs:label xml:lang="es">Proceso de generación de datos de ejemplo</rdfs:label>
+	      <prov:Activity rdf:about="http://organismo_wasGeneratedBy.es>
+	        <rdfs:label xml:lang="es">organismo_wasGeneratedBy</rdfs:label>
 	        <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-15T00:00:00+01:00</prov:startedAtTime>
 	        <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-28T23:59:59+01:00</prov:endedAtTime>
 	      </prov:Activity>
