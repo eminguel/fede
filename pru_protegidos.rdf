@@ -94,7 +94,7 @@
 	    </prov:wasGeneratedBy>
         <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/RESTRICTED"/>
 		<dct:source rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/source"/>
-		<dcat:isVersionOf rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/dataset/protegidos-datos-economicos-ejemplo"/>
+		<dcat:isVersionOf rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-8-HVD"/>
 		<dcat:hasVersion rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/dataset/protegidos-datos-economicos-ejemplo"/>
 
 		<dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg/2022/868/oj"/>
