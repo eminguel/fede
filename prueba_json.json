@@ -67,18 +67,18 @@
       ],
       "http://www.w3.org/ns/dcat#dataset":[
          {
-            "@id":"http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1"
+            "@id":"http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1-jsonld"
          }
       ]
    },
    {
-      "@id":"http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1",
+      "@id":"http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1-jsonld",
       "@type":[
          "http://www.w3.org/ns/dcat#Dataset"
       ],
       "http://purl.org/dc/terms/title":[
          {
-            "@value":"Dataset de ejemplo",
+            "@value":"Dataset de ejemplo jsonld",
             "@language":"es"
          }
       ],
