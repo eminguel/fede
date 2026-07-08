@@ -100,12 +100,12 @@
       ],
       "http://www.w3.org/ns/dcat#distribution":[
          {
-            "@id":"http://dcat-ap-es.ejemplo.org/distribucion/dataset-ejemplo-1-CSV"
+            "@id":"dataset-ejemplo-1-CSV"
          }
       ]
    },
    {
-      "@id":"http://dcat-ap-es.ejemplo.org/distribucion/dataset-ejemplo-1-CSV",
+      "@id":"dataset-ejemplo-1-CSV",
       "@type":[
          "http://www.w3.org/ns/dcat#Distribution"
       ],
