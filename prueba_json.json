@@ -3,7 +3,7 @@
       "@id":"http://datos.gob.es/kos/sector-publico/sector"
    },
    {
-      "@id":"http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"
+      "@id":"http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"distr
    },
    {
       "@id":"http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"
@@ -106,9 +106,7 @@
    },
    {
       "@id":"dataset-ejemplo-1-CSV",
-      "@type":[
-         "http://www.w3.org/ns/dcat#Distribution"
-      ],
+      "@type":"dcat:Distribution",
       "http://www.w3.org/ns/dcat#accessURL":[
          {
             "@id":"http://dcat-ap-es.ejemplo.org/files/dataset-ejemplo-1.CSV"
