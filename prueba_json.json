@@ -129,8 +129,5 @@
    },
    {
       "@id":"http://www.w3.org/ns/dcat#Dataset"
-   },
-   {
-      "@id":"http://www.w3.org/ns/dcat#Distribution"
    }
 ]
