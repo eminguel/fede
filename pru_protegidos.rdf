@@ -77,7 +77,7 @@
 		<dcat:spatialResolutionInMeters rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5.0</dcat:spatialResolutionInMeters>
     	<dcat:temporalResolution rdf:datatype="http://www.w3.org/2001/XMLSchema#duration">PT24M</dcat:temporalResolution>
     	<dct:isReferencedBy rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-isReferencedBy"/>
-		<dct:provenance rdf:resource="http://dcat-ap-es.ejemplo.org/provenance/statement1"/>
+		<dct:provenance rdf:resource="http://declaraciondeprocedencia1.org"/>
  		<dct:relation rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-relation"/>
 	    <prov:qualifiedAttribution>
 			<prov:Attribution>
@@ -106,23 +106,7 @@
               <dct:type rdf:resource="http://purl.org/adms/publishertype/SupraNationalAuthority" />
           </foaf:Agent>
         </dct:creator>
-        <dct:provenance rdf:resource="http://declaraciondeprocedencia1.org"/>
-        <dct:provenance rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0002304"/>
-        <dct:provenance>
-            <dct:ProvenanceStatement>
-              <rdfs:label xml:lang="es">INE</rdfs:label>
-            </dct:ProvenanceStatement>
-        </dct:provenance>
-        <dct:provenance>
-            <dct:ProvenanceStatement rdf:about="http://declaraciondeprocedencia2.org">
-                <rdfs:label xml:lang="es">Declaración de procedencia2</rdfs:label>
-            </dct:ProvenanceStatement>
-        </dct:provenance>
-        <dct:provenance>
-            <dct:ProvenanceStatement rdf:about="http://datos.gob.es/recurso/sector-publico/org/Organismo/E00145102">
-                <rdfs:label xml:lang="es">Declaración de procedencia3</rdfs:label>
-            </dct:ProvenanceStatement>
-        </dct:provenance>
+
 
         <dcat:distribution>
           <dcat:Distribution rdf:about="http://nsip.dcat-ap-es.ejemplo.org/dataset/datos-economicos-ejemplo/dist/csv">
@@ -130,11 +114,7 @@
 
             <dct:description xml:lang="es">Distribucion Datos Protegidos ejemplo. Formato CSV</dct:description>
 			<dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
-		    <dct:format>
-		      <dct:IMT>
-		        <rdf:value>x-mi-formato-propio</rdf:value>
-		        <rdfs:label>MI-FORMATO</rdfs:label>
-		      </dct:IMT>
+		    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV" />
 		    </dct:format>
 			<dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg/2022/868/oj"/>
 			<dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
