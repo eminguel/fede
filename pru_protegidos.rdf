@@ -97,7 +97,7 @@
 		<dcat:isVersionOf rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/dataset/protegidos-datos-economicos-ejemplo"/>
 		<dcat:hasVersion rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/dataset/protegidos-datos-economicos-ejemplo"/>
 
-		<dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg/2022/868/oj"/>
+
 
         <dct:creator>
           <foaf:Agent rdf:about="http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0044367">
