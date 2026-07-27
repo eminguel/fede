@@ -110,7 +110,7 @@
 
         <dcat:distribution>
           <dcat:Distribution rdf:about="http://nsip.dcat-ap-es.ejemplo.org/dataset/datos-economicos-ejemplo/dist/csv">
-            <dcat:accessURL rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/solicitud-acceso/datos-economicos-csv/urlacceso"/>
+
 
             <dct:description xml:lang="es">Distribucion Datos Protegidos ejemplo. Formato CSV</dct:description>
 			<dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
