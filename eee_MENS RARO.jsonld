@@ -1,0 +1,220 @@
+{
+  "@context": {
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "dcatap": "http://data.europa.eu/r5r/",
+    "vcard": "http://www.w3.org/2006/vcard/ns#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "locn": "http://www.w3.org/ns/locn#",
+    "time": "http://www.w3.org/2006/time#",
+    "adms": "http://www.w3.org/ns/adms#",
+    "odrl": "http://www.w3.org/ns/odrl/2/",
+    "impulsadata": "http://tragsatec.es/def/impulsadata#"
+  },
+  "@graph": [
+    {
+      "@id": "https://www.EEE.gob.es/catalogo",
+      "@type": "dcat:Catalog",
+      "dct:publisher": [
+        {
+          "@id": "http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001",
+          "@type": "foaf:Agent",
+          "dct:identifier": "E0DAT0001",
+          "foaf:name": [
+            {
+              "@value": "EEE",
+              "@language": "es"
+            }
+          ]
+        }
+      ],
+      "dct:title": {
+        "@value": "Catálogo EEE – Gobierno del Dato Público",
+        "@language": "es"
+      },
+      "dct:issued": [
+        {
+          "@value": "2026-05-25T00:00:00+01:00",
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      ],
+      "dct:modified": [
+        {
+          "@value": "2026-05-25T00:00:00+01:00",
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      ],
+      "dct:creator": [
+        {
+          "@type": "foaf:Agent",
+          "dct:identifier": "E0DAT0001",
+          "foaf:name": [
+            {
+              "@value": "EEE",
+              "@language": "es"
+            }
+          ]
+        }
+      ],
+      "dct:description": {
+        "@value": "Catálogo de datos del EEE ",
+        "@language": "es"
+      },
+      "dct:language": {
+        "@id": "http://publications.europa.eu/resource/authority/language/SPA"
+      },
+      "foaf:homepage": [
+        {
+          "@id": "https://www.EEE.gob.es"
+        }
+      ],
+      "dct:license": {
+        "@id": "https://publications.europa.eu/resource/authority/licence/CC_BY_4_0"
+      },
+      "dcat:themeTaxonomy": {
+        "@id": "http://datos.gob.es/kos/sector-publico/sector"
+      },
+      "dcat:dataset": [
+        {
+          "@id": "https://www.EEE.gob.es/dataset/e73d6ca7-ee36-49b6-9eb2-c72805e49ff0"
+        }
+      ],
+      "impulsadata:validationStatus": [
+        {
+          "@language": "es",
+          "@value": "conforme-DCAT-AP-ES"
+        }
+      ],
+      "impulsadata:validationDate": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2026-04-15T12:50:43.257632+02:00"
+        }
+      ],
+      "impulsadata:validationReport": [
+        {
+          "@value": "Validation Report\nConforms: True\nResults (15):\nValidation Result in OrConstraintComponent (http://www.w3.org/ns/shacl#OrConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Catalog.publisher ; sh:message Literal(\"El valor de dct:publisher debe ser un IRI o un nodo en blanco que cumpla con las restricciones de la forma de agente.\", lang=es), Literal(\"The value of dct:publisher must be an IRI or a blank node that meets the agent shape restrictions.\", lang=en) ; sh:or ( [ sh:closed Literal(\"true\" = True, datatype=xsd:boolean) ; sh:nodeKind sh:IRI ] [ sh:node dcatapes:Agent_ShapeRecommended ; sh:nodeKind sh:BlankNodeOrIRI ] ) ; sh:path dct:publisher ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/catalogo>\n\tValue Node: <http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001>\n\tResult Path: dct:publisher\n\tMessage: El valor de dct:publisher debe ser un IRI o un nodo en blanco que cumpla con las restricciones de la forma de agente.\n\tMessage: The value of dct:publisher must be an IRI or a blank node that meets the agent shape restrictions.\nValidation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Catalog.spatial ; sh:message Literal(\"El catálogo debe contener al menos un valor para dct:spatial.\", lang=es), Literal(\"The catalog must contain at least one value for dct:spatial.\", lang=en) ; sh:minCount Literal(\"1\", datatype=xsd:integer) ; sh:path dct:spatial ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/catalogo>\n\tResult Path: dct:spatial\n\tMessage: The catalog must contain at least one value for dct:spatial.\n\tMessage: El catálogo debe contener al menos un valor para dct:spatial.\nValidation Result in OrConstraintComponent (http://www.w3.org/ns/shacl#OrConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Catalog.creator ; sh:message Literal(\"El valor de dct:creator debe ser un IRI o un nodo en blanco que cumpla con las restricciones de la forma de agente.\", lang=es), Literal(\"The value of dct:creator must be an IRI or a blank node that meets the agent shape restrictions.\", lang=en) ; sh:or ( [ sh:closed Literal(\"true\" = True, datatype=xsd:boolean) ; sh:nodeKind sh:IRI ] [ sh:node dcatapes:Agent_ShapeRecommended ; sh:nodeKind sh:BlankNodeOrIRI ] ) ; sh:path dct:creator ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/catalogo>\n\tValue Node: [ dct:identifier Literal(\"E0DAT0001\") ; foaf:name Literal(\"EEE\", lang=es) ; rdf:type foaf:Agent ]\n\tResult Path: dct:creator\n\tMessage: El valor de dct:creator debe ser un IRI o un nodo en blanco que cumpla con las restricciones de la forma de agente.\n\tMessage: The value of dct:creator must be an IRI or a blank node that meets the agent shape restrictions.\nValidation Result in OrConstraintComponent (http://www.w3.org/ns/shacl#OrConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Dataset.publisher ; sh:message Literal(\"El valor de dct:publisher debe ser un IRI o un nodo en blanco que cumpla con las restricciones de la forma de agente.\", lang=es), Literal(\"The value of dct:publisher must be an IRI or a blank node that meets the agent shape restrictions.\", lang=en) ; sh:or ( [ sh:closed Literal(\"true\" = True, datatype=xsd:boolean) ; sh:nodeKind sh:IRI ] [ sh:node dcatapes:Agent_ShapeRecommended ; sh:nodeKind sh:BlankNodeOrIRI ] ) ; sh:path dct:publisher ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/6e15732f-4fab-4c28-8b77-30934566731c>\n\tValue Node: <http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001>\n\tResult Path: dct:publisher\n\tMessage: El valor de dct:publisher debe ser un IRI o un nodo en blanco que cumpla con las restricciones de la forma de agente.\n\tMessage: The value of dct:publisher must be an IRI or a blank node that meets the agent shape restrictions.\nValidation Result in OrConstraintComponent (http://www.w3.org/ns/shacl#OrConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Dataset.publisher ; sh:message Literal(\"El valor de dct:publisher debe ser un IRI o un nodo en blanco que cumpla con las restricciones de la forma de agente.\", lang=es), Literal(\"The value of dct:publisher must be an IRI or a blank node that meets the agent shape restrictions.\", lang=en) ; sh:or ( [ sh:closed Literal(\"true\" = True, datatype=xsd:boolean) ; sh:nodeKind sh:IRI ] [ sh:node dcatapes:Agent_ShapeRecommended ; sh:nodeKind sh:BlankNodeOrIRI ] ) ; sh:path dct:publisher ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/e73d6ca7-ee36-49b6-9eb2-c72805e49ff0>\n\tValue Node: <http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001>\n\tResult Path: dct:publisher\n\tMessage: El valor de dct:publisher debe ser un IRI o un nodo en blanco que cumpla con las restricciones de la forma de agente.\n\tMessage: The value of dct:publisher must be an IRI or a blank node that meets the agent shape restrictions.\nValidation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Dataset.keyword ; sh:message Literal(\"All dcat:Dataset resources must contain at least one instance of dcat:keyword.\", lang=en), Literal(\"Todo recurso de tipo dcat:Dataset debería contener al menos una instancia de dcat:keyword.\", lang=es) ; sh:minCount Literal(\"1\", datatype=xsd:integer) ; sh:path dcat:keyword ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/6e15732f-4fab-4c28-8b77-30934566731c>\n\tResult Path: dcat:keyword\n\tMessage: Todo recurso de tipo dcat:Dataset debería contener al menos una instancia de dcat:keyword.\n\tMessage: All dcat:Dataset resources must contain at least one instance of dcat:keyword.\nValidation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Dataset.keyword ; sh:message Literal(\"All dcat:Dataset resources must contain at least one instance of dcat:keyword.\", lang=en), Literal(\"Todo recurso de tipo dcat:Dataset debería contener al menos una instancia de dcat:keyword.\", lang=es) ; sh:minCount Literal(\"1\", datatype=xsd:integer) ; sh:path dcat:keyword ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/e73d6ca7-ee36-49b6-9eb2-c72805e49ff0>\n\tResult Path: dcat:keyword\n\tMessage: Todo recurso de tipo dcat:Dataset debería contener al menos una instancia de dcat:keyword.\n\tMessage: All dcat:Dataset resources must contain at least one instance of dcat:keyword.\nValidation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Dataset.contactpoint ; sh:message Literal(\"El conjunto de datos debería contener al menos un dcat:contactPoint.\", lang=es), Literal(\"The dataset should contain at least one dcat:contactPoint.\", lang=en) ; sh:minCount Literal(\"1\", datatype=xsd:integer) ; sh:path dcat:contactPoint ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/6e15732f-4fab-4c28-8b77-30934566731c>\n\tResult Path: dcat:contactPoint\n\tMessage: El conjunto de datos debería contener al menos un dcat:contactPoint.\n\tMessage: The dataset should contain at least one dcat:contactPoint.\nValidation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Dataset.contactpoint ; sh:message Literal(\"El conjunto de datos debería contener al menos un dcat:contactPoint.\", lang=es), Literal(\"The dataset should contain at least one dcat:contactPoint.\", lang=en) ; sh:minCount Literal(\"1\", datatype=xsd:integer) ; sh:path dcat:contactPoint ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/e73d6ca7-ee36-49b6-9eb2-c72805e49ff0>\n\tResult Path: dcat:contactPoint\n\tMessage: El conjunto de datos debería contener al menos un dcat:contactPoint.\n\tMessage: The dataset should contain at least one dcat:contactPoint.\nValidation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Dataset.temporal ; sh:message Literal(\"El conjunto de datos debería contener al menos un dct:temporal.\", lang=es), Literal(\"The dataset should contain at least one dct:temporal.\", lang=en) ; sh:minCount Literal(\"1\", datatype=xsd:integer) ; sh:path dct:temporal ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/6e15732f-4fab-4c28-8b77-30934566731c>\n\tResult Path: dct:temporal\n\tMessage: El conjunto de datos debería contener al menos un dct:temporal.\n\tMessage: The dataset should contain at least one dct:temporal.\nValidation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Dataset.temporal ; sh:message Literal(\"El conjunto de datos debería contener al menos un dct:temporal.\", lang=es), Literal(\"The dataset should contain at least one dct:temporal.\", lang=en) ; sh:minCount Literal(\"1\", datatype=xsd:integer) ; sh:path dct:temporal ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/e73d6ca7-ee36-49b6-9eb2-c72805e49ff0>\n\tResult Path: dct:temporal\n\tMessage: El conjunto de datos debería contener al menos un dct:temporal.\n\tMessage: The dataset should contain at least one dct:temporal.\nValidation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Dataset.spatial ; sh:message Literal(\"El conjunto de datos debe contener al menos un valor para dct:spatial.\", lang=es), Literal(\"The dataset must contain at least one value for dct:spatial.\", lang=en) ; sh:minCount Literal(\"1\", datatype=xsd:integer) ; sh:path dct:spatial ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/6e15732f-4fab-4c28-8b77-30934566731c>\n\tResult Path: dct:spatial\n\tMessage: The dataset must contain at least one value for dct:spatial.\n\tMessage: El conjunto de datos debe contener al menos un valor para dct:spatial.\nValidation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Dataset.spatial ; sh:message Literal(\"El conjunto de datos debe contener al menos un valor para dct:spatial.\", lang=es), Literal(\"The dataset must contain at least one value for dct:spatial.\", lang=en) ; sh:minCount Literal(\"1\", datatype=xsd:integer) ; sh:path dct:spatial ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/e73d6ca7-ee36-49b6-9eb2-c72805e49ff0>\n\tResult Path: dct:spatial\n\tMessage: The dataset must contain at least one value for dct:spatial.\n\tMessage: El conjunto de datos debe contener al menos un valor para dct:spatial.\nValidation Result in OrConstraintComponent (http://www.w3.org/ns/shacl#OrConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ sh:or ( [ sh:closed Literal(\"true\" = True, datatype=xsd:boolean) ; sh:nodeKind sh:IRI ] [ sh:node dcatapes:Agent_ShapeRecommended ; sh:nodeKind sh:BlankNodeOrIRI ] ) ; sh:path dct:creator ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/6e15732f-4fab-4c28-8b77-30934566731c>\n\tValue Node: [ foaf:name Literal(\"EEE\", lang=es) ; rdf:type foaf:Agent ]\n\tResult Path: dct:creator\n\tMessage: Node [ foaf:name Literal(\"EEE\", lang=es) ; rdf:type foaf:Agent ] must conform to one or more shapes in [ sh:closed Literal(\"true\" = True, datatype=xsd:boolean) ; sh:nodeKind sh:IRI ] , [ sh:node dcatapes:Agent_ShapeRecommended ; sh:nodeKind sh:BlankNodeOrIRI ]\nValidation Result in OrConstraintComponent (http://www.w3.org/ns/shacl#OrConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ sh:or ( [ sh:closed Literal(\"true\" = True, datatype=xsd:boolean) ; sh:nodeKind sh:IRI ] [ sh:node dcatapes:Agent_ShapeRecommended ; sh:nodeKind sh:BlankNodeOrIRI ] ) ; sh:path dct:creator ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/e73d6ca7-ee36-49b6-9eb2-c72805e49ff0>\n\tValue Node: [ foaf:name Literal(\"EEE\", lang=es) ; rdf:type foaf:Agent ]\n\tResult Path: dct:creator\n\tMessage: Node [ foaf:name Literal(\"EEE\", lang=es) ; rdf:type foaf:Agent ] must conform to one or more shapes in [ sh:closed Literal(\"true\" = True, datatype=xsd:boolean) ; sh:nodeKind sh:IRI ] , [ sh:node dcatapes:Agent_ShapeRecommended ; sh:nodeKind sh:BlankNodeOrIRI ]\n\nResumen validacion: errores=0, warnings=15, conforme=True"
+        }
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "@id": "https://www.EEE.gob.es/dataset/e73d6ca7-ee36-49b6-9eb2-c72805e49ff0",
+      "dct:publisher": [
+        {
+          "@id": "http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001",
+          "@type": "foaf:Agent",
+          "dct:identifier": "E0DAT0001",
+          "foaf:name": [
+            {
+              "@value": "EEE",
+              "@language": "es"
+            }
+          ]
+        }
+      ],
+      "dct:title": {
+        "@value": "EEE",
+        "@language": "es"
+      },
+      "dct:creator": [
+        {
+          "@type": "foaf:Agent",
+          "foaf:name": [
+            {
+              "@value": "EEE",
+              "@language": "es"
+            }
+          ]
+        }
+      ],
+      "dct:description": {
+        "@value": "EEE.",
+        "@language": "es"
+      },
+      "dct:accessRights": {
+        "@id": "http://publications.europa.eu/resource/authority/access-right/PUBLIC"
+      },
+      "dct:modified": [
+        {
+          "@value": "2026-03-26T00:00:00+01:00",
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      ],
+      "dcat:theme": [
+        {
+          "@id": "http://datos.gob.es/kos/sector-publico/sector/vivienda"
+        },
+        {
+          "@id": "http://datos.gob.es/kos/sector-publico/sector/urbanismo-infraestructuras"
+        }
+      ],
+      "dct:language": {
+        "@id": "http://publications.europa.eu/resource/authority/language/SPA"
+      },
+      "dcatap:applicableLegislation": {
+        "@id": "https://www.boe.es/eli/es/l/2013/12/09/19"
+      },
+      "dcat:distribution": [
+        {
+          "@id": "https://cdn.EEE.gob.es/portal-web-EEE/Datos_EEE/CSV/VDP002_01.csv"
+        }
+      ],
+      "impulsadata:validationStatus": [
+        {
+          "@language": "es",
+          "@value": "conforme-DCAT-AP-ES"
+        }
+      ],
+      "impulsadata:validationDate": [
+        {
+          "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "@value": "2026-04-15T12:50:43.257632+02:00"
+        }
+      ],
+      "impulsadata:validationReport": [
+        {
+          "@value": "Validation Report\nConforms: True\nResults (15):\nValidation Result in OrConstraintComponent (http://www.w3.org/ns/shacl#OrConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Catalog.publisher ; sh:message Literal(\"El valor de dct:publisher debe ser un IRI o un nodo en blanco que cumpla con las restricciones de la forma de agente.\", lang=es), Literal(\"The value of dct:publisher must be an IRI or a blank node that meets the agent shape restrictions.\", lang=en) ; sh:or ( [ sh:closed Literal(\"true\" = True, datatype=xsd:boolean) ; sh:nodeKind sh:IRI ] [ sh:node dcatapes:Agent_ShapeRecommended ; sh:nodeKind sh:BlankNodeOrIRI ] ) ; sh:path dct:publisher ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/catalogo>\n\tValue Node: <http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001>\n\tResult Path: dct:publisher\n\tMessage: El valor de dct:publisher debe ser un IRI o un nodo en blanco que cumpla con las restricciones de la forma de agente.\n\tMessage: The value of dct:publisher must be an IRI or a blank node that meets the agent shape restrictions.\nValidation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Catalog.spatial ; sh:message Literal(\"El catálogo debe contener al menos un valor para dct:spatial.\", lang=es), Literal(\"The catalog must contain at least one value for dct:spatial.\", lang=en) ; sh:minCount Literal(\"1\", datatype=xsd:integer) ; sh:path dct:spatial ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/catalogo>\n\tResult Path: dct:spatial\n\tMessage: The catalog must contain at least one value for dct:spatial.\n\tMessage: El catálogo debe contener al menos un valor para dct:spatial.\nValidation Result in OrConstraintComponent (http://www.w3.org/ns/shacl#OrConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Catalog.creator ; sh:message Literal(\"El valor de dct:creator debe ser un IRI o un nodo en blanco que cumpla con las restricciones de la forma de agente.\", lang=es), Literal(\"The value of dct:creator must be an IRI or a blank node that meets the agent shape restrictions.\", lang=en) ; sh:or ( [ sh:closed Literal(\"true\" = True, datatype=xsd:boolean) ; sh:nodeKind sh:IRI ] [ sh:node dcatapes:Agent_ShapeRecommended ; sh:nodeKind sh:BlankNodeOrIRI ] ) ; sh:path dct:creator ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/catalogo>\n\tValue Node: [ dct:identifier Literal(\"E0DAT0001\") ; foaf:name Literal(\"EEE\", lang=es) ; rdf:type foaf:Agent ]\n\tResult Path: dct:creator\n\tMessage: El valor de dct:creator debe ser un IRI o un nodo en blanco que cumpla con las restricciones de la forma de agente.\n\tMessage: The value of dct:creator must be an IRI or a blank node that meets the agent shape restrictions.\nValidation Result in OrConstraintComponent (http://www.w3.org/ns/shacl#OrConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Dataset.publisher ; sh:message Literal(\"El valor de dct:publisher debe ser un IRI o un nodo en blanco que cumpla con las restricciones de la forma de agente.\", lang=es), Literal(\"The value of dct:publisher must be an IRI or a blank node that meets the agent shape restrictions.\", lang=en) ; sh:or ( [ sh:closed Literal(\"true\" = True, datatype=xsd:boolean) ; sh:nodeKind sh:IRI ] [ sh:node dcatapes:Agent_ShapeRecommended ; sh:nodeKind sh:BlankNodeOrIRI ] ) ; sh:path dct:publisher ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/6e15732f-4fab-4c28-8b77-30934566731c>\n\tValue Node: <http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001>\n\tResult Path: dct:publisher\n\tMessage: El valor de dct:publisher debe ser un IRI o un nodo en blanco que cumpla con las restricciones de la forma de agente.\n\tMessage: The value of dct:publisher must be an IRI or a blank node that meets the agent shape restrictions.\nValidation Result in OrConstraintComponent (http://www.w3.org/ns/shacl#OrConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Dataset.publisher ; sh:message Literal(\"El valor de dct:publisher debe ser un IRI o un nodo en blanco que cumpla con las restricciones de la forma de agente.\", lang=es), Literal(\"The value of dct:publisher must be an IRI or a blank node that meets the agent shape restrictions.\", lang=en) ; sh:or ( [ sh:closed Literal(\"true\" = True, datatype=xsd:boolean) ; sh:nodeKind sh:IRI ] [ sh:node dcatapes:Agent_ShapeRecommended ; sh:nodeKind sh:BlankNodeOrIRI ] ) ; sh:path dct:publisher ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/e73d6ca7-ee36-49b6-9eb2-c72805e49ff0>\n\tValue Node: <http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001>\n\tResult Path: dct:publisher\n\tMessage: El valor de dct:publisher debe ser un IRI o un nodo en blanco que cumpla con las restricciones de la forma de agente.\n\tMessage: The value of dct:publisher must be an IRI or a blank node that meets the agent shape restrictions.\nValidation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Dataset.keyword ; sh:message Literal(\"All dcat:Dataset resources must contain at least one instance of dcat:keyword.\", lang=en), Literal(\"Todo recurso de tipo dcat:Dataset debería contener al menos una instancia de dcat:keyword.\", lang=es) ; sh:minCount Literal(\"1\", datatype=xsd:integer) ; sh:path dcat:keyword ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/6e15732f-4fab-4c28-8b77-30934566731c>\n\tResult Path: dcat:keyword\n\tMessage: Todo recurso de tipo dcat:Dataset debería contener al menos una instancia de dcat:keyword.\n\tMessage: All dcat:Dataset resources must contain at least one instance of dcat:keyword.\nValidation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Dataset.keyword ; sh:message Literal(\"All dcat:Dataset resources must contain at least one instance of dcat:keyword.\", lang=en), Literal(\"Todo recurso de tipo dcat:Dataset debería contener al menos una instancia de dcat:keyword.\", lang=es) ; sh:minCount Literal(\"1\", datatype=xsd:integer) ; sh:path dcat:keyword ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/e73d6ca7-ee36-49b6-9eb2-c72805e49ff0>\n\tResult Path: dcat:keyword\n\tMessage: Todo recurso de tipo dcat:Dataset debería contener al menos una instancia de dcat:keyword.\n\tMessage: All dcat:Dataset resources must contain at least one instance of dcat:keyword.\nValidation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Dataset.contactpoint ; sh:message Literal(\"El conjunto de datos debería contener al menos un dcat:contactPoint.\", lang=es), Literal(\"The dataset should contain at least one dcat:contactPoint.\", lang=en) ; sh:minCount Literal(\"1\", datatype=xsd:integer) ; sh:path dcat:contactPoint ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/6e15732f-4fab-4c28-8b77-30934566731c>\n\tResult Path: dcat:contactPoint\n\tMessage: El conjunto de datos debería contener al menos un dcat:contactPoint.\n\tMessage: The dataset should contain at least one dcat:contactPoint.\nValidation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Dataset.contactpoint ; sh:message Literal(\"El conjunto de datos debería contener al menos un dcat:contactPoint.\", lang=es), Literal(\"The dataset should contain at least one dcat:contactPoint.\", lang=en) ; sh:minCount Literal(\"1\", datatype=xsd:integer) ; sh:path dcat:contactPoint ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/e73d6ca7-ee36-49b6-9eb2-c72805e49ff0>\n\tResult Path: dcat:contactPoint\n\tMessage: El conjunto de datos debería contener al menos un dcat:contactPoint.\n\tMessage: The dataset should contain at least one dcat:contactPoint.\nValidation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Dataset.temporal ; sh:message Literal(\"El conjunto de datos debería contener al menos un dct:temporal.\", lang=es), Literal(\"The dataset should contain at least one dct:temporal.\", lang=en) ; sh:minCount Literal(\"1\", datatype=xsd:integer) ; sh:path dct:temporal ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/6e15732f-4fab-4c28-8b77-30934566731c>\n\tResult Path: dct:temporal\n\tMessage: El conjunto de datos debería contener al menos un dct:temporal.\n\tMessage: The dataset should contain at least one dct:temporal.\nValidation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Dataset.temporal ; sh:message Literal(\"El conjunto de datos debería contener al menos un dct:temporal.\", lang=es), Literal(\"The dataset should contain at least one dct:temporal.\", lang=en) ; sh:minCount Literal(\"1\", datatype=xsd:integer) ; sh:path dct:temporal ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/e73d6ca7-ee36-49b6-9eb2-c72805e49ff0>\n\tResult Path: dct:temporal\n\tMessage: El conjunto de datos debería contener al menos un dct:temporal.\n\tMessage: The dataset should contain at least one dct:temporal.\nValidation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Dataset.spatial ; sh:message Literal(\"El conjunto de datos debe contener al menos un valor para dct:spatial.\", lang=es), Literal(\"The dataset must contain at least one value for dct:spatial.\", lang=en) ; sh:minCount Literal(\"1\", datatype=xsd:integer) ; sh:path dct:spatial ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/6e15732f-4fab-4c28-8b77-30934566731c>\n\tResult Path: dct:spatial\n\tMessage: The dataset must contain at least one value for dct:spatial.\n\tMessage: El conjunto de datos debe contener al menos un valor para dct:spatial.\nValidation Result in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ foaf:page dcatapes:Dataset.spatial ; sh:message Literal(\"El conjunto de datos debe contener al menos un valor para dct:spatial.\", lang=es), Literal(\"The dataset must contain at least one value for dct:spatial.\", lang=en) ; sh:minCount Literal(\"1\", datatype=xsd:integer) ; sh:path dct:spatial ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/e73d6ca7-ee36-49b6-9eb2-c72805e49ff0>\n\tResult Path: dct:spatial\n\tMessage: The dataset must contain at least one value for dct:spatial.\n\tMessage: El conjunto de datos debe contener al menos un valor para dct:spatial.\nValidation Result in OrConstraintComponent (http://www.w3.org/ns/shacl#OrConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ sh:or ( [ sh:closed Literal(\"true\" = True, datatype=xsd:boolean) ; sh:nodeKind sh:IRI ] [ sh:node dcatapes:Agent_ShapeRecommended ; sh:nodeKind sh:BlankNodeOrIRI ] ) ; sh:path dct:creator ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/6e15732f-4fab-4c28-8b77-30934566731c>\n\tValue Node: [ foaf:name Literal(\"EEE\", lang=es) ; rdf:type foaf:Agent ]\n\tResult Path: dct:creator\n\tMessage: Node [ foaf:name Literal(\"EEE\", lang=es) ; rdf:type foaf:Agent ] must conform to one or more shapes in [ sh:closed Literal(\"true\" = True, datatype=xsd:boolean) ; sh:nodeKind sh:IRI ] , [ sh:node dcatapes:Agent_ShapeRecommended ; sh:nodeKind sh:BlankNodeOrIRI ]\nValidation Result in OrConstraintComponent (http://www.w3.org/ns/shacl#OrConstraintComponent):\n\tSeverity: sh:Warning\n\tSource Shape: [ sh:or ( [ sh:closed Literal(\"true\" = True, datatype=xsd:boolean) ; sh:nodeKind sh:IRI ] [ sh:node dcatapes:Agent_ShapeRecommended ; sh:nodeKind sh:BlankNodeOrIRI ] ) ; sh:path dct:creator ; sh:severity sh:Warning ]\n\tFocus Node: <https://www.EEE.gob.es/dataset/e73d6ca7-ee36-49b6-9eb2-c72805e49ff0>\n\tValue Node: [ foaf:name Literal(\"EEE\", lang=es) ; rdf:type foaf:Agent ]\n\tResult Path: dct:creator\n\tMessage: Node [ foaf:name Literal(\"EEE\", lang=es) ; rdf:type foaf:Agent ] must conform to one or more shapes in [ sh:closed Literal(\"true\" = True, datatype=xsd:boolean) ; sh:nodeKind sh:IRI ] , [ sh:node dcatapes:Agent_ShapeRecommended ; sh:nodeKind sh:BlankNodeOrIRI ]\n\nResumen validacion: errores=0, warnings=15, conforme=True"
+        }
+      ]
+    },
+    {
+      "@id": "https://cdn.EEE.gob.es/portal-web-EEE/Datos_EEE/CSV/VDP002_01.csv",
+      "@type": "dcat:Distribution",
+      "dct:title": {
+        "@value": "Estimación de EEE",
+        "@language": "es"
+      },
+      "dcat:accessURL": {
+        "@id": "https://cdn.EEE.gob.es/portal-web-EEE/Datos_EEE/CSV/VDP002_01.csv"
+      },
+      "dct:format": {
+        "@id": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "dct:license": {
+        "@id": "https://publications.europa.eu/resource/authority/licence/CC_BY_4_0"
+      },
+      "dct:description": {
+        "@value": "Conjunto de datos EEE.",
+        "@language": "es"
+      },
+      "dct:language": {
+        "@id": "http://publications.europa.eu/resource/authority/language/SPA"
+      },
+      "dcatap:availability": {
+        "@id": "http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"
+      },
+      "dcatap:applicableLegislation": {
+        "@id": "https://www.boe.es/eli/es/l/2013/12/09/19"
+      },
+      "dcat:downloadURL": {
+        "@id": "https://cdn.EEE.gob.es/portal-web-EEE/Datos_EEE/CSV/VDP002_01.csv"
+      }
+    },
+  ]
+}
