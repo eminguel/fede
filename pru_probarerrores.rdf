@@ -21,13 +21,13 @@
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
-    <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/EEE"/>
+    <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
 	<foaf:homepage rdf:resource="http://dcat-ap-es.ejemplo.org/home"/>
 
 
     <dcat:service>
-	  <dcat:DataService rdf:about="http://nsip.dcat-ap-es.ejemplo.org/dataset/datos-economicos-ejemplo/dist/csv/servicio">
-	    <dct:title xml:lang="es">Servicio de la Distribucion Datos Protegidos ejemplo. Formato CSV</dct:title>
+	  <dcat:DataService rdf:about="http://errores.dcat-ap-es.ejemplo.org/dataset/datos-economicos-ejemplo/dist/csv/servicio">
+	    <dct:title xml:lang="es">Errores Servicio de la Distribucion Datos Protegidos ejemplo. Formato CSV</dct:title>
 	    <dcat:endpointURL rdf:resource="http://api.dcat-ap-es.ejemplo.org/v1"/>
 	    <foaf:page rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/docs/api-reference"/>
 	    <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/sector-publico"/>
