@@ -36,7 +36,7 @@
 	      <vcard:Organization>
 	        <vcard:fn xml:lang="es">Soporte Técnico API de Ejemplo</vcard:fn>
 	        <vcard:hasEmail rdf:resource="mailto:api-soporte@ejemplo.org"/>
-	        <vcard:hasTelephone rdf:resource="tel:+34-900444444"/>
+
 	        <vcard:hasURL rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/soporte"/>
 	        <vcard:hasUID rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
 	        <vcard:organization-name xml:lang="es">Organización de Ejemplo</vcard:organization-name>
