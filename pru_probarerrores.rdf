@@ -39,7 +39,7 @@
 
 	        <vcard:hasURL rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/soporte"/>
 	        <vcard:hasUID rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
-	        <vcard:organization-name xml:lang="es">Organización de Ejemplo</vcard:organization-name>
+	        <vcard:organization-name xml:lang="es"></vcard:organization-name>
 	      </vcard:Organization>
 	    </dcat:contactPoint>
 
