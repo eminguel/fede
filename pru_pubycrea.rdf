@@ -72,12 +72,12 @@ Tercera línea.</dct:description>
 
         <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0002304"/>
 
-    <dct:creator>
-      <foaf:Person rdf:about="https://datos.cchs.csic.es/pre/dataset/?extras_autor=Nad%5C%5Cu00e8ge%20Rollet">
-        <foaf:name xml:lang="es">Nadège Rollet</foaf:name>
-        <foaf:name xml:lang="en">Nadège Rollet</foaf:name>
-      </foaf:Person>
-    </dct:creator>
+	    <dct:creator>
+	      <foaf:Person rdf:about="http://personacreadora.es">
+	        <foaf:name xml:lang="es">Nadège Rollet</foaf:name>
+	        <foaf:name xml:lang="en">Nadège Rollet</foaf:name>
+	      </foaf:Person>
+	    </dct:creator>
 
         <dct:provenance rdf:resource="http://declaraciondeprocedencia1.org"/>
         <dct:provenance rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0002304"/>
