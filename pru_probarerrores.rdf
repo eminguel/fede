@@ -54,12 +54,7 @@
 	    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
 	    <dcat:contactPoint>
 	      <vcard:Organization rdf:about="http://dcat-ap-es.ejemplo.org/contactPoint-Organization">
-	        <vcard:fn xml:lang="es">Soporte Técnico API de Ejemplo</vcard:fn>
-	        <vcard:hasEmail rdf:resource="mailto:api-soporte@ejemplo.org"/>
 
-	        <vcard:hasURL rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/soporte"/>
-	        <vcard:hasUID rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
-	        <vcard:organization-name xml:lang="es">Organización de Ejemplo</vcard:organization-name>
 	      </vcard:Organization>
 	    </dcat:contactPoint>
 
