@@ -25,51 +25,7 @@
     <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
 	<foaf:homepage rdf:resource="http://dcat-ap-es.ejemplo.org/home"/>
 
-    <dcat:dataset>
-      <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1-errores">
-        <dct:title xml:lang="es">Dataset de ejemplo errores</dct:title>
-        <dct:description xml:lang="es">Descripción de un dataset de ejemplo errores.</dct:description>
-        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
-        <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
 
-	    <prov:wasGeneratedBy>
-	      <prov:Activity rdf:about="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1-errores/wasGeneratedBy">
-	        <rdfs:label xml:lang="es">eee</rdfs:label>
-	      </prov:Activity>
-	    </prov:wasGeneratedBy>
-
-        <dcat:distribution>
-          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-ejemplo-1-CSV">
-            <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-ejemplo-1.CSV"/>
-          </dcat:Distribution>
-        </dcat:distribution>
-      </dcat:Dataset>
-    </dcat:dataset>
-
-    <dcat:service>
-	  <dcat:DataService rdf:about="http://errores.dcat-ap-es.ejemplo.org/dataset/datos-economicos-ejemplo/dist/csv/servicio">
-	    <dct:title xml:lang="es">Errores Servicio de la Distribucion Datos Protegidos ejemplo. Formato CSV</dct:title>
-	    <dcat:endpointURL rdf:resource="http://api.dcat-ap-es.ejemplo.org/v1"/>
-	    <foaf:page rdf:resource="http://nsip.dcat-ap-es.ejemplo.org/docs/api-reference"/>
-	    <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/sector-publico"/>
-	    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
-	    <dcat:contactPoint>
-	      <vcard:Organization rdf:about="http://dcat-ap-es.ejemplo.org/contactPoint-Organization">
-
-	      </vcard:Organization>
-	    </dcat:contactPoint>
-
-	    <dcat:endpointDescription rdf:resource="http://api.dcat-ap-es.ejemplo.org/v1/openapi.json"/>
-	    <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg/2022/868/oj"/>
-
-
-	    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/RESTRICTED"/>
-	    <dct:description xml:lang="es">Servicio</dct:description>
-	    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-
-
-	  </dcat:DataService>
-    </dcat:service>
 
 
   </dcat:Catalog>
