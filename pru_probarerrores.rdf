@@ -19,7 +19,7 @@
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-01-01</dct:issued>
 	<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-01-01</dct:issued>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-12-18</dct:modified>
-	<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ESTHER"/>
+	<dct:language rdf:resource="http://publications.europa.eu/resource/authority/languaEEE/ESTHER"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
     <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
