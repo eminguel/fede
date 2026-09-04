@@ -13,10 +13,23 @@
          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 
   <dcat:Catalog>
+        <dct:temporal>
+        </dct:temporal>
 
+        <dcat:record>
+        </dcat:record>
 
+        <dct:creator>
+        </dct:creator>
 
+        <dct:hasPart>
+        </dct:hasPart>
 
+        <dct:isPartOf>
+        </dct:isPartOf>
+
+        <dct:catalog>
+        </dct:catalog>
 
   </dcat:Catalog>
 </rdf:RDF>
