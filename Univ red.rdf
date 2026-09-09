@@ -54,6 +54,7 @@
             <dct:title xml:lang="es">PPP (Pc-Axis)</dct:title>
             <dcat:accessURL rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://PPP.px</dcat:accessURL>
             <dcat:mediaType>text/pc-axis</dcat:mediaType>
+            <dcatap:availability>mal availability</dcatap:availability>
           </dcat:Distribution>
         </dcat:distribution>
 
