@@ -9,7 +9,7 @@
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-06-19T13:16:27Z</dct:modified>
     <dc:language>es</dc:language>
     <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España" />
-    <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector/" />
+    <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector" />
     <foaf:homepage rdf:resource="https://www.ciencia.gob.es/" />
     <dct:license rdf:resource="https://www.PPP.gob.es/" />
     <dcat:dataset>
