@@ -160,6 +160,11 @@
           "@id": "https://cdn.EEE.gob.es/portal-web-EEE/Datos_EEE/CSV/VDP002_01.csv"
         }
       ],
+      "dcat:distribution": [
+        {
+          "@id": "123"
+        }
+      ],
       "impulsadata:validationStatus": [
         {
           "@language": "es",
@@ -175,6 +180,39 @@
     },
     {
       "@id": "https://cdn.EEE.gob.es/portal-web-EEE/Datos_EEE/CSV/VDP002_01.csv",
+      "@type": "dcat:Distribution",
+      "dct:title": {
+        "@value": "Estimación de EEE",
+        "@language": "es"
+      },
+      "dcat:accessURL": {
+        "@id": "https://cdn.EEE.gob.es/portal-web-EEE/Datos_EEE/CSV/VDP002_01.csv"
+      },
+      "dct:format": {
+        "@id": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "dct:license": {
+        "@id": "https://publications.europa.eu/resource/authority/licence/CC_BY_4_0"
+      },
+      "dct:description": {
+        "@value": "Conjunto de datos EEE.",
+        "@language": "es"
+      },
+      "dct:language": {
+        "@id": "http://publications.europa.eu/resource/authority/language/SPA"
+      },
+      "dcatap:availability": {
+        "@id": "http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"
+      },
+      "dcatap:applicableLegislation": {
+        "@id": "https://www.boe.es/eli/es/l/2013/12/09/19"
+      },
+      "dcat:downloadURL": {
+        "@id": "https://cdn.EEE.gob.es/portal-web-EEE/Datos_EEE/CSV/VDP002_01.csv"
+      }
+    }
+    {
+      "@id": "123",
       "@type": "dcat:Distribution",
       "dct:title": {
         "@value": "Estimación de EEE",
