@@ -61,8 +61,8 @@
     </dcat:dataset>
 
     <dcat:dataset>
-      <dcat:Dataset rdf:about="urn:AAA">
-		<dct:title xml:lang="es">AAA</dct:title>
+      <dcat:Dataset rdf:about="UUU">
+		<dct:title xml:lang="es">UUU</dct:title>
         <dct:description xml:lang="es">EEEEEE</dct:description>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
@@ -90,7 +90,7 @@
 		</dct:temporal>
 
         <dcat:distribution>
-          <dcat:Distribution rdf:about="urn:AAA:DISTRI">
+          <dcat:Distribution rdf:about="urn:UUU:DISTRI">
 			  <dct:title xml:lang="es">EEE:DISTRI</dct:title>
 			  <dct:description xml:lang="es">EEE:DISTRI</dct:description>
 			  <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-HVD-ejemplo-1-HVD.CSV"/>
