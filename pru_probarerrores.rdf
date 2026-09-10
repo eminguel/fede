@@ -15,6 +15,11 @@
   <dcat:Catalog rdf:about="http://nsip.dcat-ap-es.ejemplo.org/catalogo-protegido">
     <dct:title></dct:title>
 
+    <dcat:dataset>
+      <dcat:Dataset rdf:about="12345">
+		<dct:title xml:lang="es">Dataset de ejemplo HVD_8</dct:title>
+      </dcat:Dataset>
+    </dcat:dataset>
 
   </dcat:Catalog>
 </rdf:RDF>
