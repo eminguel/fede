@@ -61,9 +61,9 @@
     </dcat:dataset>
 
     <dcat:dataset>
-      <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-9-HVD">
-		<dct:title xml:lang="es">Dataset de ejemplo HVD_9</dct:title>
-        <dct:description xml:lang="es">Descripción de un dataset de ejemplo HVD_9</dct:description>
+      <dcat:Dataset rdf:about="urn:EEE">
+		<dct:title xml:lang="es">EEE</dct:title>
+        <dct:description xml:lang="es">EEEEEE</dct:description>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
@@ -89,6 +89,17 @@
 				</dct:PeriodOfTime>
 		</dct:temporal>
 
+        <dcat:distribution>
+          <dcat:Distribution rdf:about="urn:EEE:DISTRI">
+			  <dct:title xml:lang="es">EEE:DISTRI</dct:title>
+			  <dct:description xml:lang="es">EEE:DISTRI</dct:description>
+			  <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-HVD-ejemplo-1-HVD.CSV"/>
+			  <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>  
+			  <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+			  <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+			  <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1024</dcat:byteSize>
+          </dcat:Distribution>
+        </dcat:distribution>
 
       </dcat:Dataset>
     </dcat:dataset>
