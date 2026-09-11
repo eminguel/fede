@@ -62,6 +62,7 @@
 
     <dcat:dataset>
       <dcat:Dataset rdf:about="urn:UUU">
+		<dct:identifier>urn:UUU</dct:identifier>
 		<dct:title xml:lang="es">UUU</dct:title>
         <dct:description xml:lang="es">EEEEEE</dct:description>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
