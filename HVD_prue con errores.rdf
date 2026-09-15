@@ -54,7 +54,7 @@
 			  <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
 			  <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
 			  <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1024</dcat:byteSize>
-			  <dcatap:applicableLegislation rdf:resource="https://www.boe.es/eli/es/rd/2023/08/22/729"/>
+
           </dcat:Distribution>
         </dcat:distribution>
 
