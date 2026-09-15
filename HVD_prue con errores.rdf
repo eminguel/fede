@@ -26,7 +26,22 @@
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
 		<dcat:keyword xml:lang="es">estadísticas</dcat:keyword>
-
+        <dct:temporal>
+                <dct:PeriodOfTime>
+                    <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-01-01T00:00:00Z</dcat:startDate>
+                    <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-01T00:00:00Z</dcat:endDate>
+                </dct:PeriodOfTime>
+        </dct:temporal>
+        <dcat:contactPoint>
+        	<vcard:Organization rdf:about="http://dcat-ap-es.ejemplo.org/contactDataService">
+				<vcard:organization-name xml:lang="es">Organismo</vcard:organization-name>
+				<vcard:fn xml:lang="es">Oficina del dato</vcard:fn>
+				<vcard:hasURL rdf:resource="http://dcat-ap-es.ejemplo.org/"/>
+				<vcard:hasUID rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+				<vcard:hasEmail rdf:resource="mailto:info-contacto@dcat-ap-es.ejemplo.org"/>
+				<vcard:hasTelephone rdf:resource="tel:.+3491222222"/>
+			</vcard:Organization>
+		</dcat:contactPoint>
 		<dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
 		<dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_b7f6a4f3"/>
 
@@ -39,6 +54,7 @@
 			  <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
 			  <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
 			  <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1024</dcat:byteSize>
+			  <dcatap:applicableLegislation rdf:resource="https://www.boe.es/eli/es/rd/2023/08/22/729"/>
           </dcat:Distribution>
         </dcat:distribution>
 
