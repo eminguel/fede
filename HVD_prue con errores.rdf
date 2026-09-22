@@ -18,7 +18,33 @@
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
     <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
 	<dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-	
+
+    <dcat:service>
+        <dcat:DataService rdf:about="http://dcat-ap-es.ejemplo.org/dataservice/dataservice-ejemplo-HVD-errores">
+            <dct:title xml:lang="es">Servicio de datos de ejemplo HVD errores</dct:title>
+            <dcat:endpointURL rdf:resource="http://dcat-ap-es.ejemplo.org/dataservice/dataservice-ejemplo-1-HVD-errores"/>
+            <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
+            <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+            <dcat:endpointDescription rdf:resource="http://dcat-ap-es.ejemplo.org/dataservice/dataservice-ejemplo-1-HVD-errores?service=CSW"/>
+            <dcat:keyword xml:lang="es">estadísticas</dcat:keyword>
+            <dcat:contactPoint>
+                    <vcard:Organization rdf:about="http://dcat-ap-es.ejemplo.org/contactDataService">
+                        <vcard:organization-name xml:lang="es">Organismo</vcard:organization-name>
+                        <vcard:fn xml:lang="es">Oficina del dato</vcard:fn>
+                        <vcard:hasURL rdf:resource="http://dcat-ap-es.ejemplo.org/"/>
+                        <vcard:hasUID rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+                        <vcard:hasEmail rdf:resource="mailto:info-contacto@dcat-ap-es.ejemplo.org"/>
+                        <vcard:hasTelephone rdf:resource="tel:.+3491222222"/>
+                    </vcard:Organization>
+            </dcat:contactPoint>
+
+            <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_b7f6a4f3"/>
+            <foaf:page rdf:resource="https://dcat-ap-es.ejemplo_HVD.org/api/sla.html"/>
+            <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        </dcat:DataService> 
+    </dcat:service>
+
+
     <dcat:dataset>
       <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-HVD-errores">
 		<dct:title xml:lang="es">Dataset de ejemplo HVD_ERRORES</dct:title>
@@ -56,6 +82,7 @@
 			  <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
 			  <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1024</dcat:byteSize>
 			  <adms:status rdf:resource="http://publications.europa.eu/resource/authority/distribution-status/COMPLETED" />
+			  <dcat:accessService rdf:resource="http://dcat-ap-es.ejemplo.org/dataservice/dataservice-ejemplo-HVD-errores"/>
 
           </dcat:Distribution>
         </dcat:distribution>
