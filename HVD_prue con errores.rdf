@@ -22,9 +22,13 @@
     <dcat:service>
         <dcat:DataService rdf:about="http://dcat-ap-es.ejemplo.org/dataservice/dataservice-ejemplo-HVD-errores">
             <dct:title xml:lang="es">Servicio de datos de ejemplo HVD errores</dct:title>
-            <dcat:endpointURL rdf:resource="http://dcat-ap-es.ejemplo.org/dataservice/dataservice-ejemplo-1-HVD-errores"/>
-            <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
+			<dct:title xml:lang="en">HVD sample data service errors</dct:title>
+			<dct:description xml:lang="es">Descripción del Servicio de datos de ejemplo HVD errores</dct:title>
             <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+			<dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
+			<dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_b7f6a4f3"/>
+			<dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+			<dcat:endpointURL rdf:resource="http://dcat-ap-es.ejemplo.org/dataservice/dataservice-ejemplo-1-HVD-errores"/>
             <dcat:endpointDescription rdf:resource="http://dcat-ap-es.ejemplo.org/dataservice/dataservice-ejemplo-1-HVD-errores?service=CSW"/>
             <dcat:keyword xml:lang="es">estadísticas</dcat:keyword>
             <dcat:contactPoint>
@@ -38,9 +42,7 @@
                     </vcard:Organization>
             </dcat:contactPoint>
 			<dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-            <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_b7f6a4f3"/>
             <foaf:page rdf:resource="https://dcat-ap-es.ejemplo_HVD.org/api/sla.html"/>
-            <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
 
 			<dcat:servesDataset rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-HVD-errores"/>
 
