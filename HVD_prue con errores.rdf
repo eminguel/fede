@@ -23,7 +23,7 @@
         <dcat:DataService rdf:about="http://dcat-ap-es.ejemplo.org/dataservice/dataservice-ejemplo-HVD-errores">
             <dct:title xml:lang="es">Servicio de datos de ejemplo HVD errores</dct:title>
 			<dct:title xml:lang="en">HVD sample data service errors</dct:title>
-			<dct:description xml:lang="es">Descripción del Servicio de datos de ejemplo HVD errores</dct:title>
+			<dct:description xml:lang="es">Descripción del Servicio de datos de ejemplo HVD errores</dct:description>
             <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
 			<dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
 			<dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_b7f6a4f3"/>
