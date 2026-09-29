@@ -57,8 +57,10 @@
 		<dct:title xml:lang="es">Dataset de ejemplo HVD_ERRORES</dct:title>
         <dct:description xml:lang="es">Descripción de un dataset de ejemplo HVD_ERRORES</dct:description>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
-        <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
-		<dcat:theme rdf:resource="http://meinventotheme"/>
+        <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/comercio"/>
+		<dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+		<dcat:theme rdf:resource="http://inspire.ec.europa.eu/theme/hy"/>
+		<dcat:theme rdf:resource="http://custom.org/vocab/theme/agua"/>
         <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
 		<dcat:keyword xml:lang="es">estadísticas</dcat:keyword>
         <dct:temporal>
