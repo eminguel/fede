@@ -102,7 +102,7 @@
 
 	<dcat:dataset>
 		<dcat:Dataset rdf:about="urn:eee:es:dataset:prueba:a:l0:px_prueba_a_age_pv_eea_e">
-			<dct:identifierurn:eee:es:dataset:prueba:a:l0:px_prueba_a_age_pv_eea_e</dct:identifier>
+			<dct:identifier>urn:eee:es:dataset:prueba:a:l0:px_prueba_a_age_pv_eea_e</dct:identifier>
 			<dct:title xml:lang="es">Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba </dct:title>
 			<dct:description xml:lang="es">Tabla eee</dct:description>
 			<dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
