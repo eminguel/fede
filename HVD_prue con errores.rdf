@@ -5,6 +5,8 @@
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
 		 xmlns:dcatap="http://data.europa.eu/r5r/"
 		 xmlns:adms="http://www.w3.org/ns/adms#"
+ xmlns:time="http://www.w3.org/2006/time#"
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 		 xmlns:vcard="http://www.w3.org/2006/vcard/ns#">
 
   <dcat:Catalog rdf:about="http://dcat-ap-es.ejemplo.org/catalogo">
@@ -115,6 +117,19 @@
 			<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-09-28T10:45:00Z</dct:modified>
 			<dct:references rdf:resource="https://www.ciencia.gob.es/Ministerio/Estadisticas/SIIU.html"/>
 			<dct:references rdf:resource="https://www.ciencia.gob.es/dam/jcr:101b2829-1fdc-4874-aced-a5381ac46ac9/Metodologia_Becas.pdf"/>
+			
+			<dct:accrualPeriodicity>
+			  <dct:Frequency>
+				<rdf:value>
+				  <time:DurationDescription>
+					<rdfs:label>Anual</rdfs:label>
+					<time:years rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1.0</time:years>
+				  </time:DurationDescription>
+				</rdf:value>
+			  </dct:Frequency>
+			</dct:accrualPeriodicity>
+
+
 			<dcat:distribution>
 				<dcat:Distribution>
 					<dct:title xml:lang="es">Beneficiarios de becas generales de la AGE y el País Vasco que también tienen una beca de comunidad autónoma o universidad por nivel académico (Pc-Axis)</dct:title>
