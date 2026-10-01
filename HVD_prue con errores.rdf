@@ -129,6 +129,12 @@
 			  </dct:Frequency>
 			</dct:accrualPeriodicity>
 
+	<dcat:contactPoint>
+		<vcard:Kind>
+			<vcard:fn xml:lang="es">Sistema Integrado de Información Universitaria</vcard:fn>
+			<vcard:hasEmail rdf:resource="mailto:peticiones.estadisticas.universitarias@ciencia.gob.es"/>
+		</vcard:Kind>
+	</dcat:contactPoint>
 
 			<dcat:distribution>
 				<dcat:Distribution>
