@@ -57,7 +57,7 @@
 			  <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1024</dcat:byteSize>
 
 			<dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
-			<dcat:accessService rdf:resource="http://dcat-ap-es.ejemplo.org/distribucion/service-ejemplo-8-CSV-HVD"/>
+			<dcat:accessService rdf:resource="http://dcat-ap-es.ejemplo.org/service-ejemplo-8-CSV-HVD"/>
 
           </dcat:Distribution>
         </dcat:distribution>
@@ -66,7 +66,7 @@
     </dcat:dataset>
 
     <dcat:service>
-        <dcat:DataService rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/service-ejemplo-8-CSV-HVD">
+        <dcat:DataService rdf:about="http://dcat-ap-es.ejemplo.org/service-ejemplo-8-CSV-HVD">
             <dct:title xml:lang="es">Servicio de datos de ejemplo HVD 8</dct:title>
 			<dct:title xml:lang="en">HVD sample data service </dct:title>
 			<dct:description xml:lang="es">Descripción del Servicio de datos de ejemplo HVD errores</dct:description>
