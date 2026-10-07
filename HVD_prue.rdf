@@ -35,7 +35,8 @@
 				<vcard:Organization rdf:about="http://dcat-ap-es.ejemplo.org/contactDataset">
 					<vcard:organization-name xml:lang="es">Organismo</vcard:organization-name>
 					<vcard:fn xml:lang="es">Oficina del dato</vcard:fn>
-
+					<vcard:hasEmail rdf:resource="mailto:info-contacto@dcat-ap-es.ejemplo.org"/>
+					<vcard:hasURL rdf:resource="http://dcat-ap-es.ejemplo.org/"/>
 				</vcard:Organization>
 		</dcat:contactPoint>
 		<dct:temporal>
@@ -80,7 +81,8 @@
 					<vcard:Organization rdf:about="http://dcat-ap-es.ejemplo.org/contactDataset">
 						<vcard:organization-name xml:lang="es">Organismo</vcard:organization-name>
 						<vcard:fn xml:lang="es">Oficina del dato</vcard:fn>
-	
+						<vcard:hasEmail rdf:resource="mailto:info-contacto@dcat-ap-es.ejemplo.org"/>
+						<vcard:hasURL rdf:resource="http://dcat-ap-es.ejemplo.org/"/>
 					</vcard:Organization>
 			</dcat:contactPoint>
 			<dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
