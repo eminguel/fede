@@ -91,5 +91,7 @@
             <foaf:page rdf:resource="https://dcat-ap-es.ejemplo_HVD.org/api/sla.html"/>
 
         </dcat:DataService> 
+    </dcat:service>
+
   </dcat:Catalog>
 </rdf:RDF>
