@@ -11,7 +11,7 @@
 
   <dcat:Catalog rdf:about="http://dcat-ap-es.ejemplo.org/catalogo">
     <dct:title xml:lang="es">Catálogo de Datos Abiertos HVD</dct:title>
-    <dct:description xml:lang="es">Catálogo de Datos Abiertos que sirve de ejemplo en la migración a DCAT-AP-ES HVD.</dct:description>
+    
     <foaf:homepage rdf:resource="http://dcat-ap-es.ejemplo.org"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
     <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
