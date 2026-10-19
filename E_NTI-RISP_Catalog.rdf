@@ -42,7 +42,7 @@
                 <rdfs:label>CSV</rdfs:label>
               </dct:IMT>
             </dct:format>
-            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1024</dcat:byteSize>
+            <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">0</dcat:byteSize>
 
             <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/RESTRICTED"/>
 
