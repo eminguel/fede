@@ -5,13 +5,13 @@
          xmlns:foaf="http://xmlns.com/foaf/0.1/"
 		 xmlns:dcatap="http://data.europa.eu/r5r/"
 		 xmlns:adms="http://www.w3.org/ns/adms#"
- xmlns:time="http://www.w3.org/2006/time#"
- xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+ 		 xmlns:time="http://www.w3.org/2006/time#"
+ 		 xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 		 xmlns:vcard="http://www.w3.org/2006/vcard/ns#">
 
   <dcat:Catalog rdf:about="http://dcat-ap-es.ejemplo.org/catalogo">
     <dct:title xml:lang="es">Catálogo de Datos Abiertos HVD</dct:title>
-    
+    <dct:description xml:lang="es">Descripción Catálogo de Datos Abiertos HVD</dct:description>
     <foaf:homepage rdf:resource="http://dcat-ap-es.ejemplo.org"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
     <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
