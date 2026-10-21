@@ -56,6 +56,7 @@
 
     <dcat:dataset>
       <dcat:Dataset rdf:about="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-HVD-errores">
+		<dct:identifier>identificador texto</dct:identifier>
 		<dct:title xml:lang="es">Dataset de ejemplo HVD_ERRORES Dataset de ejemplo HVD_ERRORES Dataset de ejemplo HVD_ERRORES Dataset de ejemplo HVD_ERRORES Dataset de ejemplo HVD_ERRORES</dct:title>
         <dct:description xml:lang="es">Descripción de un dataset de ejemplo HVD_ERRORES</dct:description>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
@@ -104,7 +105,7 @@
 
 	<dcat:dataset>
 		<dcat:Dataset rdf:about="urn:eee:es:dataset:prueba:a:l0:px_prueba_a_age_pv_eea_e">
-			
+			<dct:identifier>identificador texto</dct:identifier>
 			<dct:title xml:lang="es">Mastexto Mastexto Mastexto Mastexto Mastexto Mastexto Mastexto Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba Prueba </dct:title>
 			<dct:description xml:lang="es">Tabla eee</dct:description>
 			<dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
@@ -128,13 +129,12 @@
 				</rdf:value>
 			  </dct:Frequency>
 			</dct:accrualPeriodicity>
-
-	<dcat:contactPoint>
-		<vcard:Kind>
-			<vcard:fn xml:lang="es">Sistema Integrado de Información Universitaria</vcard:fn>
-			<vcard:hasEmail rdf:resource="mailto:peticiones.estadisticas.universitarias@ciencia.gob.es"/>
-		</vcard:Kind>
-	</dcat:contactPoint>
+			<dcat:contactPoint>
+				<vcard:Kind>
+					<vcard:fn xml:lang="es">Sistema Integrado de Información Universitaria</vcard:fn>
+					<vcard:hasEmail rdf:resource="mailto:peticiones.estadisticas.universitarias@ciencia.gob.es"/>
+				</vcard:Kind>
+			</dcat:contactPoint>
 
 			<dcat:distribution>
 				<dcat:Distribution>
