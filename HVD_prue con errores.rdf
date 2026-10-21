@@ -85,20 +85,7 @@
 		<dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
 		<dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_b7f6a4f3"/>
 
-        <dcat:distribution>
-          <dcat:Distribution rdf:about="http://dcat-ap-es.ejemplo.org/distribucion/dataset-ejemplo-8-CSV-HVD-ERRORES">
-			  <dct:title xml:lang="es">Distribución de ejemplo CSV HVD_ERRORES</dct:title>
-			  <dct:description xml:lang="es">Descripción de una distribución de ejemplo CSV HVD_ERRORES</dct:description>
-			  <dcat:accessURL rdf:resource="http://dcat-ap-es.ejemplo.org/files/dataset-HVD-ejemplo-HVD_ERRORES.CSV"/>
-			  <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>  
-			  <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-			  <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
-			  <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1024</dcat:byteSize>
-			  <adms:status rdf:resource="http://publications.europa.eu/resource/authority/distribution-status/COMPLETED" />
-			  <dcat:accessService rdf:resource="http://dcat-ap-es.ejemplo.org/dataservice/dataservice-ejemplo-HVD-errores"/>
 
-          </dcat:Distribution>
-        </dcat:distribution>
 
       </dcat:Dataset>
     </dcat:dataset>
