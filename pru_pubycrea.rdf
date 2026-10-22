@@ -61,6 +61,14 @@ Tercera línea.</dct:description>
           </foaf:Agent>
         </dct:creator>
 
+	    <dct:creator>
+	      <foaf:Person rdf:about="http://personacreadora.es">
+	        <foaf:name xml:lang="es">Nadège Rollet</foaf:name>
+			<dct:identifier>http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0001301</dct:identifier>
+            <dct:type rdf:resource="http://purl.org/adms/publishertype/SupraNationalAuthority" />
+	      </foaf:Person>
+	    </dct:creator>
+
         <dct:creator>
           <foaf:Agent>
             <foaf:name xml:lang="es">Red.es sin resource</foaf:name>
@@ -81,12 +89,7 @@ Tercera línea.</dct:description>
 
         <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0002304"/>
 
-	    <dct:creator>
-	      <foaf:Person rdf:about="http://personacreadora.es">
-	        <foaf:name xml:lang="es">Nadège Rollet</foaf:name>
-	        <foaf:name xml:lang="en">Nadège Rollet</foaf:name>
-	      </foaf:Person>
-	    </dct:creator>
+
 
         <dct:provenance rdf:resource="http://declaraciondeprocedencia1.org"/>
         <dct:provenance rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0002304"/>
