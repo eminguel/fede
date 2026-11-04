@@ -76,14 +76,6 @@ Los sistemas de referencia que ofrece este servicio son:
         <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-31T00:00:00+00:00</dcat:endDate>
       </dct:PeriodOfTime>
     </dct:temporal>
-    <dct:spatial>
-      <dct:Location rdf:about="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España">
-        <locn:geometry rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">POLYGON ((-18.1600 27.6400, 4.3200 27.6400, 4.3200 43.7900, -18.1600 43.7900, -18.1600 27.6400))</locn:geometry>
-        <skos:prefLabel>España</skos:prefLabel>
-        <dcat:bbox rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">POLYGON ((-18.1600 27.6400, 4.3200 27.6400, 4.3200 43.7900, -18.1600 43.7900, -18.1600 27.6400))</dcat:bbox>
-        <dcat:centroid rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">POINT (-6.9200 35.7150)</dcat:centroid>
-      </dct:Location>
-    </dct:spatial>
     <dct:license>
       <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0">
         <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
