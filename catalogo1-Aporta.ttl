@@ -211,16 +211,6 @@
         <http://publications.europa.eu/resource/authority/data-theme> ;
     foaf:homepage <https://catalogo.datosabiertos.miteco.gob.es> .
 
-<https://catalogo.datosabiertos.miteco.gob.es/catalogo/catalogo.ttl?profiles=es_dcat_ap_2,eu_dcat_ap_scheming&page=1> a hydra:PagedCollection ;
-    hydra:first "https://catalogo.datosabiertos.miteco.gob.es/catalogo/catalogo.ttl?profiles=es_dcat_ap_2,eu_dcat_ap_scheming&page=1" ;
-    hydra:firstPage "https://catalogo.datosabiertos.miteco.gob.es/catalogo/catalogo.ttl?profiles=es_dcat_ap_2,eu_dcat_ap_scheming&page=1" ;
-    hydra:itemsPerPage 100 ;
-    hydra:last "https://catalogo.datosabiertos.miteco.gob.es/catalogo/catalogo.ttl?profiles=es_dcat_ap_2,eu_dcat_ap_scheming&page=11" ;
-    hydra:lastPage "https://catalogo.datosabiertos.miteco.gob.es/catalogo/catalogo.ttl?profiles=es_dcat_ap_2,eu_dcat_ap_scheming&page=11" ;
-    hydra:next "https://catalogo.datosabiertos.miteco.gob.es/catalogo/catalogo.ttl?profiles=es_dcat_ap_2,eu_dcat_ap_scheming&page=2" ;
-    hydra:nextPage "https://catalogo.datosabiertos.miteco.gob.es/catalogo/catalogo.ttl?profiles=es_dcat_ap_2,eu_dcat_ap_scheming&page=2" ;
-    hydra:totalItems 1036 .
-
 <https://catalogo.datosabiertos.miteco.gob.es/catalogo/api/3/> a rdfs:Resource .
 
 <https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/00d5fcb9-1407-46ad-a3a1-ac163978cf52/resource/c5ee62bb-bb33-4464-95ae-995a4d7fa40e> a dcat:Distribution ;
