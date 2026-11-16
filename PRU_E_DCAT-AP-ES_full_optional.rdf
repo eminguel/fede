@@ -23,8 +23,6 @@
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
-    <dcat:catalog rdf:resource="http://dcat-ap-es.ejemplo.org/catalogo_relacionado"/>
-    <dcat:record rdf:resource="http://dcat-ap-es.ejemplo.org/catalogo/record/dataset-ejemplo-1E"/>
 
     <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
 
@@ -108,16 +106,6 @@
 
 
   </dcat:Catalog>
-
-  <dcat:CatalogRecord rdf:about="http://dcat-ap-es.ejemplo.org/CatalogRecord">
-    <foaf:primaryTopic rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1E"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-02T12:00:00+01:00</dct:modified>
-    <dct:conformsTo rdf:resource="http://datos.gob.es/es/documentacion/DCAT-AP-ES"/>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-01-01T12:00:00+01:00</dct:issued>
-    <adms:status rdf:resource="http://purl.org/adms/status/Completed"/>
-    <dct:title xml:lang="es">Registro del Dataset de ejemplo 1</dct:title>
-    <dct:description xml:lang="es">Registro de metadatos del Dataset de ejemplo 1 del Catálogo de Datos Abiertos</dct:description>
-  </dcat:CatalogRecord>
 
   <vcard:Organization rdf:about="http://dcat-ap-es.ejemplo.org/contactDataset">
     <vcard:organization-name xml:lang="es">Organismo</vcard:organization-name>
