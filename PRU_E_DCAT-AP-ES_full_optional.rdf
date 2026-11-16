@@ -47,10 +47,10 @@
       </dct:PeriodOfTime>
     </dct:temporal>
 
-    <dcat:dataset rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1EE"/>
+    <dcat:dataset rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1E"/>
     <dcat:dataset rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-2"/>
     <dcat:dataset rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-3"/>
-    <dcat:service rdf:resource="http://dcat-ap-es.ejemplo.org/dataservice/dataservice-ejemplo-1EE"/>
+    <dcat:service rdf:resource="http://dcat-ap-es.ejemplo.org/dataservice/dataservice-ejemplo-1E"/>
   </dcat:Catalog>
 
   <dcat:Catalog rdf:about="http://dcat-ap-es.ejemplo.org/catalogo-vinculado">
