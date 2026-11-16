@@ -139,7 +139,7 @@
     </dct:temporal>
 
     <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Provincia/Madrid"/>
-    <dct:identifier>IDD1</dct:identifier>
+    <dct:identifier>IDD1E</dct:identifier>
     <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
     <foaf:page rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1E/page"/>
     <dcat:landingPage rdf:resource="http://dcat-ap-es.ejemplo.org/dataset/dataset-ejemplo-1E/landing"/>
