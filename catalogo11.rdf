@@ -66,6 +66,7 @@ Este conjunto de datos cumple con los requerimientos del artículo 4 de la Direc
       </dct:PeriodOfTime>
     </dct:temporal>
 <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
+    <dct:license>
       <rdf:Description rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0">
         <dct:type rdf:resource="http://purl.org/adms/licencetype/UnknownIPR"/>
       </rdf:Description>
