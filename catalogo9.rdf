@@ -4408,7 +4408,7 @@ Esta cartografía solo recoge los límites entre Confederaciones Hidrográficas,
   </dcat:Catalog>
   <hydra:PagedCollection rdf:about="https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/catalogo9.rdf">
     <hydra:nextPage>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/catalogo10.rdf</hydra:nextPage>
-    <hydra:next>hhttps://raw.githubusercontent.com/eminguel/fede/refs/heads/main/catalogo10.rdf</hydra:next>
+    <hydra:next>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/catalogo10.rdf</hydra:next>
     <hydra:previousPage>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/catalogo8.rdf</hydra:previousPage>
     <hydra:previous>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/catalogo8.rdf</hydra:previous>
     <hydra:firstPage>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/catalogo1.rdf</hydra:firstPage>
