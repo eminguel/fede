@@ -46,7 +46,7 @@
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N47195548e14a44419f3051a02fa621ec">
+          <dct:PeriodOfTime rdf:nodeID="Ndca576d37f3e4c848f2ad897f4fcf319">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -95,6 +95,7 @@
     <dcat:theme rdf:resource="http://inspire.ec.europa.eu/theme/nz"/>
     <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+
     <dct:publisher>
       <foaf:Agent rdf:about="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001">
         <foaf:name xml:lang="es">Ministerio para la Transición Ecológica y el Reto Demográfico</foaf:name>
@@ -135,7 +136,7 @@
     <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
     <dct:temporal>
-      <dct:PeriodOfTime rdf:nodeID="N28de251feee74ea18e51c174b85ab84a">
+      <dct:PeriodOfTime rdf:nodeID="N1a6a5b77837b4af5af43bb6398278abf">
         <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
       </dct:PeriodOfTime>
     </dct:temporal>
@@ -283,7 +284,7 @@
     <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
     <dct:temporal>
-      <dct:PeriodOfTime rdf:nodeID="Ndc999358278d4c1daf67da0308ba5032">
+      <dct:PeriodOfTime rdf:nodeID="Ne2bfcce071d947aa91791492857deecb">
         <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
       </dct:PeriodOfTime>
     </dct:temporal>
@@ -415,7 +416,7 @@
     <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
     <dct:temporal>
-      <dct:PeriodOfTime rdf:nodeID="N0dfae3b78feb4e3e91a718a84fae3f13">
+      <dct:PeriodOfTime rdf:nodeID="N7e853259c1db4dedabaab1b17727d949">
         <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-04-01T00:00:00+00:00</dcat:startDate>
       </dct:PeriodOfTime>
     </dct:temporal>
@@ -507,7 +508,7 @@
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Na6e57aeff4834b68a8d6eba6c7424dfd">
+          <dct:PeriodOfTime rdf:nodeID="N7371da43e5524da29dd5fdc5bf036f4d">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -669,7 +670,7 @@ Entre los nutrientes analizados periódicamente, se encuentra el amonio, que es 
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -803,7 +804,7 @@ Entre los nutrientes analizados periódicamente, se encuentra el amonio, que es 
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3117,7 +3118,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:identifier>f5c95506-94eb-4022-9962-ea4960a9c085</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-28T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4619,7 +4620,7 @@ Para elaborar las gráficas de situación sobre macroinvertebrados bentónicos, 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Ne8d7f163cc7e4ff0a2cf83a2868cd0c0">
+          <dct:PeriodOfTime rdf:nodeID="Neaa7bf0542424f089432499ff673f140">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-01-10T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -4659,7 +4660,7 @@ Para elaborar las gráficas de situación sobre macroinvertebrados bentónicos, 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Ne7f8d01e0f3a439c87b92a2fad9e2b73">
+          <dct:PeriodOfTime rdf:nodeID="Nf428a928ab9644e88c74c4a20ce44113">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -4697,7 +4698,7 @@ Para elaborar las gráficas de situación sobre macroinvertebrados bentónicos, 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N544dabd8b54d44dfa5bad90c79678159">
+          <dct:PeriodOfTime rdf:nodeID="Ncb78531b0c5e4802bd12acdaf25ca455">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -4733,7 +4734,7 @@ Para elaborar las gráficas de situación sobre macroinvertebrados bentónicos, 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nd1c6fe1e81af45348ccee7246b6f639e">
+          <dct:PeriodOfTime rdf:nodeID="Ndd38d7944ff542d3bfd5fdbaad7528a6">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-04-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -4801,7 +4802,7 @@ Para elaborar las gráficas de situación sobre macroinvertebrados bentónicos, 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N122d3c14c9654b7e941108067d4eff56">
+          <dct:PeriodOfTime rdf:nodeID="N21f7711d4eb64eb5af66af378daaa6ef">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -4840,7 +4841,7 @@ Para elaborar las gráficas de situación sobre macroinvertebrados bentónicos, 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N034a87a33bcc4b84b4da514336155307">
+          <dct:PeriodOfTime rdf:nodeID="N9d5437abfcd7425893de106421b6ebdc">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -4879,7 +4880,7 @@ Para elaborar las gráficas de situación sobre macroinvertebrados bentónicos, 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N1b418c80322b491dbc92b21c5429088a">
+          <dct:PeriodOfTime rdf:nodeID="Ne4e0d6ae112646d0bcd5e8dffb511d33">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -4920,7 +4921,7 @@ Para elaborar las gráficas de situación sobre macroinvertebrados bentónicos, 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N2a8d0eb577d24af395abbf1504b384ac">
+          <dct:PeriodOfTime rdf:nodeID="N117d612cf8b94508ae46ef12103c200e">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -4959,7 +4960,7 @@ Para elaborar las gráficas de situación sobre macroinvertebrados bentónicos, 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N3ce1873d85ff4c348a50f1c7968442a1">
+          <dct:PeriodOfTime rdf:nodeID="N8b838433e65243ed804ed5e0b6b60444">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -4998,7 +4999,7 @@ Para elaborar las gráficas de situación sobre macroinvertebrados bentónicos, 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N2b49f68946eb497c87e36a96187dce26">
+          <dct:PeriodOfTime rdf:nodeID="N38aa0f74c0f9496b9b60303849d8a21e">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -5037,7 +5038,7 @@ Para elaborar las gráficas de situación sobre macroinvertebrados bentónicos, 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N2e634de334984503b961d4c4075a225a">
+          <dct:PeriodOfTime rdf:nodeID="N55d89a606de9473389f23d5cc13c4530">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -5076,7 +5077,7 @@ Para elaborar las gráficas de situación sobre macroinvertebrados bentónicos, 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N34c31ed19c194a4ab4b31279159ed94a">
+          <dct:PeriodOfTime rdf:nodeID="N5247eef0dc2444ef960a62cb6aae9377">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -5116,7 +5117,7 @@ Para elaborar las gráficas de situación sobre macroinvertebrados bentónicos, 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nc6be2852084d4eddbd3a56393b2bb816">
+          <dct:PeriodOfTime rdf:nodeID="Nc378596038274881923c4f4cb2d902bb">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -5155,7 +5156,7 @@ Para elaborar las gráficas de situación sobre macroinvertebrados bentónicos, 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N6b32343951584bd38a09baa63e768e54">
+          <dct:PeriodOfTime rdf:nodeID="Nd99f544e12e14755a9630b4b292651ce">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -5194,7 +5195,7 @@ Para elaborar las gráficas de situación sobre macroinvertebrados bentónicos, 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N99c2329154c14e258ac18facdbfe7154">
+          <dct:PeriodOfTime rdf:nodeID="N33b1d2be2fc94f8b9f7281f8c83345e3">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -5234,7 +5235,7 @@ Para elaborar las gráficas de situación sobre macroinvertebrados bentónicos, 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N850d1ff0b679442ca7623f142de9da9e">
+          <dct:PeriodOfTime rdf:nodeID="N71feb3b21a9346cd8e5820f08cf5d03b">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -5274,7 +5275,7 @@ Para elaborar las gráficas de situación sobre macroinvertebrados bentónicos, 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N62dff31d16c54997960dcc4c9155cc87">
+          <dct:PeriodOfTime rdf:nodeID="N8fdeec1cab974f1aa6b80aa22433e240">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -5314,7 +5315,7 @@ Para elaborar las gráficas de situación sobre macroinvertebrados bentónicos, 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nc217867cd3db46cea708a73561f2c6f5">
+          <dct:PeriodOfTime rdf:nodeID="Na2b980a78e974c00aa21ced4e241119c">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -5353,7 +5354,7 @@ Para elaborar las gráficas de situación sobre macroinvertebrados bentónicos, 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Ne39bae0c2b534fe6a3c7c6c5aa89778d">
+          <dct:PeriodOfTime rdf:nodeID="N32ecc213ecda4a7c8aa83ce717e492d0">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -5534,7 +5535,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nc51c6de71cb748aca5da99be6956459d">
+          <dct:PeriodOfTime rdf:nodeID="Nfefe8c86e6894986a8280c637046802d">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-29T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-01-01T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5568,7 +5569,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dct:identifier>f2918254-1bd9-43ac-a071-6ee275717dc6</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-01-10T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5581,7 +5582,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N70869292172041c5aee94115b6fffcf6">
+          <dct:PeriodOfTime rdf:nodeID="N1647a4e7c71a46119eafc1451c9bb3c6">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -5644,7 +5645,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dct:identifier>6a542aeb-b76f-42f2-b037-f6e611319be8</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-10-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5656,7 +5657,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N1258db5dae3743d383a9fe11f8323ee2">
+          <dct:PeriodOfTime rdf:nodeID="N8b7ed9da92674b07b1b9e0a8f14a7127">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-10-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -5720,7 +5721,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dct:identifier>816785cc-baaa-42e1-9374-66fd001e02be</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-05-05T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5763,7 +5764,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N2e58b78f1b394a728602c83ec65a19f5">
+          <dct:PeriodOfTime rdf:nodeID="N08bfa2c93370497390002197348b1558">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-29T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-01-01T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5798,7 +5799,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dct:identifier>6bf73cd3-cbd5-4827-90b2-ddd1a8d852b7</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-05-05T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5870,7 +5871,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dct:identifier>ea364deb-9584-46b1-b7c5-a70cadd45586</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-03-08T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5913,7 +5914,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N4e350ef69b274d6394f06fe33eddde43">
+          <dct:PeriodOfTime rdf:nodeID="N11cf8d5807c84f0595db3da9cd41cb45">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -5946,7 +5947,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dct:identifier>b2c245e7-2198-4067-9308-722fce0c1949</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-29T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5981,7 +5982,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dct:identifier>1ccfa417-be36-4425-9105-312ccc212efd</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-29T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5994,7 +5995,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Ndb5586a914cf4f2282d65219adebd28b">
+          <dct:PeriodOfTime rdf:nodeID="N2539da620d504341ad83e5c774089584">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-29T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-01-01T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -6059,7 +6060,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dct:identifier>c181404d-abb8-4f69-8c47-a50434270b51</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-03-08T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6131,7 +6132,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dct:identifier>30ed7c96-93a8-460f-bf26-f8b6772ed077</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-29T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6173,7 +6174,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N0707ff899b754452b6e8a68375db53f9">
+          <dct:PeriodOfTime rdf:nodeID="N4161ff82b7c945ab8ecee77ed0ba5530">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-09-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -6206,7 +6207,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dct:identifier>e7b7d140-e513-43e1-b48c-dec1df362603</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-29T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6219,7 +6220,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N12c727c78ee84f269bf6578d8a417247">
+          <dct:PeriodOfTime rdf:nodeID="N9260e0828d904e5fa035bfa814edd8b1">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-29T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-01-01T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -6255,7 +6256,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N5052b2ff0bff47d5972c43cbc4473259">
+          <dct:PeriodOfTime rdf:nodeID="N821425e564c342879732170003b88752">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-30T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -6288,7 +6289,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dct:identifier>51d64eab-0610-46a2-a9ea-61ee95569b4c</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-05-05T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6331,7 +6332,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N2f177e4361a048b79afa0e94a35258d3">
+          <dct:PeriodOfTime rdf:nodeID="N01bf48ab710343ca9083c06a70c68305">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-30T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -6451,7 +6452,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -6498,7 +6499,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -6798,7 +6799,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -6816,7 +6817,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -6907,7 +6908,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7015,7 +7016,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7122,7 +7123,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga de cartografía digital (GML):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7140,7 +7141,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7172,7 +7173,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7237,7 +7238,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7318,7 +7319,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7349,7 +7350,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7367,7 +7368,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7640,7 +7641,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga de cartografía digital (Shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.rar"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/RAR"/>
@@ -7783,7 +7784,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7819,7 +7820,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7853,7 +7854,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8031,7 +8032,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8064,7 +8065,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8441,7 +8442,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8487,7 +8488,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8505,7 +8506,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8523,7 +8524,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8571,7 +8572,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8666,7 +8667,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8684,7 +8685,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8900,7 +8901,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8933,7 +8934,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8967,7 +8968,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -9000,7 +9001,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -9047,7 +9048,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Red de control de nitratos en aguas superficiales (Informe cuatrienio 2016-2019. Dir 91/676/CEE)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -9172,7 +9173,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -9246,7 +9247,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -9277,7 +9278,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -9393,7 +9394,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -9485,7 +9486,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -9547,7 +9548,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -9593,7 +9594,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -9785,7 +9786,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga de cartografía digital (GeoPackage)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -10043,7 +10044,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -10290,7 +10291,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -10470,7 +10471,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -10488,7 +10489,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -10533,7 +10534,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -10627,7 +10628,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -10645,7 +10646,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -10676,7 +10677,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -10694,7 +10695,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -10937,7 +10938,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -11176,7 +11177,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -11194,7 +11195,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga de cartografía digital (GML):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -11269,7 +11270,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -11451,7 +11452,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -11484,7 +11485,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -11502,7 +11503,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -11559,7 +11560,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -12008,7 +12009,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -12026,7 +12027,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -12044,7 +12045,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -12245,7 +12246,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -12556,7 +12557,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -12604,7 +12605,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -12889,7 +12890,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Red de control de nitratos en aguas subterráneas (Informe cuatrienio 2016-2019. Dir 91/676/CEE)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -13070,7 +13071,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -13132,7 +13133,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -13575,7 +13576,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -13748,7 +13749,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -14011,7 +14012,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>

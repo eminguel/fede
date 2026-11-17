@@ -77,7 +77,7 @@
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N3680d6a2b1ef42f0a0cdb53f0687bc99">
+          <dct:PeriodOfTime rdf:nodeID="Nfd654a8c6c4c46a18083b0ee09db52a6">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-04-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -149,7 +149,7 @@
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N047078e2114d4ea485c1a9a7092cd9ad">
+          <dct:PeriodOfTime rdf:nodeID="N1828c9c806d34b379a517f109844065b">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1980-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -724,7 +724,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nd70021dbac8148afbea784c59cdb857d">
+          <dct:PeriodOfTime rdf:nodeID="N0a247f3f47d8484ab8bdbd7468f61d4d">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -766,7 +766,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N1fb40d2a23434684a0f8d02d5ec6ee6f">
+          <dct:PeriodOfTime rdf:nodeID="N6c9d070fb538425281096f8a31299e90">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -807,7 +807,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N69f32b4dd75349768b7ce6188ab349d7">
+          <dct:PeriodOfTime rdf:nodeID="N82af85b445be43fc91ca39b8c104a7fb">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -847,7 +847,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N10bb04f5bbd1403b85e3f5e3b071f88a">
+          <dct:PeriodOfTime rdf:nodeID="N3baf7497ffb24a5585820e18b412f417">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-12-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -886,7 +886,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N4f754b8ceedd430290598d2f483ea8dc">
+          <dct:PeriodOfTime rdf:nodeID="N0f00ec3a0afd4f6dab97fe1580960614">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-07-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -927,7 +927,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N683815e2a7ec4229bdd7af3feef25539">
+          <dct:PeriodOfTime rdf:nodeID="Nbfdf72ae78f64b3898c967e65435ff38">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-07-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -968,7 +968,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Ndaff06ca7a1c4e0bb0d011b2b1017586">
+          <dct:PeriodOfTime rdf:nodeID="N0130e0df51854bf6ad74d78cdc58d7c6">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-07-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -1008,7 +1008,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N54d609a406cc4e91b5738da001cbec0f">
+          <dct:PeriodOfTime rdf:nodeID="N6e456f8da47343af90166707350a5468">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-03-20T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -1049,7 +1049,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nefe33981804b4c859580b72e6b2e7549">
+          <dct:PeriodOfTime rdf:nodeID="N5f46edcc69944df8b9231641bdc41d7b">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-03-20T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -1088,7 +1088,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N0ab53bd1b5d14682990aebc579811818">
+          <dct:PeriodOfTime rdf:nodeID="N29c7dbe8836645399f6ceab1961b3c3c">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-20T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-11-01T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -1131,7 +1131,7 @@ En cuanto al ámbito marino los acimuts de las líneas límite costeras entre de
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nc8a7957e71534226863e3a5c4af3ee67">
+          <dct:PeriodOfTime rdf:nodeID="N6fd12f05962f420fb81fd9a7c707b553">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -1172,7 +1172,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N20ea6ba98d744d698ebe2e8ab1007940">
+          <dct:PeriodOfTime rdf:nodeID="Nb7a0f4d548da406ba1863c2f308c207a">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-24T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -1251,7 +1251,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N61036472bd8d4a178859baf4d5601fa4">
+          <dct:PeriodOfTime rdf:nodeID="N763445626410462a9f6cda21ed2e6bf6">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -1292,7 +1292,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N94eb0a92b27140c9becdf139734eb435">
+          <dct:PeriodOfTime rdf:nodeID="N7c6bf2cf35f54eebb0616538322d6132">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -1333,7 +1333,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N053dbd0ea55940419826994b658a3e33">
+          <dct:PeriodOfTime rdf:nodeID="N6b674a983ace487b95021b15ff342a9b">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-24T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -1374,7 +1374,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N602af360d109429da545da96644feaaf">
+          <dct:PeriodOfTime rdf:nodeID="N3b77d4f01a6141318d0c96170099a391">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-24T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -1415,7 +1415,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N3a2ed45b0ce04200968316af3b29349a">
+          <dct:PeriodOfTime rdf:nodeID="N61cb5becd53b4ccd85631fffb74ce17c">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-24T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -1456,7 +1456,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Ne4f24c1ffa214c9f8e9b3585495178e8">
+          <dct:PeriodOfTime rdf:nodeID="N7a6a8ee9cfed464486797147d7ebf6e6">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-11-15T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -1494,7 +1494,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N1bed4ad6aaad48ebbca36899bcfb0d20">
+          <dct:PeriodOfTime rdf:nodeID="N6de7808f2ba34e408265d1ff9a7f7211">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-03-03T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -1533,7 +1533,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N7b31a66b9aaf4361b0716af752e9f769">
+          <dct:PeriodOfTime rdf:nodeID="N2a3ae14f66de495ebbe6687b908c57bf">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -1575,7 +1575,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N045c89fd33ca4ac7b309e04ecc17cfc8">
+          <dct:PeriodOfTime rdf:nodeID="N010d6574e63b43648db45a967186ec4a">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-24T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -1617,7 +1617,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nd2445ee2e1cf442e924e09e5f905caff">
+          <dct:PeriodOfTime rdf:nodeID="N208d9476d7aa49f58cfc4e3ce23386a7">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -1658,7 +1658,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nce9e355f5f654ac5bb64cdac87b14fdb">
+          <dct:PeriodOfTime rdf:nodeID="N8bfa8c4d50834d1888c17d37d4619523">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -1686,7 +1686,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -1706,7 +1706,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -1726,7 +1726,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile) Embalses:</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -1746,7 +1746,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile) de Presas:</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -1766,7 +1766,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -1786,7 +1786,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -1806,7 +1806,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -1826,7 +1826,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -1846,7 +1846,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -1866,11 +1866,11 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.api+json"/>
         <dct:format>
-          <dct:IMT rdf:nodeID="N1edd1948b0934bee89f9336c9f2f6487">
+          <dct:IMT rdf:nodeID="N3b149e6b900f497eabb71882ebbd65fb">
             <rdf:value>text/API</rdf:value>
             <rdfs:label>API</rdfs:label>
           </dct:IMT>
@@ -1891,7 +1891,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -1911,7 +1911,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -1931,7 +1931,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -1951,7 +1951,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -1971,7 +1971,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -1991,7 +1991,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2011,7 +2011,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2031,7 +2031,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2051,7 +2051,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2071,7 +2071,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2091,7 +2091,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2111,7 +2111,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Aglomeraciones urbanas (Q2019. Dir 91/271/CEE)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -2131,7 +2131,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2151,7 +2151,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2171,7 +2171,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2191,7 +2191,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.rar"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/RAR"/>
@@ -2211,7 +2211,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Ámbito de gestión de los Organismos de cuenca:</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -2231,7 +2231,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2251,7 +2251,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (GML):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2271,7 +2271,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Censo de Zonas de Aguas de Baño 2020</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -2291,7 +2291,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2311,7 +2311,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (GML):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2331,7 +2331,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Censo de Zonas de Aguas de Baño 2021</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -2351,7 +2351,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2371,7 +2371,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2391,7 +2391,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2411,7 +2411,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2431,7 +2431,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Capa de Google Earth (KMZ)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -2451,7 +2451,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2471,7 +2471,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2491,7 +2491,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2511,7 +2511,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2531,7 +2531,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2551,7 +2551,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Capa de Google Earth (KMZ)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -2571,7 +2571,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2591,7 +2591,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2611,7 +2611,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Capa de Google Earth (KMZ)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -2631,7 +2631,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2651,7 +2651,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Depuradoras de aguas residuales (Q2019. Dir 91/271/CEE)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -2671,7 +2671,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2691,7 +2691,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2711,7 +2711,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2731,7 +2731,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2751,7 +2751,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2771,7 +2771,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2791,7 +2791,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2811,7 +2811,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2831,7 +2831,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile).</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2851,7 +2851,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Masas de agua subterránea PHC 2015-2021</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -2871,7 +2871,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2891,7 +2891,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2911,7 +2911,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Capa de Google Earth (KMZ)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -2931,7 +2931,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2951,7 +2951,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -2981,6 +2981,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
     <dcat:theme rdf:resource="http://inspire.ec.europa.eu/theme/lc"/>
     <dcat:theme rdf:resource="http://inspire.ec.europa.eu/theme/tn"/>
     <dcat:theme rdf:resource="http://inspire.ec.europa.eu/theme/us"/>
+
     <dct:publisher>
       <foaf:Agent rdf:about="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001">
         <foaf:name xml:lang="es">Ministerio para la Transición Ecológica y el Reto Demográfico</foaf:name>
@@ -3689,7 +3690,7 @@ Las medidas adoptadas en el marco de la Directiva de Hábitats (Directiva 92/43/
         <dct:identifier>7ebaf4ac-0d1c-4ed5-a852-5bf1122cb585</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-23T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3911,7 +3912,7 @@ Se entiende por erosión potencial aquella que tendría lugar teniendo en cuenta
     <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
     <dct:temporal>
-      <dct:PeriodOfTime rdf:nodeID="N69ce88f0f1f1439d8ce28acb423b5a5c">
+      <dct:PeriodOfTime rdf:nodeID="Nfb96507f990f4eaaaa34b087b2187855">
         <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-04-27T00:00:00+00:00</dcat:startDate>
       </dct:PeriodOfTime>
     </dct:temporal>
@@ -4045,7 +4046,7 @@ Se entiende por erosión potencial aquella que tendría lugar teniendo en cuenta
     <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
     <dct:temporal>
-      <dct:PeriodOfTime rdf:nodeID="Nb1ffb66ae0104b1f889a268270a49fb2">
+      <dct:PeriodOfTime rdf:nodeID="N8882643294d8460683b3551835339ee5">
         <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-01-01T00:00:00+00:00</dcat:startDate>
       </dct:PeriodOfTime>
     </dct:temporal>
@@ -4131,7 +4132,7 @@ Se entiende por erosión potencial aquella que tendría lugar teniendo en cuenta
         <dct:identifier>8668f1a9-1ce3-47a9-be88-3af39d9d32c</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-07-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4226,7 +4227,7 @@ Se entiende por erosión potencial aquella que tendría lugar teniendo en cuenta
         <dct:identifier>d42a94ea-23ef-47fe-9c84-81915210bf51</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-23T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4758,7 +4759,7 @@ La metodología aplicada para la obtención de esta información y su aplicació
     <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
     <dct:temporal>
-      <dct:PeriodOfTime rdf:nodeID="N4b5ac3be21184041b6d8eb5b337645e1">
+      <dct:PeriodOfTime rdf:nodeID="N470cfd5aed3b4cc59a2c19ab87a2fee2">
         <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T00:00:00+00:00</dcat:startDate>
       </dct:PeriodOfTime>
     </dct:temporal>
@@ -4939,7 +4940,7 @@ La metodología aplicada para la obtención de esta información y su aplicació
         <dct:identifier>ddb72383-f276-4f8c-abfc-525b5462312e</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-23T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5032,7 +5033,7 @@ La metodología aplicada para la obtención de esta información y su aplicació
         <dct:identifier>1d00d292-65b9-4fbd-a77b-8969019d9910</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-23T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5486,6 +5487,157 @@ La metodología aplicada para la obtención de esta información y su aplicació
     <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
   </dcat:DataService>
+  <dcat:Dataset rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304">
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <dct:title xml:lang="es">Demarcaciones hidrográficas (ámbito terrestre)</dct:title>
+    <dct:description xml:lang="es">Ámbito terrestre de las demarcaciones hidrográficas, definidas de acuerdo con lo establecido en la directiva marco del agua. La Demarcación Hidrográfica se define como la zona terrestre y marina compuesta por una o varias cuencas hidrográficas vecinas y las aguas de transición, subterráneas y costeras asociadas a dichas cuencas. El límite entre el ámbito terrestre y el ámbito marino de las demarcaciones hidrográficas se ha establecido utilizando la línea interior de las masas costeras y de transición de los Planes Hidrológicos del periodo 2016-2021. Este conjunto de datos deriva, por tanto, del conjunto de datos de Demarcaciones Hidrográficas (ámbitos terrestre y marino), una vez eliminada la zona de ámbito marino del mismo.  
+La actual versión de este conjunto de datos (septiembre 2021) está adaptada, en el ámbito terrestre de las demarcaciones, a la Orden TEC/921/2018, de 30 de agosto, por la que se definen las líneas que indican los límites cartográficos principales de los ámbitos territoriales de las confederaciones hidrográficas de acuerdo con lo establecido en el Real Decreto 650/1987, de 8 de mayo, por el que se definen los ámbitos territoriales de los organismos de cuenca y de los planes hidrológicos.</dct:description>
+    <dcat:landingPage rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304"/>
+    <dct:identifier>ea8ca652-1e55-4ac1-b4de-433d39c84304</dct:identifier>
+    <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset"/>
+    <dcat:keyword xml:lang="es">area-management-restriction-regulation-z</dcat:keyword>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-01T00:00:00+00:00</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
+    <dct:conformsTo rdf:resource="http://data.europa.eu/930/"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/crs/EPSG/0/4258"/>
+    <dct:isReferencedBy>
+      <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=ea8ca652-1e55-4ac1-b4de-433d39c84304&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
+    </dct:isReferencedBy>
+    <dcat:theme rdf:resource="http://inspire.ec.europa.eu/theme/am"/>
+    <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+    <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
+    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
+    <dct:temporal>
+      <dct:PeriodOfTime rdf:nodeID="Neaac8093b454421e9d99bfe523f4db0c">
+        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-12-01T00:00:00+00:00</dcat:startDate>
+      </dct:PeriodOfTime>
+    </dct:temporal>
+    <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
+    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304/resource/b72b6f25-83ee-4c39-8f84-f20ce29b8dd4">
+        <dct:title xml:lang="es">AM.RiverBasinDistrict</dct:title>
+        <dct:description xml:lang="es">Demarcaciones hidrográficas (ámbito terrestre)</dct:description>
+        <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wms"/>
+        <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"/>
+        <dcat:accessURL rdf:resource="https://wms.mapama.gob.es/sig/agua/Demarcaciones?request=GetCapabilities&amp;service=WMS"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:modified>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dcat:accessService rdf:resource="https://wms.mapama.gob.es/sig/agua/Demarcaciones"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304/resource/cef20c88-85cc-4722-b8a7-d474bc7fff80">
+        <dct:title xml:lang="es">Descripción del Servicio de Demarcaciones hidrográficas (ámbito terrestre):</dct:title>
+        <dct:description xml:lang="es">Descripción del Servicio de Demarcaciones hidrográficas (ámbito terrestre):</dct:description>
+        <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"/>
+        <dcat:accessURL rdf:resource="https://wms.mapama.gob.es/sig/agua/Demarcaciones?request=GetCapabilities&amp;service=WMS"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:modified>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304/resource/264f65b2-0e5e-400d-ad72-4f69967975aa">
+        <dct:title xml:lang="es">Servicio de descarga WFS de Demarcaciones hidrográficas (ámbito terrestre):</dct:title>
+        <dct:description xml:lang="es">Servicio de descarga WFS de Demarcaciones hidrográficas (ámbito terrestre):</dct:description>
+        <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"/>
+        <dcat:accessURL rdf:resource="https://wmts.mapama.gob.es/sig/wfs_agua/demarcaciones_et/wfs?request=GetCapabilities&amp;service=WMS"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:modified>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304/resource/7c8888da-ca21-442e-bc21-aea245dca21f">
+        <dct:title xml:lang="es">Enlace de descarga del servicio ATOM</dct:title>
+        <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+        <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+        <dcat:accessURL rdf:resource="https://www.mapama.gob.es/ide/inspire/atom/downloadservice.xml"/>
+        <dcat:downloadURL rdf:resource="https://www.mapama.gob.es/ide/inspire/atom/downloadservice.xml"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:modified>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304/resource/3673b7b2-136f-4fcf-acc8-756dae42c407">
+        <dct:title xml:lang="es">Servicio de descarga de objetos geográficos OGC API Features</dct:title>
+        <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMTS_SRVC"/>
+        <dcat:accessURL rdf:resource="https://wmts.mapama.gob.es/sig-api/ogc/features/v1?request=GetCapabilities&amp;service=WMTS"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:modified>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304/resource/61911685-b213-4fcf-8e4f-b2ccd52def07">
+        <dct:title xml:lang="es">Geoportal del Ministerio:</dct:title>
+        <dct:description xml:lang="es">Geoportal del Ministerio:</dct:description>
+        <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+        <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+        <dcat:accessURL rdf:resource="https://sig.mapama.gob.es/geoportal"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:modified>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <dcat:distribution>
+      <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304/resource/4a4e7c06-65fd-4103-87fe-a1fff161e764">
+        <dct:title xml:lang="es">Península Ibérica, Islas Baleares, Canarias, Ceuta y Melilla - EPSG:4258</dct:title>
+        <dct:description xml:lang="es">Descarga de cartografía digital (shapefile):</dct:description>
+        <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+        <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+        <dcat:accessURL rdf:resource="https://www.mapama.gob.es/app/descargas/descargafichero.aspx?f=Demarcaciones_a_terrestres.zip"/>
+        <dcat:downloadURL rdf:resource="https://www.mapama.gob.es/app/descargas/descargafichero.aspx?f=Demarcaciones_a_terrestres.zip"/>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:modified>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+      </dcat:Distribution>
+    </dcat:distribution>
+    <adms:status rdf:resource="http://publications.europa.eu/resource/authority/distribution-status/COMPLETED"/>
+    <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+    <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_ac64a52d"/>
+  </dcat:Dataset>
   <dcat:DataService rdf:about="https://wms.mapama.gob.es/sig/Agua/PHC/MasasAguaSupL2015">
     <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
     <dct:title xml:lang="en">Web Map Service (WMS)</dct:title>
@@ -5517,7 +5669,7 @@ La metodología aplicada para la obtención de esta información y su aplicació
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Naa4afe6291d144cfb39e1362309fa095">
+          <dct:PeriodOfTime rdf:nodeID="N845d4966b0a14781829dda26e6459c03">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5596,7 +5748,7 @@ La metodología aplicada para la obtención de esta información y su aplicació
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Na1ae610b0f78437bb4f30df2b51fd3a6">
+          <dct:PeriodOfTime rdf:nodeID="N19e7f02d8ced4edeae7f0f70e4058179">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -5794,7 +5946,7 @@ La metodología aplicada para la obtención de esta información y su aplicació
     <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
     <dct:temporal>
-      <dct:PeriodOfTime rdf:nodeID="N135fb0437c3948fe9087f017cdcf4017">
+      <dct:PeriodOfTime rdf:nodeID="N32de64de98354c09a914ebef83315b8d">
         <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-01-01T00:00:00+00:00</dcat:startDate>
       </dct:PeriodOfTime>
     </dct:temporal>
@@ -7709,7 +7861,7 @@ Esta cartografía solo recoge los límites entre Confederaciones Hidrográficas,
         <dct:identifier>0bd90d88-25d8-4f7b-b820-0c6ef07ef3bd</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-23T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -7747,7 +7899,7 @@ Esta cartografía solo recoge los límites entre Confederaciones Hidrográficas,
         <dct:identifier>7037310a-24fa-493b-a7cd-59d37f5ea422</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-23T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -7783,7 +7935,7 @@ Esta cartografía solo recoge los límites entre Confederaciones Hidrográficas,
         <dct:identifier>a4889c9b-af28-4044-96e9-456d7790d802</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-23T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -7820,7 +7972,7 @@ Esta cartografía solo recoge los límites entre Confederaciones Hidrográficas,
         <dct:identifier>7be5e545-2fe1-4350-99d0-c39f1c264c58</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-23T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -7856,7 +8008,7 @@ Esta cartografía solo recoge los límites entre Confederaciones Hidrográficas,
         <dct:identifier>457cb3b3-e9b8-4866-9c17-4ca2288405f1</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-23T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -7892,7 +8044,7 @@ Esta cartografía solo recoge los límites entre Confederaciones Hidrográficas,
         <dct:identifier>af66f77a-f5dd-407d-93f1-e32ce975e8f2</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-12-20T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -7934,7 +8086,7 @@ Esta cartografía solo recoge los límites entre Confederaciones Hidrográficas,
         <dct:identifier>53fc1480-ecd5-48ed-8b16-683c77479e9c</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores.</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-05-27T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -8376,47 +8528,7 @@ Esta cartografía solo recoge los límites entre Confederaciones Hidrográficas,
     <dcat:dataset rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/e7db6624-420a-4cda-a4d7-87edc709dad9"/>
     <dcat:dataset rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/3232c429-11a2-4be1-ae73-02366d7d8f19"/>
     <dcat:dataset rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/95b8abce-2083-40b3-bd6b-83a7d8a72307"/>
-    <dcat:dataset>
-      <dcat:Dataset rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304">
-        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-        <dct:title xml:lang="es">Demarcaciones hidrográficas (ámbito terrestre)</dct:title>
-        <dct:description xml:lang="es">Ámbito terrestre de las demarcaciones hidrográficas, definidas de acuerdo con lo establecido en la directiva marco del agua. La Demarcación Hidrográfica se define como la zona terrestre y marina compuesta por una o varias cuencas hidrográficas vecinas y las aguas de transición, subterráneas y costeras asociadas a dichas cuencas. El límite entre el ámbito terrestre y el ámbito marino de las demarcaciones hidrográficas se ha establecido utilizando la línea interior de las masas costeras y de transición de los Planes Hidrológicos del periodo 2016-2021. Este conjunto de datos deriva, por tanto, del conjunto de datos de Demarcaciones Hidrográficas (ámbitos terrestre y marino), una vez eliminada la zona de ámbito marino del mismo.  
-La actual versión de este conjunto de datos (septiembre 2021) está adaptada, en el ámbito terrestre de las demarcaciones, a la Orden TEC/921/2018, de 30 de agosto, por la que se definen las líneas que indican los límites cartográficos principales de los ámbitos territoriales de las confederaciones hidrográficas de acuerdo con lo establecido en el Real Decreto 650/1987, de 8 de mayo, por el que se definen los ámbitos territoriales de los organismos de cuenca y de los planes hidrológicos.</dct:description>
-        <dcat:landingPage rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304"/>
-        <dct:identifier>ea8ca652-1e55-4ac1-b4de-433d39c84304</dct:identifier>
-        <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset"/>
-        <dcat:keyword xml:lang="es">area-management-restriction-regulation-z</dcat:keyword>
-        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-02-01T00:00:00+00:00</dct:modified>
-        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
-        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
-        <dct:conformsTo rdf:resource="http://data.europa.eu/930/"/>
-        <dct:conformsTo rdf:resource="http://www.opengis.net/def/crs/EPSG/0/4258"/>
-        <dct:isReferencedBy rdf:resource="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=ea8ca652-1e55-4ac1-b4de-433d39c84304&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
-        <dcat:theme rdf:resource="http://inspire.ec.europa.eu/theme/am"/>
-        <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-        <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
-        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
-        <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N0dfca099e74146ea918905767be3925c">
-            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-12-01T00:00:00+00:00</dcat:startDate>
-          </dct:PeriodOfTime>
-        </dct:temporal>
-        <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
-        <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dcat:distribution rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304/resource/b72b6f25-83ee-4c39-8f84-f20ce29b8dd4"/>
-        <dcat:distribution rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304/resource/cef20c88-85cc-4722-b8a7-d474bc7fff80"/>
-        <dcat:distribution rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304/resource/264f65b2-0e5e-400d-ad72-4f69967975aa"/>
-        <dcat:distribution rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304/resource/7c8888da-ca21-442e-bc21-aea245dca21f"/>
-        <dcat:distribution rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304/resource/3673b7b2-136f-4fcf-acc8-756dae42c407"/>
-        <dcat:distribution rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304/resource/61911685-b213-4fcf-8e4f-b2ccd52def07"/>
-        <dcat:distribution rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304/resource/4a4e7c06-65fd-4103-87fe-a1fff161e764"/>
-        <adms:status rdf:resource="http://publications.europa.eu/resource/authority/distribution-status/COMPLETED"/>
-        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
-        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_ac64a52d"/>
-      </dcat:Dataset>
-    </dcat:dataset>
+    <dcat:dataset rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304"/>
     <dcat:dataset>
       <dcat:Dataset rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/074bc7ac-2e2f-4bbd-8f50-dce034f7c5d5">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
@@ -8440,7 +8552,7 @@ Las demarcaciones hidrográficas constituyen la principal unidad de gestión de 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N23b72f2c65df4e0884c811da68d5ea5a">
+          <dct:PeriodOfTime rdf:nodeID="N1aa938faa97a40e08d84f996c16ce68e">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -8482,7 +8594,7 @@ Las demarcaciones hidrográficas constituyen la principal unidad de gestión de 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N6bf7316ab8244383a0bbcc04ff5a2b47">
+          <dct:PeriodOfTime rdf:nodeID="N65278a7b25ce44e4864d73dac4cb695d">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-04-02T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -8610,7 +8722,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N9003b2d84dc4456cabeb2c9135bf9672">
+          <dct:PeriodOfTime rdf:nodeID="N723f54da53b04a0aaa7e99b1d913f987">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -8654,7 +8766,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N4b68a33e6b1b46a3a39bd416461d8b60">
+          <dct:PeriodOfTime rdf:nodeID="N3d46f89a60674d7384b0ccb4ca8c36ad">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -9046,20 +9158,6 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
     <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
     <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
   </dcat:Distribution>
-  <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304/resource/264f65b2-0e5e-400d-ad72-4f69967975aa">
-    <dct:title xml:lang="es">Servicio de descarga WFS de Demarcaciones hidrográficas (ámbito terrestre):</dct:title>
-    <dct:description xml:lang="es">Servicio de descarga WFS de Demarcaciones hidrográficas (ámbito terrestre):</dct:description>
-    <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
-    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"/>
-    <dcat:accessURL rdf:resource="https://wmts.mapama.gob.es/sig/wfs_agua/demarcaciones_et/wfs?request=GetCapabilities&amp;service=WMS"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
-    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-    <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
-    <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
-  </dcat:Distribution>
   <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/595c2faa-5a27-4500-aed1-aa9385347eb6/resource/bb1437a7-5723-476d-a63a-efa64169c4e9">
     <dct:title xml:lang="es">Península Ibérica, Islas Baleares, Canarias, Ceuta y Melilla - EPSG:4258</dct:title>
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
@@ -9407,21 +9505,6 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMTS_SRVC"/>
     <dcat:accessURL rdf:resource="https://wmts.mapama.gob.es/sig-api/ogc/features/v1?request=GetCapabilities&amp;service=WMTS"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
-    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-    <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
-    <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
-  </dcat:Distribution>
-  <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304/resource/7c8888da-ca21-442e-bc21-aea245dca21f">
-    <dct:title xml:lang="es">Enlace de descarga del servicio ATOM</dct:title>
-    <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
-    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-    <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
-    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
-    <dcat:accessURL rdf:resource="https://www.mapama.gob.es/ide/inspire/atom/downloadservice.xml"/>
-    <dcat:downloadURL rdf:resource="https://www.mapama.gob.es/ide/inspire/atom/downloadservice.xml"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
@@ -10227,22 +10310,6 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
     <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
     <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
   </dcat:Distribution>
-  <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304/resource/4a4e7c06-65fd-4103-87fe-a1fff161e764">
-    <dct:title xml:lang="es">Península Ibérica, Islas Baleares, Canarias, Ceuta y Melilla - EPSG:4258</dct:title>
-    <dct:description xml:lang="es">Descarga de cartografía digital (shapefile):</dct:description>
-    <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
-    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
-    <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
-    <dcat:accessURL rdf:resource="https://www.mapama.gob.es/app/descargas/descargafichero.aspx?f=Demarcaciones_a_terrestres.zip"/>
-    <dcat:downloadURL rdf:resource="https://www.mapama.gob.es/app/descargas/descargafichero.aspx?f=Demarcaciones_a_terrestres.zip"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
-    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-    <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
-    <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
-  </dcat:Distribution>
   <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/4472c92c-b379-4bde-b111-1be5e90d2473/resource/9044cc92-42be-476a-ba84-45c5bbb6ee9a">
     <dct:title xml:lang="es">AM.WaterBodyForWFD</dct:title>
     <dct:description xml:lang="es">Censo de Zonas de Aguas de Baño 2023</dct:description>
@@ -10636,22 +10703,6 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
     <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
     <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
   </dcat:Distribution>
-  <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304/resource/cef20c88-85cc-4722-b8a7-d474bc7fff80">
-    <dct:title xml:lang="es">Descripción del Servicio de Demarcaciones hidrográficas (ámbito terrestre):</dct:title>
-    <dct:description xml:lang="es">Descripción del Servicio de Demarcaciones hidrográficas (ámbito terrestre):</dct:description>
-    <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
-    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"/>
-    <dcat:accessURL>
-      <rdfs:Resource rdf:about="https://wms.mapama.gob.es/sig/agua/Demarcaciones?request=GetCapabilities&amp;service=WMS"/>
-    </dcat:accessURL>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
-    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-    <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
-    <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
-  </dcat:Distribution>
   <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/e64270b5-5226-45b4-8bdb-e7e07286c854/resource/2d853473-0761-4419-aa7a-4da4dcb1b242">
     <dct:title xml:lang="es">Descripción del Servicio WMS de Rangos de Hábitat Artículo 17 (período 2013-2018):</dct:title>
     <dct:description xml:lang="es">Descripción del Servicio WMS de Rangos de Hábitat Artículo 17 (período 2013-2018):</dct:description>
@@ -10737,22 +10788,6 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
     <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
     <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
-  </dcat:Distribution>
-  <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304/resource/b72b6f25-83ee-4c39-8f84-f20ce29b8dd4">
-    <dct:title xml:lang="es">AM.RiverBasinDistrict</dct:title>
-    <dct:description xml:lang="es">Demarcaciones hidrográficas (ámbito terrestre)</dct:description>
-    <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
-    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wms"/>
-    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"/>
-    <dcat:accessURL rdf:resource="https://wms.mapama.gob.es/sig/agua/Demarcaciones?request=GetCapabilities&amp;service=WMS"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
-    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-    <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
-    <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
-    <dcat:accessService rdf:resource="https://wms.mapama.gob.es/sig/agua/Demarcaciones"/>
   </dcat:Distribution>
   <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=c05ec925-9280-4dfd-8a17-818836e0ba59&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
   <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/613df64c-daa0-41c3-81c9-1a408bd73863/resource/15131d3f-22d7-47e3-aa13-95673b7c60ca">
@@ -11044,19 +11079,6 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
     <dcat:accessURL rdf:resource="https://wms.mapama.gob.es/sig/Biodiversidad/AvesArt12/2013-2018?request=GetCapabilities&amp;service=WMS"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
-    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-    <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
-    <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
-  </dcat:Distribution>
-  <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304/resource/3673b7b2-136f-4fcf-acc8-756dae42c407">
-    <dct:title xml:lang="es">Servicio de descarga de objetos geográficos OGC API Features</dct:title>
-    <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
-    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMTS_SRVC"/>
-    <dcat:accessURL rdf:resource="https://wmts.mapama.gob.es/sig-api/ogc/features/v1?request=GetCapabilities&amp;service=WMTS"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
     <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
     <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
@@ -13699,21 +13721,6 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
     <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
     <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
   </dcat:Distribution>
-  <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/ea8ca652-1e55-4ac1-b4de-433d39c84304/resource/61911685-b213-4fcf-8e4f-b2ccd52def07">
-    <dct:title xml:lang="es">Geoportal del Ministerio:</dct:title>
-    <dct:description xml:lang="es">Geoportal del Ministerio:</dct:description>
-    <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
-    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
-    <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
-    <dcat:accessURL rdf:resource="https://sig.mapama.gob.es/geoportal"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
-    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-    <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
-    <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
-  </dcat:Distribution>
   <rdfs:Resource rdf:about="https://wms.mapama.gob.es/sig/Agua/EDAR/2015?request=GetCapabilities&amp;service=WMS"/>
   <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=65ebb42b-f435-48b1-8f91-a67d428e0d22&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
   <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/d4ffc403-f1d9-4a64-a7f0-1ebcb99deca4/resource/8d8d43c2-1113-493d-a1d9-f3cd53c12ef4">
@@ -14111,6 +14118,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
   <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=6e12c0a9-fa60-4400-8b80-aa844c4a47b4&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
   <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=4f218701-1004-4b15-93b1-298551ae9446&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
   <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=bf0968e0-5f38-4cd5-bdf2-412cee087637&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
+  <rdfs:Resource rdf:about="https://wms.mapama.gob.es/sig/agua/Demarcaciones?request=GetCapabilities&amp;service=WMS"/>
   <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=613df64c-daa0-41c3-81c9-1a408bd73863&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
   <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=3921abc9-a5bb-434e-828d-501d64b2bd9f&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
   <rdfs:Resource rdf:about="https://wms.mapama.gob.es/sig/Biodiversidad/SD_EIDOS?request=GetCapabilities&amp;service=WMS"/>
@@ -14165,7 +14173,6 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
   <rdfs:Resource rdf:about="https://wms.mapama.gob.es/sig/Biodiversidad/INESErosionEolica?request=GetCapabilities&amp;service=WMS"/>
   <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=83466d43-3021-49f8-b664-9e4558901461&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
   <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=e64270b5-5226-45b4-8bdb-e7e07286c854&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
-  <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=ea8ca652-1e55-4ac1-b4de-433d39c84304&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
   <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=de67f65f-0f5a-45ad-bd0b-06709a9162b1&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
   <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=2d8fb979-b434-484c-8340-f8e33c892abf&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
   <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=9c678c84-4645-4d28-93bd-3db1d7f3f859&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>

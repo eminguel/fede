@@ -92,6 +92,7 @@
     <dcat:theme rdf:resource="http://inspire.ec.europa.eu/theme/ef"/>
     <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+
     <dct:publisher>
       <foaf:Agent rdf:about="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001">
         <foaf:name xml:lang="es">Ministerio para la Transición Ecológica y el Reto Demográfico</foaf:name>
@@ -263,7 +264,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>55e481d6-75f3-4a40-b1f5-3f5b42db8927</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -276,7 +277,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N43b60cb665b24def8494e976185ebc56">
+          <dct:PeriodOfTime rdf:nodeID="N15cb7f32b00f4e5bb002b71e6ca7b92b">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2001-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -344,7 +345,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>867427ba-38e0-4663-9480-cabf69254067</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -357,7 +358,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nb9a865e10b934a1ba1084c2154f068d8">
+          <dct:PeriodOfTime rdf:nodeID="N4e49b554d5fa417ca0062477570b54b5">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2001-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -512,7 +513,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -532,7 +533,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Zonas de captación de las zonas sensibles (Q2019. Dir 91/271/CEE)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -662,7 +663,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -682,7 +683,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Estaciones de Aforo en río SAIH (Caudal)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -731,7 +732,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N244873d0912e48fca3a6fc6237a96268">
+          <dct:PeriodOfTime rdf:nodeID="N3b15af32b52d44c884d3192db465f670">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-30T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -917,7 +918,7 @@ La metodología aplicada para la obtención de esta información y su aplicació
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nc2e91d9b0d7a41688b592526f0f6500a">
+          <dct:PeriodOfTime rdf:nodeID="Nba37d8dbeb334c21a1ee350e10592a99">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -995,7 +996,7 @@ Cada sistema de explotación de recursos está constituido por masas de agua sup
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nca1bd38f9b3a477190f696333c99b734">
+          <dct:PeriodOfTime rdf:nodeID="N37731fe643ec404288e3bad9c0c5312c">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -1034,7 +1035,7 @@ Cada sistema de explotación de recursos está constituido por masas de agua sup
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nf14720378de84cd1b0deec5a5caeb5af">
+          <dct:PeriodOfTime rdf:nodeID="Nf7c67ff351a6407aab45d73bc87504bc">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -1072,7 +1073,7 @@ Cada sistema de explotación de recursos está constituido por masas de agua sup
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Na07aab86d2c6469a9e514db3fd7db130">
+          <dct:PeriodOfTime rdf:nodeID="N825cf22594bd4065aa87f01604242175">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -1111,7 +1112,7 @@ Son las unidades previas o precursoras de las masas de agua subterránea. Por un
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N80ae22362268462dba528aab1ea7e6b9">
+          <dct:PeriodOfTime rdf:nodeID="Nd79f2b80b2594e8a88f01126d6c60860">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1998-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -1252,7 +1253,7 @@ Son las unidades previas o precursoras de las masas de agua subterránea. Por un
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N2361de6c295d4bb68050ef052cf2c42b">
+          <dct:PeriodOfTime rdf:nodeID="N91d2a0c01bdf4226ae956baeea876b18">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-07-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -1294,7 +1295,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N2a80fb82348d4113a2f4c38e983c02ed">
+          <dct:PeriodOfTime rdf:nodeID="N6c95f9d8f56a43d8925d3840ad9a1382">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-24T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -1336,7 +1337,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N197bdb38bb1b4a34a5d94872235899c0">
+          <dct:PeriodOfTime rdf:nodeID="N9584eaef26cb484fba1828f0880ba89b">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-07-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -1378,7 +1379,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N6cd4b636a8ce4a3b8d3d7dbb045f9961">
+          <dct:PeriodOfTime rdf:nodeID="Nfc8820e2b6ff49928f3214bca0414807">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-24T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -1420,7 +1421,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N0c12a54072824eb0be355d98bfef31ba">
+          <dct:PeriodOfTime rdf:nodeID="Nfc80a3aa21f84c428a71c5e2fc5abda8">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-07-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -1463,7 +1464,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N2b5bc98122114b51a1dcd04cd8d5b57a">
+          <dct:PeriodOfTime rdf:nodeID="N6502a900bf7d4b6e9f48472d4627eb1d">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-24T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -1823,7 +1824,7 @@ La presente versión de las zonas vulnerables se corresponde con la que se recog
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N2dd398f3b29a4c848a59eeb482d02474">
+          <dct:PeriodOfTime rdf:nodeID="N03969a329cb742b1b20419ca4d94feb4">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -1866,7 +1867,7 @@ Se diferencia de la anterior versión, de junio de 2021, en la revisión de las 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N0acdb844e6bc447ebed32b26124a0218">
+          <dct:PeriodOfTime rdf:nodeID="N849d441aa7a34a26b0f4bb87e13d21d3">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2000-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-01T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -1907,7 +1908,7 @@ La presente versión de las zonas vulnerables se corresponde con la que se recog
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N466e0bb6003b4400b2a05606d2fe0422">
+          <dct:PeriodOfTime rdf:nodeID="Nb26fb38287a246f2806f35507247b002">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -1949,7 +1950,7 @@ La presente versión de las zonas vulnerables se corresponde con la que se recog
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nf5bd1c3cc3304682b95eddd095214b81">
+          <dct:PeriodOfTime rdf:nodeID="N1410adde4c8b4e3d851703be38864075">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -2027,7 +2028,7 @@ La identificación de estas aguas parte de la información recogida en el inform
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N82ad8d60e7554afda73787701e07b119">
+          <dct:PeriodOfTime rdf:nodeID="Nbc8feb2b66fe41ea9a477a16ccbb397f">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-28T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-03-28T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -2100,7 +2101,7 @@ La identificación de estas aguas parte de la información recogida en el inform
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N57d08ba4d9774425a3b411798712efc3">
+          <dct:PeriodOfTime rdf:nodeID="N0082f478be7a45029524fc42829ef4ce">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-30T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -2140,7 +2141,7 @@ La identificación de estas aguas parte de la información recogida en el inform
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N61de9d75cdc74e6da26699de243e4c4e">
+          <dct:PeriodOfTime rdf:nodeID="Nbe30bd24504049bcb0de816040528862">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-30T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -2180,7 +2181,7 @@ La identificación de estas aguas parte de la información recogida en el inform
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N7dc2d13a81d4476ebafb36f450bf65f4">
+          <dct:PeriodOfTime rdf:nodeID="N134380644192496a9ca4d3ea3ea4856e">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-30T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -2222,7 +2223,7 @@ Los parámetros que se controlan en estas estaciones de muestreo se centran en l
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N1f98868acd514d4b804667077cfee6ed">
+          <dct:PeriodOfTime rdf:nodeID="N87da18aca4314bd7b844db5da70c69d3">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-30T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -2263,7 +2264,7 @@ Los parámetros que se controlan en estas estaciones de muestreo corresponden a 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nc3468f88fed94a7ead880e8e1c3cee19">
+          <dct:PeriodOfTime rdf:nodeID="N4efd027bd4f74fcc8f8edb9743cc35c0">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-30T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -2305,7 +2306,7 @@ Los parámetros que se controlan en estas estaciones de muestreo se centran en l
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nef27ddeeae6642b185803374bceb85a2">
+          <dct:PeriodOfTime rdf:nodeID="N88eb1b7907724d69af2bb2feb9fca09b">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-30T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -2345,7 +2346,7 @@ Los parámetros que se controlan en estas estaciones de muestreo se centran en l
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Ne752b3293f3e4fcfb41c9864f0dab9f8">
+          <dct:PeriodOfTime rdf:nodeID="Naf8e124fd3154e459f67913ed228bb09">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-30T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -2385,7 +2386,7 @@ Los parámetros que se controlan en estas estaciones de muestreo se centran en l
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N08daf8d521474a62b451dff0967a76ce">
+          <dct:PeriodOfTime rdf:nodeID="N95749433bd2d4a6fa1bb3d6bd92a7c96">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-30T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -2427,7 +2428,7 @@ Los parámetros que se controlan en estas estaciones de muestreo se centran en l
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N9f8d327bb9fa44fbaa1fced19a77ad3d">
+          <dct:PeriodOfTime rdf:nodeID="N7f688affbf404835b7df1586185182bc">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-30T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -2467,7 +2468,7 @@ Los parámetros que se controlan en estas estaciones de muestreo se centran en l
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Ndab96a014fdf41fdbb6bcaf3bffb96c2">
+          <dct:PeriodOfTime rdf:nodeID="Nf99ae3de23c24a7289bb963d47a5b613">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-30T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -2508,7 +2509,7 @@ Los parámetros que se controlan en estas estaciones de muestreo se centran en l
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N58d5eaa0e05649c88d9f750b6ba11387">
+          <dct:PeriodOfTime rdf:nodeID="N5b384530493d4eb9a0676314c019678c">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-30T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -2547,7 +2548,7 @@ Los parámetros que se controlan en estas estaciones de muestreo se centran en l
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nf3efddda8f4442c4a5df9cfa2b2c66b6">
+          <dct:PeriodOfTime rdf:nodeID="N8b65ac505b7b4e10817ae28191849398">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-06-24T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -2631,7 +2632,7 @@ Las cuencas principales de ríos se forman por agregación formando una cobertur
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N56ddb07745e54e9481ede78d93762c60">
+          <dct:PeriodOfTime rdf:nodeID="N624963bc2c234e8a8a2729dc9b746788">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -2670,7 +2671,7 @@ Las cuencas principales de ríos se forman por agregación formando una cobertur
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N91a2b15c05ec4338a7ecbedfd83c9230">
+          <dct:PeriodOfTime rdf:nodeID="N38ecf6eb75ef4da489a6c023fa4dfdcc">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-05-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -2748,7 +2749,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N978e11f9285a41b89594e0c281e81c85">
+          <dct:PeriodOfTime rdf:nodeID="Nd4045f9ac2a343d49bd831fd0a0c8303">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-27T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -3030,7 +3031,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3050,7 +3051,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3070,7 +3071,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3090,7 +3091,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3110,7 +3111,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3132,7 +3133,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3152,7 +3153,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3172,7 +3173,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3192,7 +3193,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3212,7 +3213,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Zonas protegidas aguas potables (líneas) PHC 2015-2021</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -3232,7 +3233,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3252,7 +3253,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3272,7 +3273,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Zonas protegidas aguas potables (líneas) PHC 2022-2027</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -3292,7 +3293,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3312,7 +3313,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Zonas protegidas aguas potables (polígonos) PHC 2015-2021</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -3332,7 +3333,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3352,7 +3353,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3372,7 +3373,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Zonas protegidas aguas potables (polígonos) PHC 2022-2027</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -3392,7 +3393,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3412,7 +3413,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Zonas protegidas especies acuáticas: moluscos PHC 2015-2021</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -3432,7 +3433,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3452,7 +3453,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3472,7 +3473,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Zonas protegidas especies acuáticas: moluscos PHC 2022-2027</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -3492,7 +3493,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3512,7 +3513,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (GML):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3532,7 +3533,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Zonas sensibles identificadas por líneas (Q2019. Dir 91/271/CEE)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -3552,7 +3553,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3572,7 +3573,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3592,7 +3593,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3612,7 +3613,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3632,7 +3633,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3652,7 +3653,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3672,7 +3673,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (GML):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3692,7 +3693,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Zonas sensibles identificadas por polígonos (Q2019. Dir 91/271/CEE)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -3712,7 +3713,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3732,7 +3733,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3752,7 +3753,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3772,7 +3773,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3792,7 +3793,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3812,7 +3813,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3832,7 +3833,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (GML):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3852,7 +3853,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Zonas Vulnerables según la Directiva de Nitratos. Versión informe cuatrienio 2016-2019</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -3872,7 +3873,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3892,7 +3893,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (GML):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3912,7 +3913,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3932,7 +3933,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3952,7 +3953,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3972,7 +3973,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -3992,7 +3993,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4012,7 +4013,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4032,7 +4033,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4052,7 +4053,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile) Censo Nacional de Vertidos</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4072,7 +4073,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4092,7 +4093,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4112,7 +4113,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4132,7 +4133,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4152,7 +4153,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4172,7 +4173,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4192,7 +4193,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4212,7 +4213,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4232,7 +4233,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4252,7 +4253,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4272,7 +4273,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4292,7 +4293,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4312,7 +4313,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4332,7 +4333,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4352,7 +4353,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4372,7 +4373,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Capa de Google Earth (KMZ)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -4392,7 +4393,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4412,7 +4413,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Escalas y otras infraestructuras para paso de peces construidas en el marco de la ENRR</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -4432,7 +4433,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4452,7 +4453,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Estaciones de Aforo en embalse SAIH</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -4474,7 +4475,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4494,7 +4495,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4514,7 +4515,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4534,7 +4535,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4554,7 +4555,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4574,7 +4575,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4594,7 +4595,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4614,7 +4615,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4634,7 +4635,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4654,7 +4655,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -4703,7 +4704,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
     <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
     <dct:temporal>
-      <dct:PeriodOfTime rdf:nodeID="N553fec6b32954f909b652f5eab33e5e9">
+      <dct:PeriodOfTime rdf:nodeID="N6435c55a72f74851b922c4c1247a609a">
         <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-01-01T00:00:00+00:00</dcat:startDate>
       </dct:PeriodOfTime>
     </dct:temporal>
@@ -6729,7 +6730,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:identifier>3edb9c63-5aaa-45e0-af54-96ac2868dd7b</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-11-20T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6742,7 +6743,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N262e3302ea92431ca98013c303643725">
+          <dct:PeriodOfTime rdf:nodeID="N1f1c8b7e1c67494da7a643e2a1293f86">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-06-15T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -6771,7 +6772,7 @@ La valoración de la estación la marca el máximo valor disponible de cualquier
         <dct:identifier>f6ff1625-f532-4513-8e7e-00266bab203d</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6808,7 +6809,7 @@ La presente versión de las zonas vulnerables se corresponde con la que se recog
         <dct:identifier>b2268d73-6b83-4a12-9b98-2e940a7735c3</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-29T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6845,7 +6846,7 @@ La presente versión de las zonas vulnerables se corresponde con la que se recog
         <dct:identifier>3f471168-d5e9-43ab-91bc-e52edabb5ea6</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-02-06T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6858,7 +6859,7 @@ La presente versión de las zonas vulnerables se corresponde con la que se recog
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N62b70e5c3fd24535b1524100a146962a">
+          <dct:PeriodOfTime rdf:nodeID="Na41b6c1d01bd4328b4bafbe0412dde68">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -6887,7 +6888,7 @@ La presente versión de las zonas vulnerables se corresponde con la que se recog
         <dct:identifier>49af4f64-e19f-43d2-9c08-2d4f160cb318</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-06-09T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6900,7 +6901,7 @@ La presente versión de las zonas vulnerables se corresponde con la que se recog
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N1e3c3c4b535e456eb81225c35630e4ef">
+          <dct:PeriodOfTime rdf:nodeID="N3522816f2f24400089cca1a2408b54e8">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2000-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-05-01T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -6930,7 +6931,7 @@ La presente versión de las zonas vulnerables se corresponde con la que se recog
         <dct:identifier>e525a174-1caf-45e5-87bd-b768179bd0db</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-21T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6943,7 +6944,7 @@ La presente versión de las zonas vulnerables se corresponde con la que se recog
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N76debd2ae69d46338d0d2bebcd70db4f">
+          <dct:PeriodOfTime rdf:nodeID="N2ebfc6168b514dc6900c5e811e2b2eea">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -6973,7 +6974,7 @@ La presente versión de las zonas vulnerables se corresponde con la que se recog
         <dct:identifier>2091bf2f-49ad-4fa7-b014-03cb3582e8c2</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-08-25T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6986,7 +6987,7 @@ La presente versión de las zonas vulnerables se corresponde con la que se recog
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N073973010ccf4d9d8a84161aeed3be2b">
+          <dct:PeriodOfTime rdf:nodeID="N415c4c8af10e43a0a2e6bad3e14a8941">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -7017,7 +7018,7 @@ Se diferencia del informado a la Comisión europea en el informe de seguimiento 
         <dct:identifier>03da0446-4f65-4029-b0a9-819ff4949361</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-06-09T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -7059,7 +7060,7 @@ Se diferencia del informado a la Comisión europea en el informe de seguimiento 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N41ee548b726e4856af5fb3c5e7e31242">
+          <dct:PeriodOfTime rdf:nodeID="N3b154af82cf640678e262087d4308840">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7098,7 +7099,7 @@ Se diferencia del informado a la Comisión europea en el informe de seguimiento 
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N475623b37cfa4518bb7d84bbcc32ae61">
+          <dct:PeriodOfTime rdf:nodeID="Nb814ba7546424c47937a9c44bb42dbc4">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7146,7 +7147,7 @@ Las subcuencas vertientes a cada río completo son consistentes con la informaci
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nb18f027d31d24073a45207ccc4a3b151">
+          <dct:PeriodOfTime rdf:nodeID="N9fcbeed74c4d43f7b12d6d319c7bb800">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -7224,7 +7225,7 @@ Las subcuencas vertientes a cada río completo son consistentes con la informaci
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N77f239e07bcf4eda9ff20b928b7c381a">
+          <dct:PeriodOfTime rdf:nodeID="Nfda1a84ed5be47d89d9ed356011f7c67">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-06-15T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7375,7 +7376,7 @@ Las subcuencas vertientes a cada río completo son consistentes con la informaci
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N6dfc3dfb4ac84b2ba5ed4411bfc11003">
+          <dct:PeriodOfTime rdf:nodeID="N58fd7e03fd7346d6b93e0f3aa8b03a60">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-06-15T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7554,7 +7555,7 @@ Las subcuencas vertientes a cada río completo son consistentes con la informaci
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Na1f9a2818d1348a5960bb1e5127ae3b7">
+          <dct:PeriodOfTime rdf:nodeID="N95e6e279f2a14d50b6a0029bb68d5026">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-06-15T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7733,7 +7734,7 @@ Las subcuencas vertientes a cada río completo son consistentes con la informaci
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N96909407b15a4110bd92df6bf2b49563">
+          <dct:PeriodOfTime rdf:nodeID="Nd00428a5cac74719942372f3380266d3">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-06-15T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7816,7 +7817,7 @@ La presente versión de las zonas vulnerables se corresponde con la que se recog
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nea4bf01d55e0456ea544696b0ad3f65b">
+          <dct:PeriodOfTime rdf:nodeID="N7e1499c7fa814960983ad6b3c18af816">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7852,7 +7853,7 @@ La presente versión de las zonas vulnerables se corresponde con la que se recog
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nd8db0754a3504152bd798a6ad3f03afe">
+          <dct:PeriodOfTime rdf:nodeID="N7ab776c2fdb8408a87328063ba7bdf9a">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-10-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7889,7 +7890,7 @@ La presente versión de las zonas vulnerables se corresponde con la que se recog
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N8cddaee803ce48fcb5d6f794334541f7">
+          <dct:PeriodOfTime rdf:nodeID="N8423a447202245aabea6692202f62d5a">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7927,7 +7928,7 @@ La presente versión de las zonas vulnerables se corresponde con la que se recog
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Ne2c723c42d6f4b298f8ae788583faf94">
+          <dct:PeriodOfTime rdf:nodeID="N6adf82ffb20647d0beb88ab05dc1af1a">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -8016,7 +8017,7 @@ La presente versión de las zonas vulnerables se corresponde con la que se recog
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N293468d4bbe249da903c4402388b871b">
+          <dct:PeriodOfTime rdf:nodeID="N11f4071536f84dae8b6c8a58d992cd7e">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -8091,7 +8092,7 @@ La presente versión de las zonas vulnerables se corresponde con la que se recog
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nb42747deeb6b4db0b44a1dc3e82763ae">
+          <dct:PeriodOfTime rdf:nodeID="N49d0c54d7c354559aa7fe7982fcf90ee">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-09-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -13216,6 +13217,21 @@ Los datos geográficos proceden de las autoridades competentes, la base de datos
     <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
     <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
   </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/b3114bb6-4a0c-4bf2-90e2-240b9de82ad0/resource/98be1c44-c952-4fcc-bbe6-e02441452bd8">
+    <dct:title xml:lang="es">Geoportal del Ministerio:</dct:title>
+    <dct:description xml:lang="es">Geoportal del Ministerio:</dct:description>
+    <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+    <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+    <dcat:accessURL rdf:resource="https://sig.mapama.gob.es/geoportal"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
+    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+    <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+  </dcat:Distribution>
   <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/e3cb19bb-4392-4d12-a892-b088fa841948/resource/776b1c36-cf78-4051-b0f7-d2125d39f805">
     <dct:title xml:lang="es">EF.EnvironmentalMonitoringFacilities</dct:title>
     <dct:description xml:lang="es">Control Operativo General</dct:description>
@@ -13231,21 +13247,6 @@ Los datos geográficos proceden de las autoridades competentes, la base de datos
     <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
     <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
     <dcat:accessService rdf:resource="https://wms.mapama.gob.es/sig/Agua/RedSegSuperficial/OpeGeneral"/>
-  </dcat:Distribution>
-  <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/b3114bb6-4a0c-4bf2-90e2-240b9de82ad0/resource/98be1c44-c952-4fcc-bbe6-e02441452bd8">
-    <dct:title xml:lang="es">Geoportal del Ministerio:</dct:title>
-    <dct:description xml:lang="es">Geoportal del Ministerio:</dct:description>
-    <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
-    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
-    <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
-    <dcat:accessURL rdf:resource="https://sig.mapama.gob.es/geoportal"/>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
-    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-    <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
-    <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
   </dcat:Distribution>
   <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/9d6e67b4-7d9c-468f-9a58-aa94e55f3cbb/resource/d5d24a2a-960f-411e-9b24-5636c73aab1e">
     <dct:title xml:lang="es">Enlace de descarga del servicio ATOM</dct:title>

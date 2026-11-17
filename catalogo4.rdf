@@ -28,7 +28,7 @@
     <dct:identifier>e559d100-b01e-48b1-8c4c-31e4ddc31fd8</dct:identifier>
     <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
     <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-    <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+    <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-07-30T00:00:00+00:00</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
     <dct:language>
@@ -48,6 +48,7 @@
     <dcat:theme rdf:resource="http://inspire.ec.europa.eu/theme/hb"/>
     <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+
     <dct:publisher>
       <foaf:Agent rdf:about="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001">
         <foaf:name xml:lang="es">Ministerio para la Transición Ecológica y el Reto Demográfico</foaf:name>
@@ -127,7 +128,7 @@ Esta información es parte de los datos espaciales de referencia nacionales conf
     <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
     <dct:temporal>
-      <dct:PeriodOfTime rdf:nodeID="N7fc282709e8c44618fa97aebda582f9f">
+      <dct:PeriodOfTime rdf:nodeID="N556d24173a4440f4b5cff8a2cf52df8a">
         <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-24T00:00:00+00:00</dcat:startDate>
         <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
       </dct:PeriodOfTime>
@@ -222,7 +223,7 @@ Esta información es parte de los datos espaciales de referencia nacionales conf
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -242,7 +243,7 @@ Esta información es parte de los datos espaciales de referencia nacionales conf
         <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -262,7 +263,7 @@ Esta información es parte de los datos espaciales de referencia nacionales conf
         <dct:description xml:lang="es">Capa de Google Earth (KMZ)</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -293,7 +294,7 @@ Esta información es parte de los datos espaciales de referencia nacionales conf
     <dct:identifier>5f1931fd-25b1-4a20-adfd-beafd1843505</dct:identifier>
     <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
     <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-    <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+    <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-10-31T00:00:00+00:00</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -308,7 +309,7 @@ Esta información es parte de los datos espaciales de referencia nacionales conf
     <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
     <dct:temporal>
-      <dct:PeriodOfTime rdf:nodeID="N923f471143eb4697864e741955e0f4c8">
+      <dct:PeriodOfTime rdf:nodeID="Nf7183ff967cf482684df10fb4a736d1f">
         <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-24T00:00:00+00:00</dcat:startDate>
         <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
       </dct:PeriodOfTime>
@@ -376,7 +377,7 @@ Incluye los datos básicos de estaciones de control pertenecientes a dichas rede
     <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
     <dct:temporal>
-      <dct:PeriodOfTime rdf:nodeID="Na8d40e8680374e85b800e9015dc5f604">
+      <dct:PeriodOfTime rdf:nodeID="N47ccd93ceedb43d38b0b1fd19c361fcb">
         <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T00:00:00+00:00</dcat:startDate>
         <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-12-31T00:00:00+00:00</dcat:endDate>
       </dct:PeriodOfTime>
@@ -471,7 +472,7 @@ Incluye los datos básicos de estaciones de control pertenecientes a dichas rede
         <dct:description xml:lang="es">Descarga de cartografía digital (shapefile):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -491,7 +492,7 @@ Incluye los datos básicos de estaciones de control pertenecientes a dichas rede
         <dct:description xml:lang="es">Descarga de cartografía digital (GML):</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -511,7 +512,7 @@ Incluye los datos básicos de estaciones de control pertenecientes a dichas rede
         <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Redes de seguimiento aguas superficiales PHC 2015-2021</dct:description>
         <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
         <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -2841,7 +2842,7 @@ Incluye los datos básicos de estaciones de control pertenecientes a dichas rede
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Ncc64f92280a046b9bc72b2f43cd285d6">
+          <dct:PeriodOfTime rdf:nodeID="Ndf3a58e83225485b8f018b00d169f096">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -2883,7 +2884,7 @@ Incluye los datos básicos de estaciones de control pertenecientes a dichas rede
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N6b14c0b3c16342efaf4ec8c3bb75673e">
+          <dct:PeriodOfTime rdf:nodeID="N70d3f0bf0bbf4002b43234ff6d8ef86d">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -2923,7 +2924,7 @@ Incluye los datos básicos de estaciones de control pertenecientes a dichas rede
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nf1a0a7b64a2c4218885f20e573d66b25">
+          <dct:PeriodOfTime rdf:nodeID="N80033de7fd8f4d6d816a763df0d3f5c1">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -2961,7 +2962,7 @@ Incluye los datos básicos de estaciones de control pertenecientes a dichas rede
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N6e79230ece914363b0f595e0fa2debac">
+          <dct:PeriodOfTime rdf:nodeID="N3545c4fc9ce24c01a8a42c615d809092">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -3001,7 +3002,7 @@ Incluye los datos básicos de estaciones de control pertenecientes a dichas rede
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N92adbaf989da4ed7a26cf78721fabd1b">
+          <dct:PeriodOfTime rdf:nodeID="N027750841a2b4f2192d0218f39a36a6e">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -3044,7 +3045,7 @@ Esta información es parte de los datos espaciales de referencia nacionales conf
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N1ed5a0917d4d4ca5b691e09cf3c3cc9d">
+          <dct:PeriodOfTime rdf:nodeID="N8f85d1654ebb423ab0dba6b84200b217">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-24T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -3292,7 +3293,7 @@ La cartografía se corresponde con los puntos de vertido activos (cuyos datos es
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N95dd6c8b4f7048ea83f7e1ed3eb7f87b">
+          <dct:PeriodOfTime rdf:nodeID="N123371bda99542dca79cb2fb883b2a21">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -3333,7 +3334,7 @@ La cartografía se corresponde con los puntos de vertido activos (cuyos datos es
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N77e2a96e5ab2495fa7a5c45d3959d028">
+          <dct:PeriodOfTime rdf:nodeID="Nfff4c6e0ed8d4f25b2258f1b475195ee">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -3438,7 +3439,7 @@ La cartografía se corresponde con los puntos de vertido activos (cuyos datos es
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N7972ac4ebe4243759b2e395b7bb81ad8">
+          <dct:PeriodOfTime rdf:nodeID="Nab50b81784d4483ca541201e5f4e3e15">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -3476,7 +3477,7 @@ La cartografía se corresponde con los puntos de vertido activos (cuyos datos es
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N65e0498b05304921b418e8c764fb5c58">
+          <dct:PeriodOfTime rdf:nodeID="Nc70943b8adec4ef9a95841264464f398">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -3514,7 +3515,7 @@ La cartografía se corresponde con los puntos de vertido activos (cuyos datos es
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Ndf62195d91284269a5d99052c00553f8">
+          <dct:PeriodOfTime rdf:nodeID="Nce0e03d417a04ec798357a073da6407e">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -3558,7 +3559,7 @@ Esta información es parte de los datos espaciales de referencia nacionales conf
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nb49a2e509b45485095decbfc669ca321">
+          <dct:PeriodOfTime rdf:nodeID="N9851698367114410ae45712c99c75eb7">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-24T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -3601,7 +3602,7 @@ Incluye los datos básicos de estaciones de control pertenecientes a dichas rede
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Ncd8ac7430f06442196eefc55bf6fb976">
+          <dct:PeriodOfTime rdf:nodeID="Nbecd7691ab394dcbb3bcfa002fd0f25f">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -3645,7 +3646,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nac78d2798b754385b268cd97a348169e">
+          <dct:PeriodOfTime rdf:nodeID="N73f71ae4628d43948917900a016592dc">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-24T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -3691,7 +3692,7 @@ La metodología aplicada para la obtención de esta información y su aplicació
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N815a230ae4554705875ed97345d0f107">
+          <dct:PeriodOfTime rdf:nodeID="N6b18fbf187934f559672fdd0a7d25d50">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -3731,7 +3732,7 @@ La metodología aplicada para la obtención de esta información y su aplicació
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nfdee854e35c749c8807054311e45dcc9">
+          <dct:PeriodOfTime rdf:nodeID="Na321f2e0c34944f88935d20448ef3fbf">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -3762,7 +3763,7 @@ La metodología aplicada para la obtención de esta información y su aplicació
         <dct:identifier>c8d183a5-0496-4565-ac09-20a9d89449e2</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-11-20T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3775,7 +3776,7 @@ La metodología aplicada para la obtención de esta información y su aplicació
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N5fe207a34d37475aa91d2be24fa35dda">
+          <dct:PeriodOfTime rdf:nodeID="N23267ec4f874479885cb86ea61ba6ed5">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -3805,7 +3806,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dct:identifier>f308f612-4ddf-4dab-a274-d4130fc00c6e</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-07-28T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3818,7 +3819,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N2aafb35776f04d9e90c2c656e7a9c359">
+          <dct:PeriodOfTime rdf:nodeID="N42c4b72a691d4faaaee485952131ceda">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -3848,7 +3849,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dct:identifier>3dc4b6ff-669a-451b-ade2-c1d52dcf42b1</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3861,7 +3862,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N8774231b3be7433fb6797310f2dfb5de">
+          <dct:PeriodOfTime rdf:nodeID="N8cbec018436c4b6ba89e374871ca44d9">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -3891,7 +3892,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dct:identifier>4d93a441-6a5c-4a1b-ab1f-191b413623d7</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-06T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3905,7 +3906,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N1bb936fcd5e248338caf1ab59d3e3779">
+          <dct:PeriodOfTime rdf:nodeID="N4ca196cba8cc428aa1cae2cc7f12c5ec">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -3935,7 +3936,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dct:identifier>59c3636a-a7da-43ff-ba0c-ab150f127b26</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-07-28T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3948,7 +3949,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N2620c3ea1c03465ba3fe2c9c89b69fc3">
+          <dct:PeriodOfTime rdf:nodeID="Neea13e5b668f4932a17aa7b2982ebff2">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -3978,7 +3979,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dct:identifier>c53db9b6-defd-4370-a18e-54e0538fe930</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-09-16T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3991,7 +3992,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N3da123d693234758b3b4b3a6b300aee4">
+          <dct:PeriodOfTime rdf:nodeID="N139708807f7240c28fcf7b04c441d40a">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -4021,7 +4022,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dct:identifier>4a233b5e-448c-4b98-b2df-a826d1334471</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-31T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4034,7 +4035,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nb1dfe9ca4891411fb0d13fbe5cc30f24">
+          <dct:PeriodOfTime rdf:nodeID="N7d40aed50a134f2da0f49efdd44e7b60">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -4063,7 +4064,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dct:identifier>5ad04f0d-b158-4987-856e-26c635000918</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-11-20T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4075,7 +4076,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nf692b1fa06e64249b559908cf1799336">
+          <dct:PeriodOfTime rdf:nodeID="N4f3808aa0b1244fca24a63c6bd6f6bbe">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-12-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -4103,7 +4104,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dct:identifier>e978826c-6341-4a01-acb9-7327618de378</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-07-22T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4139,7 +4140,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dct:identifier>fcce135c-96b5-4e0d-8426-272621cd4dbe</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-17T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4175,7 +4176,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dct:identifier>372d1ae7-6bad-4d0d-bdee-11b3fdd4d318</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-03-06T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4187,7 +4188,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Na0a5f96aa3c5473d85aef33db83faea1">
+          <dct:PeriodOfTime rdf:nodeID="Nad71203ef75147ab9646006c9b525e2f">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -4219,7 +4220,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dct:identifier>7f4dafbc-982a-48df-be37-734f864a30f1</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-17T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4254,7 +4255,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dct:identifier>cea86c0a-f8fb-4321-8b2f-ef16ab3f06b6</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-07-27T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4267,7 +4268,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Neecfa43fcbb04935b47bea36d7e84bbd">
+          <dct:PeriodOfTime rdf:nodeID="Nf5f3a3e9558e41e3ba5c0a2e02d2c25b">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-07-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -4295,7 +4296,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dct:identifier>578f782b-0807-4e8c-bd70-c9e7dc070577</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-07-14T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4308,7 +4309,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N7420bab8c2f14dac80fa38b2a3765175">
+          <dct:PeriodOfTime rdf:nodeID="N34f2eee926a44cdf876732663cd613c7">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-07-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -4336,7 +4337,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dct:identifier>44ed4645-a763-4bbe-b64a-166ffd81b099</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-31T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4349,7 +4350,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Na8515ddbcefd4e799f7829cfc14817ac">
+          <dct:PeriodOfTime rdf:nodeID="N8eca107bec26474baec7125668777646">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-07-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -4377,7 +4378,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dct:identifier>5a2eb5e5-1eae-4934-aa8b-7c6f68785ffb</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4390,7 +4391,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Ne4427a10a7a64884ad46f9447f4d00d6">
+          <dct:PeriodOfTime rdf:nodeID="N817fab88f2644f7f8084b573275f1578">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-03-20T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -4418,7 +4419,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dct:identifier>37b60486-a666-4012-a7eb-213a3c576195</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-02-10T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4431,7 +4432,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N04e579e7d2124bf7a3020b117985f0a0">
+          <dct:PeriodOfTime rdf:nodeID="Ncc0141f2665a48ee997214676b8ea31a">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-03-20T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -4459,7 +4460,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dct:identifier>adc3ba54-a1fd-4c99-84e6-5660de27ff17</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-02-10T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4472,7 +4473,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N1de959c4642f473f8996ebf7036981fd">
+          <dct:PeriodOfTime rdf:nodeID="N6e681048823f4ff18b22fd3faa033ce5">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-20T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-11-01T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -4501,7 +4502,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dct:identifier>021c6b3c-be18-4459-ba7a-2e85d31a93f1</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-10-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4514,7 +4515,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nf6caef1d494640fe80e89f9f02814b6f">
+          <dct:PeriodOfTime rdf:nodeID="N924acaf52e9f47d2b88a63934ba7c0ea">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-12-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -4542,7 +4543,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dct:identifier>7c49ccc0-f0d4-444d-94f1-cb1d3578880a</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-05-31T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4555,7 +4556,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N746588cd5c67445fa781293c1045ff65">
+          <dct:PeriodOfTime rdf:nodeID="N91060a09e14044d594283b396edc200b">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-12-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -4585,7 +4586,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dct:identifier>e0acf6a9-5c89-4275-9e16-5bca6abba38e</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-03-05T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4598,7 +4599,7 @@ La cartografía corresponde a las aglomeraciones activas mayores o iguales a 2.0
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Ne24222f34eb34e3ba5422cc78c625342">
+          <dct:PeriodOfTime rdf:nodeID="N3774e17fb7ac44b9880c5b492ac66f0c">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -4627,7 +4628,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:identifier>6e48a1e2-6ea9-4ffb-a0cb-5f4a29fb0e65</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-02-08T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4640,7 +4641,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N0818cb6d29b64b2ab752963245e6ce0d">
+          <dct:PeriodOfTime rdf:nodeID="N072a04fb31634dfb958027bffc70c58c">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-24T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -4669,7 +4670,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:identifier>43f1eee9-9441-4f63-a412-ad837324ebc3</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-11-20T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4682,7 +4683,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N5c05d5f4469d4c288b6a35ae88cd09cc">
+          <dct:PeriodOfTime rdf:nodeID="N42643d51133d4ea59e5db31974a29f8b">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-04-27T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -4710,7 +4711,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dct:identifier>b6f42b58-6751-4ec6-84be-183217609cc3</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-11-20T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4723,7 +4724,7 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N40a0c56fccfd46bf994e8e9017678b48">
+          <dct:PeriodOfTime rdf:nodeID="N3038dca0facd4c77aa1db862c85a6eab">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-04-02T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -4752,7 +4753,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>1e9240a0-f77f-49b1-a73c-c1e65a1bd825</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-07-28T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4789,7 +4790,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>d69528c7-f60c-456c-9ec4-f9d04b5672d0</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4826,7 +4827,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>6155d067-e451-4067-90d8-c838691856a0</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-06T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4863,7 +4864,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>280a525d-6730-42f6-870b-3a1a9d89a1d8</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-07-28T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4900,7 +4901,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>93c4e1ad-f9a4-4176-b4ea-568ecde3c3d5</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-09-16T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4913,7 +4914,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Ndd545e8553744138bc8b2c587419bd65">
+          <dct:PeriodOfTime rdf:nodeID="N586c3cb6ec0948cd932e629d4d6ad1b2">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -4943,7 +4944,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>5872c268-8e78-4102-88c6-cfddb828e859</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-31T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4956,7 +4957,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N28fc214fd03040a78a64ab00e3ada6bb">
+          <dct:PeriodOfTime rdf:nodeID="Nd9127f4039d94a9a9f6627af8058bcd5">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -4985,7 +4986,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>b8b31695-5bad-4ae0-8847-a9446f678917</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-07-22T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5021,7 +5022,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>88f24603-c3b9-4665-b4ec-40ba854d4dae</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-17T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5057,7 +5058,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>82dab911-6612-45fb-9765-bc5a0dc4bd21</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-07-22T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5093,7 +5094,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>dcfaf07c-562a-4e6c-8715-8728f9896e8d</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-07-16T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5130,7 +5131,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>cb4270f9-3bc1-4e86-8b11-d2675e53c445</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-09-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5143,7 +5144,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Ne696ff378fdd4ef6b165cb3a57793e46">
+          <dct:PeriodOfTime rdf:nodeID="N9e5985ed0ad843988ed60fa5ba469e6d">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5173,7 +5174,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>9de4ba98-6cc7-4d8e-a140-02dfd7760842</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5186,7 +5187,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N721c0c2e76184fb3b296366f7cf56d86">
+          <dct:PeriodOfTime rdf:nodeID="Ncb8dbac3247a4576a0c4f06cfe8720e3">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5215,7 +5216,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>47b4fbc8-81ed-4a87-beb5-aac732686953</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-10-31T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5228,7 +5229,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nbb8de15a30ee4503b05c91caae403cdc">
+          <dct:PeriodOfTime rdf:nodeID="N4033377b119b407ab8565c5a6ad6ce93">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-24T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5257,7 +5258,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>a38ac5d3-d7f9-4a36-a05e-d2e0e16ed4c4</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-10-31T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5270,7 +5271,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N2dcc0b7a27e54ce9aaa9d05893aec5c1">
+          <dct:PeriodOfTime rdf:nodeID="Ne27f6db4ce1749e28d6573d209d744de">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-24T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5299,7 +5300,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>60482996-781f-4d5a-bd3f-1893a2512bb2</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-10-31T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5312,7 +5313,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N9b3aa4a108b242838cb4e8b40c94f6c3">
+          <dct:PeriodOfTime rdf:nodeID="N70848f72a4c443c190bc5e399f4b4ff2">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-24T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5342,7 +5343,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>ad72a134-30c2-4360-8f30-3ede9a27c48d</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-10-31T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5355,7 +5356,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N21d52b4e462e4fb28271c2f0ba71d238">
+          <dct:PeriodOfTime rdf:nodeID="N0f270d296d5b40c2bfab6b708b7b73d7">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-24T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5385,7 +5386,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>10139829-9de7-4ed4-9e10-2a4e24ce2c48</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-09-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5398,7 +5399,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N344898e5231c4009afa480241ba3a8ed">
+          <dct:PeriodOfTime rdf:nodeID="Nc2f9d4b919df41ab8b17d265dd72b948">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5428,7 +5429,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>5207e72a-769e-480e-b1fd-4b395073aa2d</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5441,7 +5442,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Na42df7f5f8e14020b1e9d093ec88367c">
+          <dct:PeriodOfTime rdf:nodeID="N894b8df448ca49b2ada8d85cd333e7ec">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5470,7 +5471,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>e28e4de7-72a7-4b9c-8672-89f7ccdaead0</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-10-31T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5483,7 +5484,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N34c99004d6484e95a417c54c0170b71d">
+          <dct:PeriodOfTime rdf:nodeID="Nbabd81f153464c328714086dfc835833">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-24T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5514,7 +5515,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>7bf25455-4985-4385-974c-0300821a663c</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-09-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5527,7 +5528,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N67c65323752b42e69397edd9bf05d1dc">
+          <dct:PeriodOfTime rdf:nodeID="N88b814baaf4446a19860e30d3acedc3e">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5558,7 +5559,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>8e08f57e-f694-4e97-837c-6ba1b9dca0b7</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5571,7 +5572,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N2673e39e4696434d9ed1315af65e61c9">
+          <dct:PeriodOfTime rdf:nodeID="Nbde853e02fe84d6d9f1c5f0ca92e14f2">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5600,7 +5601,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>4a9afaae-5d08-4a79-b36e-535bb583661b</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-10-31T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5613,7 +5614,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N556afc7f6b094c0d8819f56ef32231e0">
+          <dct:PeriodOfTime rdf:nodeID="Nbab9698797434e29b151a6babe02b020">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-24T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5644,7 +5645,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>36301561-c9d8-4ad9-9ae9-948291b806f3</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-09-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5657,7 +5658,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nea05afdaf30d49af98c9535b07ecd80d">
+          <dct:PeriodOfTime rdf:nodeID="Ned6764cd71c449fa8b108fb313c20da0">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5688,7 +5689,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>746180c7-bb46-4f0c-a37d-efdee17ae37e</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5701,7 +5702,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N059dbf184c874eb7944385aa57ef871a">
+          <dct:PeriodOfTime rdf:nodeID="N389b36ac11b2428782eb1adc4fb9ca80">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5730,7 +5731,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>d36ec140-d453-4cda-9ca5-73520bd227c8</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-10-31T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5743,7 +5744,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N1f84c6a358474efc9eeaa4ef1e9b8e1f">
+          <dct:PeriodOfTime rdf:nodeID="N96e633ed7c0f4ac79f1303260389dd3b">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-24T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5774,7 +5775,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>42c4652d-7a50-4cc4-8550-442ebd286041</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-09-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5787,7 +5788,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nebc20f9a585146f695e2ceea3cd06e19">
+          <dct:PeriodOfTime rdf:nodeID="N0bd1ab6a9c3e49478c8d937fd9a155c7">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5818,7 +5819,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>40218cc9-d838-48b5-a3e9-a5730c9fc49f</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5831,7 +5832,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nc3292fd5620f4438a085397f40d1a499">
+          <dct:PeriodOfTime rdf:nodeID="N387185bc7f894b1887bc264515dea043">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5860,7 +5861,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>1e2c4b67-f85e-4dbd-92c1-bda8d00e0483</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-12-18T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5873,7 +5874,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nc3bad9f6b6014f54a71e7daeadc80f86">
+          <dct:PeriodOfTime rdf:nodeID="N265a1133389a4e838af169854d032fa6">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-24T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2027-12-22T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5904,7 +5905,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>7352c6d9-d77c-4a88-a674-6826e54d5b97</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-09-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5917,7 +5918,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N241d424a7a16425db96d39292a3039b0">
+          <dct:PeriodOfTime rdf:nodeID="Nddb7dbbae507476bba0a863fa70bb74a">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5948,7 +5949,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>9a6c7b5c-3551-4625-8105-d1bb1008eb45</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-08-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5961,7 +5962,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nbcce6c2717f342cb95bd20aeda3581be">
+          <dct:PeriodOfTime rdf:nodeID="N941c58bb399d45dcb46bc2d5709adbdb">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -5991,7 +5992,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>853844be-0323-4ce8-874c-abdbe1d3b1de</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-07-22T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6027,7 +6028,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>b1a288ff-1ec1-4dd7-a210-267f17a57050</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-17T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6063,7 +6064,7 @@ La cartografía se corresponde con las estaciones depuradoras activas (cuyos dat
         <dct:identifier>b96e1d3a-934f-4e76-83ae-7977834664f6</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-07-22T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6245,7 +6246,7 @@ Durante el año 2022 se han ampliado ampliaron las Reservas de la Biosfera de El
         <dct:identifier>a7c21132-476c-47fb-8c9a-2b4a5b20b0d5</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-05-20T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6280,7 +6281,7 @@ Durante el año 2022 se han ampliado ampliaron las Reservas de la Biosfera de El
         <dct:identifier>c4a8773c-60c6-464f-ab0a-c4e2afc47bdf</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-11-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6317,7 +6318,7 @@ Durante el año 2022 se han ampliado ampliaron las Reservas de la Biosfera de El
         <dct:identifier>8e4cf7e1-cb81-418a-b36c-05f9c6148802</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-01-18T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6354,7 +6355,7 @@ Las medidas adoptadas en el marco de la Directiva de Aves (Directiva 2009/147/CE
         <dct:identifier>3727ec59-cd70-4170-acf0-ca710e58f6cc</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-11-30T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6392,7 +6393,7 @@ EIDOS viene a solventar estos problemas al dotar a esta información de una estr
         <dct:identifier>c2991e47-924d-411d-911e-1da64666ba34</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-04-09T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6429,7 +6430,7 @@ Las medidas adoptadas en el marco de la Directiva de Hábitats (Directiva 92/43/
         <dct:identifier>606df1a4-d320-4b4c-9a68-591da2292276</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-11-30T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6465,7 +6466,7 @@ Las medidas adoptadas en el marco de la Directiva de Hábitats (Directiva 92/43/
         <dct:identifier>8221d742-fc7e-405f-ace9-a5cc602b2704</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-30T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6504,7 +6505,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
         <dct:identifier>93ac147b-0522-4545-94cc-9996a547921a</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-12-20T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6540,7 +6541,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
         <dct:identifier>d2f168bd-c0ba-4087-a772-29f13b397b06</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-06-15T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6577,7 +6578,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
         <dct:identifier>86065a83-fc79-43a0-ab69-4081f72c52e2</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-09-24T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6613,7 +6614,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
         <dct:identifier>f1587f65-7567-4460-a4f6-ca7623abb718</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
+        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-08-02T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6819,7 +6820,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Capa de Google Earth (KMZ)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -6951,7 +6952,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -6969,7 +6970,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7090,7 +7091,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7141,7 +7142,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7224,7 +7225,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Red hidrográfica formada por unión de masas de agua PHC 2015-2021</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -7394,7 +7395,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7412,7 +7413,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7578,7 +7579,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7624,7 +7625,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7967,7 +7968,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile).</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8095,7 +8096,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8156,7 +8157,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8339,7 +8340,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8416,7 +8417,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8603,7 +8604,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8879,7 +8880,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -9170,7 +9171,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Puntos de vertido de depuradoras urbanas (Q2019. Dir 91/271/CEE)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -9310,7 +9311,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Capa de Google Earth (KMZ)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -9343,7 +9344,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile).</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -9452,7 +9453,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Redes de seguimiento aguas subterráneas PHC 2015-2021</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -9560,7 +9561,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Ríos completos clasificados según Pfafstetter modificado:</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -9794,7 +9795,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga de cartografía digital (GML):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -9830,7 +9831,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -10010,7 +10011,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -10104,7 +10105,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -10123,7 +10124,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga de cartografía digital (GML):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -10227,7 +10228,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Masas de agua superficial (polígonos) PHC 2015-2021</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -10575,7 +10576,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Masas de agua superficial (líneas) PHC 2015-2021</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>
@@ -11364,7 +11365,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -11441,7 +11442,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
