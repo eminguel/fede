@@ -30,7 +30,7 @@ Los sistemas de referencia que ofrece este servicio son:
     <dct:identifier>492e6cda-11f2-42e9-8314-744536986607</dct:identifier>
     <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
     <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-    <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+    <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
     <dct:language>
@@ -161,7 +161,7 @@ Los sistemas de referencia que ofrece este servicio son:
     <dct:identifier>12ced207-a9d1-4887-9a1b-eea1ea8fff56</dct:identifier>
     <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
     <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-    <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+    <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-04-01T00:00:00+00:00</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3068,7 +3068,7 @@ Los sistemas de referencia que ofrece este servicio son: &#13;
         <dct:identifier>64d10695-15ae-4c6e-88b7-8d8aa6d2fd20</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3217,7 +3217,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>1ac81374-3aca-44be-a700-e33469aa01c6</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-04-17T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3253,7 +3253,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>43ad72e1-0705-4b04-ba3b-fe8d19643df9</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-04-17T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3289,7 +3289,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>00d5fcb9-1407-46ad-a3a1-ac163978cf52</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-04-17T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3325,7 +3325,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>d6617048-a778-43f1-87b2-a710c26e6c40</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-03-24T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3367,7 +3367,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>585aee83-2a66-4ab0-8f33-dc93600583ac</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-01-18T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3403,7 +3403,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>cc129446-a898-45e9-9361-4f27fcd36054</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-03-14T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3439,7 +3439,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>b11be94f-a945-4966-8d24-f172d019b6c4</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-03-24T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3480,7 +3480,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>94548589-c01f-4c10-9440-818b84a6a1b5</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-04-17T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3516,7 +3516,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>1e7f3c56-1478-4210-9efe-83b798ea3a0c</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-06-30T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3552,7 +3552,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>a6bb9b4a-6389-4df1-a0ce-2f2da8e2444b</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-06-30T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3588,7 +3588,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>22e829d8-ca72-4669-bdb6-f0ee6748801b</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-04-17T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3624,7 +3624,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>08185ad3-2b0a-4524-95c8-ac674595c5be</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-04-17T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3660,7 +3660,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>c03af5b4-969e-4d74-af67-a39bf6f42a12</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-06-30T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3696,7 +3696,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>ce05a8b7-addd-4f5e-b0f3-a8c0a18dcb37</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-04-17T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3732,7 +3732,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>7d21067e-04bd-4ce3-83c2-3a213d7deeb8</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-06-30T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3768,7 +3768,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>f8d23d77-f63a-44b0-b733-bd39afb147b2</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-06-30T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3804,7 +3804,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>5a8c129b-be18-4f0d-b3e0-b28be246a674</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-06-30T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3840,7 +3840,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>8a8cf176-284b-46be-88ae-24b47422710d</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-06-30T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3876,7 +3876,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>3eab7f44-eeea-47f7-b016-599b00edb124</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-06-30T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3912,7 +3912,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>18dbd811-3a6b-4caa-8b8f-4894a4ee7988</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-04-17T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3948,7 +3948,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>1f361cd8-8dc7-4391-b3b8-bee10f53d675</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-06-30T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3984,7 +3984,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>6fe79a14-a138-4092-b4fb-d8ea1b524f9d</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-04-17T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4020,7 +4020,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>6b3a8b59-4e85-4e92-a62f-401e0aca9792</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-06-30T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4056,7 +4056,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>07f684ea-0508-4dde-9915-617a616a8e1b</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-14T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4092,7 +4092,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>7df82f9e-3b62-4c1a-8052-26e8694d796c</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-11-27T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4128,7 +4128,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>220ced1b-bca3-4688-a88d-9b712b008a08</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-11-27T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4164,7 +4164,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>ba42be5b-beaa-4f86-a561-648e8d0e80f8</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-11-27T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4200,7 +4200,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>2f8a082d-aee9-46d7-a1c9-df55f53abd1b</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-11-27T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4236,7 +4236,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>c2c5b889-f0f9-4a44-a63e-0e04ce9a4a4c</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-11-27T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4272,7 +4272,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>211c225c-08f9-4fc6-9931-e9d3bc3842d3</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-11-27T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4308,7 +4308,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>e41ce163-6954-44e9-a779-2289831af42f</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-11-27T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4344,7 +4344,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>ee19f82f-18fe-48fb-aef5-920713586ff3</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-04-28T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4380,7 +4380,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>0bab5318-30e5-46fd-a460-2780e1082abb</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-14T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4416,7 +4416,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>553b82da-8f42-4293-a18c-61f974096683</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-11-27T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4452,7 +4452,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>0acccf4d-7e99-4d82-b994-228e28c809a7</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-11-27T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4488,7 +4488,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>dbe01133-4c85-4f67-b75f-0cbacd4d2f99</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-11-27T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4524,7 +4524,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>60c32ad1-aa50-48a2-8104-2a7f8c0f2fec</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-11-27T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4560,7 +4560,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>3f0e27de-c47e-41cb-8c33-28e047d5d5d8</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-11-27T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4596,7 +4596,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>85bc3feb-f9b5-4e64-b96d-608683ab37f8</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-11-27T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4632,7 +4632,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>e9047bc4-a196-4f7e-94c6-3a5a587265cc</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-03-24T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4673,7 +4673,7 @@ La tabla que constituye el CDE incluye un registro para cada combinación año-c
         <dct:identifier>5fae298d-99b6-4057-9107-4fac5123058b</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-03-24T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4715,7 +4715,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>2f0b29d0-2dc9-441f-a4f5-5ea19a3068b1</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4758,7 +4758,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>eabf7d25-2e83-47f1-9feb-8d8c5a0b1bf8</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4801,7 +4801,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>ea03fc24-dfed-40cd-aedf-ae753c01b471</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4844,7 +4844,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>0f818396-2174-4bc9-a40f-04c2d371b2c5</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4887,7 +4887,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>881dbd60-8f4a-43b7-bbb5-3191a9e98b13</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4930,7 +4930,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>c44e7b18-f5c6-43cd-8837-321647417965</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4973,7 +4973,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>0255a82f-5837-4c78-a05f-ffc19a864ddb</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5016,7 +5016,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>7d440f88-5a17-4e88-98a8-8050dc25a075</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5059,7 +5059,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>2eb51a84-a42a-489e-a30c-80ecb8dfa8e8</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5103,7 +5103,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>e0d8d0e1-7b89-4340-8395-baecf3d1edc2</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5147,7 +5147,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>6aedfe8d-8368-4899-a082-59ec759bcae2</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5190,7 +5190,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>3ca891ef-0c2c-438c-98a3-3871f1dd6c38</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5233,7 +5233,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>91e66341-c973-45d3-83d5-739b51891952</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5331,7 +5331,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>174af1b3-6f55-457e-a396-ef781364fbf3</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5374,7 +5374,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>43352adf-ade6-4f7b-90af-4482fc5fb9c5</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5417,7 +5417,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>69c0e7ef-3220-4706-a982-fa7cbf7a049f</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5460,7 +5460,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>be2e1d08-29fd-4581-aaec-4dd89c775457</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5503,7 +5503,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>b79bc1c1-1654-4d2c-a162-5553c08d9927</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5546,7 +5546,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>cefbe92e-68eb-4040-8962-5d611352877c</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5589,7 +5589,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>2c07c780-8e58-43dd-b18c-3321ee7b6712</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5632,7 +5632,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>6c4c1801-ad69-4b74-9816-d0280556a020</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-03-14T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5668,7 +5668,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>dba7cc19-3f39-422c-b286-532e887d53c1</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5711,7 +5711,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>ce6fac98-2382-4b78-bf4a-25f68d5d7333</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5754,7 +5754,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>034a3e33-e224-4136-a4cf-be33d1be68ec</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5797,7 +5797,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>a6ebf100-dec3-413b-9318-a409f7949ae1</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5842,7 +5842,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>56b15e10-a8b9-47fc-b3a2-20beb701517f</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-03-24T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5883,7 +5883,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>31c85d2a-9f0a-4cb3-a153-c143929261b4</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-03-24T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5924,7 +5924,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>862105c3-1186-484c-80a0-3790a6d3c22f</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-03-14T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5960,7 +5960,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>c51934ee-9094-49bc-a0f4-63480b7bdfe3</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6003,7 +6003,7 @@ Los sistemas de referencia que ofrece este servicio son:
         <dct:identifier>e0e2625b-084a-4c6f-9d2b-6e9f37466bce</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDO</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-12-01T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6847,7 +6847,7 @@ En este caso la información reportada y con la que cuenta PRTR-España se corre
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -6896,7 +6896,7 @@ En este caso la información reportada y con la que cuenta PRTR-España se corre
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7169,7 +7169,7 @@ En este caso la información reportada y con la que cuenta PRTR-España se corre
     <dct:description xml:lang="es">Descarga de cartografía digital (GML):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7478,7 +7478,7 @@ En este caso la información reportada y con la que cuenta PRTR-España se corre
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7516,7 +7516,7 @@ En este caso la información reportada y con la que cuenta PRTR-España se corre
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7625,7 +7625,7 @@ En este caso la información reportada y con la que cuenta PRTR-España se corre
       <foaf:Document rdf:about="https://www.miteco.gob.es/es/cartografia-y-sig/ide/descargas/calidad-y-evaluacion-ambiental/parcelas-agricolas-de-aplicacion-de-lodos-de-edar.html#accordion-afefbf095c-item-cfc90f017a"/>
     </foaf:page>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7718,7 +7718,7 @@ En este caso la información reportada y con la que cuenta PRTR-España se corre
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <foaf:page rdf:resource="https://www.miteco.gob.es/es/cartografia-y-sig/ide/descargas/calidad-y-evaluacion-ambiental/parcelas-agricolas-de-aplicacion-de-lodos-de-edar.html#accordion-afefbf095c-item-cfc90f017a"/>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7824,7 +7824,7 @@ En este caso la información reportada y con la que cuenta PRTR-España se corre
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7957,7 +7957,7 @@ En este caso la información reportada y con la que cuenta PRTR-España se corre
     <dct:description xml:lang="es">Descarga de cartografía digital (GML):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8155,7 +8155,7 @@ En este caso la información reportada y con la que cuenta PRTR-España se corre
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8874,7 +8874,7 @@ En este caso la información reportada y con la que cuenta PRTR-España se corre
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -9055,7 +9055,7 @@ En este caso la información reportada y con la que cuenta PRTR-España se corre
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -9086,7 +9086,7 @@ En este caso la información reportada y con la que cuenta PRTR-España se corre
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -9298,7 +9298,7 @@ En este caso la información reportada y con la que cuenta PRTR-España se corre
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -9345,7 +9345,7 @@ En este caso la información reportada y con la que cuenta PRTR-España se corre
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -10044,7 +10044,7 @@ En este caso la información reportada y con la que cuenta PRTR-España se corre
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -11242,7 +11242,7 @@ En este caso la información reportada y con la que cuenta PRTR-España se corre
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
