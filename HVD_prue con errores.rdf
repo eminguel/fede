@@ -165,6 +165,16 @@
 	
 	        <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/LA0002304"/>
 
+        <dct:creator>
+          <foaf:Agent rdf:nodeID="N203827d6fdac4e72979bc0b65f319b7f">
+            <foaf:name xml:lang="es">Registro Nacional de Lodos</foaf:name>
+            <foaf:mbox rdf:resource="mailto:registro-lodos@miteco.es"/>
+            <foaf:homepage rdf:resource="https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/prevencion-y-gestion-residuos.html"/>
+            <dct:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
+            <dct:identifier>E05068001</dct:identifier>
+          </foaf:Agent>
+        </dct:creator>
+
 			<dcat:distribution>
 				<dcat:Distribution>
 					<dct:title xml:lang="es">Beneficiarios de becas generales de la AGE y el País Vasco que también tienen una beca de comunidad autónoma o universidad por nivel académico (Pc-Axis)</dct:title>
