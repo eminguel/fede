@@ -6734,9 +6734,6 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
     <dct:description xml:lang="es">Capa de Google Earth (KMZ) de Redes de seguimiento PHC 2022-2027</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo>
-      <dct:Standard rdf:about="http://www.opengis.net/def/serviceType/ogc/wfs"/>
-    </dct:conformsTo>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/vnd.google-earth.kmz+xml"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/KMZ"/>

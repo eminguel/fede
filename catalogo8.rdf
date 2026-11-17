@@ -6818,9 +6818,6 @@ Los parámetros que se controlan en estas estaciones de muestreo se centran en l
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo>
-      <dct:Standard rdf:about="http://www.opengis.net/def/serviceType/ogc/wfs"/>
-    </dct:conformsTo>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>

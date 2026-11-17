@@ -7007,9 +7007,6 @@ Esta información responde a las obligaciones del Art. 13 de la Directiva 2000/6
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo>
-      <dct:Standard rdf:about="http://www.opengis.net/def/serviceType/ogc/wfs"/>
-    </dct:conformsTo>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
