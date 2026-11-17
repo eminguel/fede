@@ -44,19 +44,6 @@
     <dcat:theme rdf:resource="http://inspire.ec.europa.eu/theme/nz"/>
     <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-    <dcat:contactPoint>
-      <vcard:Kind rdf:about="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact">
-        <vcard:fn xml:lang="es">Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente (MAPAMA). Dirección General de Sostenibilidad de la Costa y el Mar. División para la Protección del Mar</vcard:fn>
-        <vcard:hasEmail rdf:resource="mailto:bzn-estrategiasmarinas@mapama.es"/>
-        <vcard:hasEmail rdf:resource="mailto:buzon-dgc@miteco.es"/>
-        <vcard:hasEmail rdf:resource="mailto:sig@mapa.es"/>
-        <vcard:hasEmail rdf:resource="mailto:bzn-ESTENERGETICAS@miteco.es"/>
-        <vcard:hasEmail rdf:resource="mailto:bzn-datos@miteco.es"/>
-        <vcard:hasURL rdf:resource="https://www.miteco.gob.es/"/>
-        <vcard:hasURL rdf:resource="https://www.miteco.gob.es/es/ministerio/servicios/estadisticas/"/>
-        <vcard:role rdf:resource="http://id.loc.gov/vocabulary/relators/mdc"/>
-      </vcard:Kind>
-    </dcat:contactPoint>
     <dct:publisher>
       <foaf:Agent rdf:about="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001">
         <foaf:name xml:lang="es">Ministerio para la Transición Ecológica y el Reto Demográfico</foaf:name>
@@ -4114,7 +4101,7 @@ Por organización y claridad se establecen 2 niveles de acceso a los ficheros AT
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/energia"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
-        <dct:creator rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/creator"/>
+        <dct:creator <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
           <dct:PeriodOfTime rdf:nodeID="N759417bdad2c468db16ba3eb00fb12b4">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1990-01-01T00:00:00+00:00</dcat:startDate>
@@ -4175,7 +4162,7 @@ Para ello se analizan las distintas fuentes energéticas (biomasa, biogás, biol
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/energia"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
-        <dct:creator rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/EA0046225-%20v2/creator"/>
+        <dct:creator rdf:resource="<dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>"/>
         <dct:temporal>
           <dct:PeriodOfTime rdf:nodeID="N825f2eb3df4f4620b0ad772dcbdd67da">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-01T00:00:00+00:00</dcat:startDate>
@@ -4572,7 +4559,7 @@ Este conjunto de datos cumple con los requisitos del artículo 4 de la Directiva
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
-        <dct:creator rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/creator"/>
+        <dct:creator <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
           <dct:PeriodOfTime rdf:nodeID="Nbb79376759aa4255ba76f988cc4a28fc">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-01T00:00:00+00:00</dcat:startDate>
@@ -8568,7 +8555,7 @@ En este conjunto de datos se aporta la información sobre las autoridades respon
   <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=c94af558-4887-4c2d-8b01-d4ebf953de5a&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
   <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=88f254fb-67ea-49a7-9138-e7eeaeb9050f&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
   <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=c042dcb3-58e2-4a7f-a5e0-40e37e69d406&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
-  <foaf:Agent rdf:about="https://catalogo.datosabiertos.miteco.gob.es/kos/role/EA0046225-%20v2/creator">
+  <foaf:Agent rdf:about="<dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>">
     <foaf:name xml:lang="es">SG de Prospectiva y Estadísticas Energéticas</foaf:name>
     <foaf:mbox rdf:resource="mailto:bzn-ESTENERGETICAS@miteco.es"/>
     <dct:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>

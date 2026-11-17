@@ -559,7 +559,7 @@ Este conjunto de datos cumple con los requerimientos del artículo 4 de la Direc
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
-        <dct:creator rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/creator"/>
+        <dct:creator <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
           <dct:PeriodOfTime rdf:nodeID="N535a1eaa8b77470facd0f7f43bb3874f">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-01T00:00:00+00:00</dcat:startDate>
@@ -600,7 +600,7 @@ This dataset complies with the requirements of Article 5 of the Environmental No
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
-        <dct:creator rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/creator"/>
+        <dct:creator <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
           <dct:PeriodOfTime rdf:nodeID="N59fe3f4d40df496f985fb620645877f8">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-01T00:00:00+00:00</dcat:startDate>
@@ -809,7 +809,7 @@ This dataset complies with the requirements of Article 4 of the Environmental No
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
-        <dct:creator rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/creator"/>
+        <dct:creator <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
           <dct:PeriodOfTime rdf:nodeID="N2bf67b8e01ad462c923abdb82a81f655">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-01T00:00:00+00:00</dcat:startDate>
@@ -853,7 +853,7 @@ Este conjunto de datos cumple con los requerimientos del artículo 4 de la Direc
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
-        <dct:creator rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/creator"/>
+        <dct:creator <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
           <dct:PeriodOfTime rdf:nodeID="Nd52cf0e568284aa38996e258c710d051">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-01T00:00:00+00:00</dcat:startDate>
@@ -1036,7 +1036,7 @@ la información de las instalaciones incluye datos administrativos y temáticos 
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
-        <dct:creator rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/creator"/>
+        <dct:creator <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
           <dct:PeriodOfTime rdf:nodeID="N20f562148382446e858aa96806d9a4b4">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-01-01T00:00:00+00:00</dcat:startDate>
@@ -1173,7 +1173,7 @@ A continuación se muestran los recursos disponibles para este conjunto de datos
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
-        <dct:creator rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/creator"/>
+        <dct:creator <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
           <dct:PeriodOfTime rdf:nodeID="N02ec5aef3f32414ea6c14367b0c178b0">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-10-02T00:00:00+00:00</dcat:startDate>
@@ -1207,7 +1207,7 @@ A continuación se muestran los recursos disponibles para este conjunto de datos
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
-        <dct:creator rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/creator"/>
+        <dct:creator <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
           <dct:PeriodOfTime rdf:nodeID="N58f64284f78947ac8d41ece9d4028124">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-10-02T00:00:00+00:00</dcat:startDate>
@@ -1249,7 +1249,7 @@ La información alfanumérica de los formularios normalizados de los espacios de
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
-        <dct:creator rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/creator"/>
+        <dct:creator <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
           <dct:PeriodOfTime rdf:nodeID="Nc2dd7799f0154ced81e30be0fb31180b">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-10-02T00:00:00+00:00</dcat:startDate>
@@ -1290,7 +1290,7 @@ La información alfanumérica de los formularios normalizados de los espacios de
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
-        <dct:creator rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/creator"/>
+        <dct:creator <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
           <dct:PeriodOfTime rdf:nodeID="N99d64dea764d4e67931e820df8568ff8">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-10-02T00:00:00+00:00</dcat:startDate>

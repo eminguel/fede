@@ -41,7 +41,7 @@
         <dct:identifier>08724978-2c58-4c49-9307-8af4c0220084</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-03-18T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -99,32 +99,6 @@
     <dcat:theme rdf:resource="http://inspire.ec.europa.eu/theme/nz"/>
     <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-    <dcat:contactPoint>
-      <vcard:Kind rdf:about="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact">
-        <vcard:fn xml:lang="es">Unidad de Inventario de Emisiones, Subdirección General de Aire Limpio y Sostenibilidad Industrial, Dirección General de Calidad y Evaluación Ambiental, Ministerio para la Transición Ecológica y el Reto Demográfico.</vcard:fn>
-        <vcard:hasEmail rdf:resource="mailto:Buzon-inv_emisiones@miteco.es"/>
-        <vcard:hasEmail rdf:resource="mailto:bzn-sgalsi@miteco.es"/>
-        <vcard:hasEmail rdf:resource="mailto:sgca-calidad-aire@miteco.es"/>
-        <vcard:hasEmail rdf:resource="mailto:buzon-sgr@miteco.es"/>
-        <vcard:hasEmail rdf:resource="mailto:Bzn-estrategiasmarinas@miteco.es"/>
-        <vcard:hasEmail rdf:resource="mailto:bzn-SGMINAS@miteco.es"/>
-        <vcard:hasEmail rdf:resource="mailto:bzn-datos@miteco.es"/>
-        <vcard:hasEmail rdf:resource="mailto:buzon-bdatos@miteco.es"/>
-        <vcard:hasEmail rdf:resource="mailto:brfranco@miteco.es"/>
-        <vcard:hasEmail rdf:resource="mailto:bzn-sgpagr@miteco.es"/>
-        <vcard:hasEmail rdf:resource="mailto:sig@mapa.es"/>
-        <vcard:hasEmail rdf:resource="mailto:Bzn-sgpagr@miteco.es"/>
-        <vcard:hasEmail rdf:resource="mailto:redrural@mapama.es"/>
-        <vcard:hasEmail rdf:resource="mailto:bzn-sgph@miteco.es"/>
-        <vcard:hasEmail rdf:resource="mailto:bzn-mara@miteco.es"/>
-        <vcard:hasEmail rdf:resource="mailto:bzn-oem@miteco.es"/>
-        <vcard:hasEmail rdf:resource="mailto:buzon-proteccionmar@miteco.es"/>
-        <vcard:hasEmail rdf:resource="mailto:buzon-dgc@miteco.es"/>
-        <vcard:hasURL rdf:resource="https://www.miteco.gob.es/"/>
-        <vcard:hasURL rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/es/organization/about/sg-de-proteccion-de-las-aguas-y-gestion-de-riesgos"/>
-        <vcard:role rdf:resource="http://id.loc.gov/vocabulary/relators/mdc"/>
-      </vcard:Kind>
-    </dcat:contactPoint>
     <dct:publisher>
       <foaf:Agent rdf:about="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001">
         <foaf:name xml:lang="es">Ministerio para la Transición Ecológica y el Reto Demográfico</foaf:name>
@@ -2810,7 +2784,7 @@ Los campos incluidos se corresponden con la siguiente tipología de información
         <dct:identifier>7d8ea5c2-02be-4e49-a22f-a0628f89dba1</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-04-17T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -2930,7 +2904,7 @@ Según la Directiva 1999/31/CE del Consejo de 26 de abril de 1999 relativa al ve
         <dct:identifier>b94574f8-7b74-4281-b93d-aa5dc5a5e297</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-30T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -2966,7 +2940,7 @@ Según la Directiva 1999/31/CE del Consejo de 26 de abril de 1999 relativa al ve
         <dct:identifier>0f5d959d-d345-4b66-a63b-2d5097d66574</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-02-03T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3008,7 +2982,7 @@ Según la Directiva 1999/31/CE del Consejo de 26 de abril de 1999 relativa al ve
         <dct:identifier>ab1146b6-0d04-46d4-8b4c-78dfca358358</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-12T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3050,7 +3024,7 @@ Según la Directiva 1999/31/CE del Consejo de 26 de abril de 1999 relativa al ve
         <dct:identifier>e5516e99-1e90-48e4-8476-31ab92367064</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-06-21T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3086,7 +3060,7 @@ Según la Directiva 1999/31/CE del Consejo de 26 de abril de 1999 relativa al ve
         <dct:identifier>d316a14e-9ed5-4635-8c67-1fbf3b525185</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-01-29T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3316,7 +3290,7 @@ Según la Directiva 1999/31/CE del Consejo de 26 de abril de 1999 relativa al ve
         <dct:identifier>8cc48ada-c7b0-449c-8473-7a564de596d5</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-02T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3465,7 +3439,7 @@ Las solicitudes son evaluadas y aprobadas por los gestores del MITECO.</dct:desc
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/energia"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
-        <dct:creator rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/EA0046225-%20v2/creator"/>
+        <dct:creator rdf:resource="<dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>"/>
         <dct:temporal>
           <dct:PeriodOfTime rdf:nodeID="N3e7ec7b515dd487cb186eade71352992">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-01-01T00:00:00+00:00</dcat:startDate>
@@ -3815,7 +3789,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
-        <dct:creator rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/creator"/>
+        <dct:creator <dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
           <dct:PeriodOfTime rdf:nodeID="N2466e227637c467b95f2d76b45b61612">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1987-10-06T00:00:00+00:00</dcat:startDate>
@@ -3938,7 +3912,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
         <dct:identifier>73b53080-e75a-4c28-97d1-15aeacf31097</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-11-07T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -3974,7 +3948,7 @@ Hay que tener en cuenta que, debido a nuevas declaraciones y eventualmente recla
         <dct:identifier>6f798a30-3970-47f3-8ca2-b5372f6529a6</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-11-17T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4377,7 +4351,7 @@ Debido a la sensibilidad y fragilidad de las costas obliga a adoptar medidas enc
         <dct:identifier>2844cd76-de60-4791-99af-b6eae97e8924</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-01-11T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4419,7 +4393,7 @@ Debido a la sensibilidad y fragilidad de las costas obliga a adoptar medidas enc
         <dct:identifier>45519566-887e-4450-a13b-243fd0bd030a</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-06-30T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4461,7 +4435,7 @@ Los datos que se pueden consultar son: provincia, municipio, DPMT y referencia.
         <dct:identifier>3367fbb4-85d6-451f-9d60-923b08d4f2df</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-04-11T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4502,7 +4476,7 @@ Los datos que se pueden consultar son: provincia, municipio, DPMT y referencia.
         <dct:identifier>a417cfa5-6cbd-4f86-a92f-617607770875</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-12-31T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4742,7 +4716,7 @@ La Ley 41/2010, de 29 diciembre, de protección del medio marino crea formalment
         <dct:identifier>438e17e6-7297-4176-9969-7ed41f87b71c</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-11-20T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -4791,7 +4765,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
         <dct:identifier>d6a2127c-8ae7-407a-ab5a-2f4a6be8da98</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-05-08T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5225,7 +5199,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
         <dct:identifier>f4930fc2-06c7-43d5-a62e-b2f8a26b2b54</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-03-18T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5266,7 +5240,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
         <dct:identifier>e6948efa-fc17-46d2-a73d-2d79ceaa1dce</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-03-18T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5308,7 +5282,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
         <dct:identifier>3b382ab2-519b-4663-8341-9c0e1dcacc31</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-03-18T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5349,7 +5323,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
         <dct:identifier>e3775a56-1359-46d6-8edf-6564e1cc0957</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-03-18T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5390,7 +5364,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
         <dct:identifier>7c2234e7-0050-4580-8d23-e43b992ec08e</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-03-18T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5431,7 +5405,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
         <dct:identifier>f09af1ac-2be1-4367-a2a1-b581de1bafc8</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-03-18T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5472,7 +5446,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
         <dct:identifier>08f9403b-5f67-49cb-aa1e-c43f6a05e3aa</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-03-18T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5513,7 +5487,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
         <dct:identifier>803be79c-7d7d-4659-87fb-ca228605381e</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-03-18T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5554,7 +5528,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
         <dct:identifier>ff5b999e-05ef-471d-b5cb-2c2bfc7ed2d7</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-03-18T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-09T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5598,7 +5572,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
         <dct:identifier>938f6ca8-685a-49e2-881c-74b4d6e362de</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-23T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5634,7 +5608,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
         <dct:identifier>fef4216d-fb68-4a67-858e-5bdd80c1c773</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-04-05T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5675,7 +5649,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
         <dct:identifier>84d25ce4-0e93-4212-9605-9138dca8913d</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-04-27T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5716,7 +5690,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
         <dct:identifier>a445290e-1d99-4747-8a1b-9fb6760ec46d</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-11-14T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5752,7 +5726,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
         <dct:identifier>c254a628-9eb7-4af7-899a-5574debe83ca</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-04-27T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5788,7 +5762,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
         <dct:identifier>2a6841d7-4fbe-4641-8b8e-01b06acf11d5</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-23T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5824,7 +5798,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
         <dct:identifier>40b90885-8e17-40a7-8768-e82fef0263c9</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-23T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -5860,7 +5834,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
         <dct:identifier>68f1810a-679c-4d68-89e6-17b29afca69e</dct:identifier>
         <adms:versionNotes xml:lang="es">1.1.0 y superiores</adms:versionNotes>
         <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/service"/>
-        <dcat:keyword xml:lang="es">1.3.0</dcat:keyword>
+        <dcat:keyword xml:lang="es">SUSTITUIDA</dcat:keyword>
         <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-01-23T00:00:00+00:00</dct:modified>
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-13T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
@@ -6472,7 +6446,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -6655,7 +6629,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -6673,7 +6647,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -6800,7 +6774,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -6906,7 +6880,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7101,7 +7075,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
     <dct:description xml:lang="es">Descarga de cartografía digital (GML):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7151,7 +7125,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7234,7 +7208,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7268,7 +7242,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7303,7 +7277,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
     <dct:description xml:lang="es">Descarga de cartografía digital (GML):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7532,7 +7506,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7550,7 +7524,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
     <dct:description xml:lang="es">Descarga de cartografía digital (GML):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7776,7 +7750,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -7902,7 +7876,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8011,7 +7985,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8171,7 +8145,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8189,7 +8163,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8225,7 +8199,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8273,7 +8247,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8305,7 +8279,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8887,7 +8861,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -8967,7 +8941,7 @@ Los datos recogidos están actualizados a fecha de Mayo del año 2018.
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -9746,7 +9720,7 @@ Este link de descarga incluye información histórica y zonal sobre la continuid
     <dct:description xml:lang="es">Descarga de cartografía digital (GML):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -9824,7 +9798,7 @@ Este link de descarga incluye información histórica y zonal sobre la continuid
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -9885,7 +9859,7 @@ Este link de descarga incluye información histórica y zonal sobre la continuid
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -10017,7 +9991,7 @@ Este link de descarga incluye información histórica y zonal sobre la continuid
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -10196,7 +10170,7 @@ Este link de descarga incluye información histórica y zonal sobre la continuid
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -10301,7 +10275,7 @@ Este link de descarga incluye información histórica y zonal sobre la continuid
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -10422,7 +10396,7 @@ Este link de descarga incluye información histórica y zonal sobre la continuid
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -10456,7 +10430,7 @@ Este link de descarga incluye información histórica y zonal sobre la continuid
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -10536,7 +10510,7 @@ Este link de descarga incluye información histórica y zonal sobre la continuid
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -11037,7 +11011,7 @@ Este link de descarga incluye información histórica y zonal sobre la continuid
     <dct:description xml:lang="es">Descarga cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -11146,7 +11120,7 @@ Este link de descarga incluye información histórica y zonal sobre la continuid
     <dct:description xml:lang="es">Descarga de cartografía digital (GML)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -11502,7 +11476,7 @@ Este link de descarga incluye información histórica y zonal sobre la continuid
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -11562,7 +11536,7 @@ Este link de descarga incluye información histórica y zonal sobre la continuid
     <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
     <dcat:accessService rdf:resource="https://wms.mapama.gob.es/sig/Costas/EstrategiasMarinas/Transectos/"/>
   </dcat:Distribution>
-  <foaf:Agent rdf:about="https://catalogo.datosabiertos.miteco.gob.es/kos/role/EA0046225-%20v2/creator">
+  <foaf:Agent rdf:about="<dct:creator rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>">
     <foaf:name xml:lang="es">Subdirección General de Prospectiva y Estadísticas Energéticas</foaf:name>
     <foaf:mbox rdf:resource="mailto:bzn-ESTENERGETICAS@miteco.es"/>
     <dct:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
@@ -12189,7 +12163,7 @@ Este link de descarga incluye información histórica y zonal sobre la continuid
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -12513,7 +12487,7 @@ Este link de descarga incluye información histórica y zonal sobre la continuid
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile):</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
@@ -12760,7 +12734,7 @@ Este link de descarga incluye información histórica y zonal sobre la continuid
     <dct:description xml:lang="es">Descarga de cartografía digital (shapefile)</dct:description>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wfs"/>
+    <dct:conformsTo rdf:resource="http://www.SUSTITUIDO.ES"/>
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/zip"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/ZIP"/>
