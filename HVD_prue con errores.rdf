@@ -85,7 +85,16 @@
 		<dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
 		<dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_b7f6a4f3"/>
 
-
+		<dcat:distribution>
+				<dcat:Distribution>
+					<dct:title xml:lang="es">Distribucion de ejemplo HVD_ERRORES</dct:title>
+					<dct:description xml:lang="es"> Distribucion de ejemplo HVD_ERRORES</dct:description>
+					<dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/> 
+					<dcat:accessURL rdf:resource="https://estadisticas.ciencia.gob.es/jaxiPx/files/_px/es/px/Universitaria/BECAS/CONV/l0/px_becas_conv_age_pv_concurrencia_ca.px"/>
+					<dcat:downloadURL rdf:resource="https://estadisticas.ciencia.gob.es/jaxiPx/files/_px/es/px/Universitaria/BECAS/CONV/l0/px_becas_conv_age_pv_concurrencia_ca.px"/>
+					<dct:license rdf:resource="https://www.ciencia.gob.es/Ministerio/Estadisticas/ReutilizacionDatos/" />
+				</dcat:Distribution>
+		</dcat:distribution>
 
       </dcat:Dataset>
     </dcat:dataset>
