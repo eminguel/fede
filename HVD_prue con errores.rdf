@@ -84,6 +84,7 @@
 		</dcat:contactPoint>
 		<dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
 		<dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_b7f6a4f3"/>
+<dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/RESTRICTED"/>
 
 		<dcat:distribution>
 				<dcat:Distribution>
