@@ -82,8 +82,7 @@
 				<vcard:hasTelephone rdf:resource="tel:.+3491222222"/>
 			</vcard:Organization>
 		</dcat:contactPoint>
-		
-		<dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_b7f6a4f3"/>
+
 
 		<dcat:distribution>
 				<dcat:Distribution>
