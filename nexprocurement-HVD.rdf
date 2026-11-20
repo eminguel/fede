@@ -64,7 +64,8 @@
             <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
             <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/PARQUET"/> 
             <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1024</dcat:byteSize>
-			
+			<dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/STABLE"/>
+
           </dcat:Distribution>
         </dcat:distribution>
 
