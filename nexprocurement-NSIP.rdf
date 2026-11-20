@@ -33,7 +33,13 @@
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/sector-publico"/>
         <dcat:keyword xml:lang="es">licitaciones</dcat:keyword>
         <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
-        <dcat:contactPoint>
+        <dct:temporal>
+			<dct:PeriodOfTime>
+				<dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-12-31T00:00:00Z</dcat:endDate>
+				<dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-04-30T00:00:00Z</dcat:startDate>
+			</dct:PeriodOfTime>
+		</dct:temporal>
+		<dcat:contactPoint>
           <vcard:Organization>
             <vcard:organization-name xml:lang="es">Proyecto NextProcurement</vcard:organization-name>
             <vcard:fn xml:lang="es">proyecto NextProcurement</vcard:fn>
@@ -48,8 +54,6 @@
         <dcat:distribution>
           <dcat:Distribution rdf:about="http://nextprocurement-project.com/NSIP/Licitaciones/json">
             <dcat:accessURL rdf:resource="http://nextprocurement-project.com/NSIP/Licitaciones/json"/>
-
-
             <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/> 
             <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1024</dcat:byteSize>
 			<dct:rights rdf:resource="http://nextprocurement-project.com/uso-confidencial"/>
@@ -69,7 +73,6 @@
     </dcat:dataset>
 
   </dcat:Catalog>
-  
   
 
 </rdf:RDF>
