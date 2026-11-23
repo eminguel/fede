@@ -16,7 +16,7 @@
     <dct:title xml:lang="es">Catálogo de Datos Nextprocurement Project</dct:title>
     <dct:description xml:lang="es">Catálogo de Datos Nextprocurement Project</dct:description>
     <foaf:homepage rdf:resource="http://nextprocurement-project.com"/>
-    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0041150"/>
+    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
     <dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-01T09:00:00+01:00</dct:issued>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-01-02T12:00:00+01:00</dct:modified>
@@ -54,7 +54,12 @@
         <dcat:distribution>
           <dcat:Distribution rdf:about="http://nextprocurement-project.com/NSIP/Licitaciones/json">
             <dcat:accessURL rdf:resource="http://nextprocurement-project.com/NSIP/Licitaciones/json"/>
-            <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/> 
+            <dct:format>
+				<dct:IMT>
+				<rdf:value>COG_value</rdf:value>
+				<rdfs:label>COG_label</rdfs:label>
+				</dct:IMT>
+			</dct:format>
             <dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1024</dcat:byteSize>
 			<dct:rights rdf:resource="http://nextprocurement-project.com/uso-confidencial"/>
 			
@@ -76,3 +81,4 @@
   
 
 </rdf:RDF>
+
