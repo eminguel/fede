@@ -29,9 +29,6 @@
         <dct:title xml:lang="es">Licitaciones del proyecto NextProcurement Protegidos</dct:title>
         <dct:description xml:lang="es">Licitaciones del proyecto NextProcurement Protegidos</dct:description>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/EA0041150"/>
-		<dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/RESTRICTED"/>            
-		<dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
-        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_b7f6a4f3"/>
         <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg/2022/868/oj"/>
 		<dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/sector-publico"/>
         <dcat:keyword xml:lang="es">licitaciones</dcat:keyword>
@@ -84,5 +81,6 @@
   
 
 </rdf:RDF>
+
 
 
