@@ -7779,16 +7779,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
     <dcat:dataset rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/b2747c0f-a56c-4854-b950-90e99b0d0c49"/>
     <dcat:dataset rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/96a7573e-2fd9-4b17-adf2-8d0d56452581"/>
   </dcat:Catalog>
-  <hydra:PagedCollection rdf:about="https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/catalogo1.rdf">
-    <hydra:nextPage>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/catalogo2.rdf</hydra:nextPage>
-    <hydra:next>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/catalogo2.rdf</hydra:next>
-    <hydra:firstPage>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/catalogo1.rdf</hydra:firstPage>
-    <hydra:first>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/catalogo1.rdf</hydra:first>
-    <hydra:lastPage>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/catalogo2.rdf</hydra:lastPage>
-    <hydra:last>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/catalogo2.rdf</hydra:last>
-    <hydra:totalItems rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</hydra:totalItems>
-    <hydra:itemsPerPage rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</hydra:itemsPerPage>
-  </hydra:PagedCollection>
+
   <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/c4fd48cf-5cec-47ea-9aab-6abb9ab047a7/resource/5512afc7-ef05-4f03-929b-0f2e4dce78c7">
     <dct:title xml:lang="es">Enlace de descarga del servicio ATOM</dct:title>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
