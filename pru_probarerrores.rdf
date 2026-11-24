@@ -18,6 +18,7 @@
     <dcat:dataset>
       <dcat:Dataset rdf:about="http://12345">
 		<dct:title xml:lang="es">12345</dct:title>
+		<dcat:keyword xml:lang="es">estadísticas/otro</dcat:keyword>
       </dcat:Dataset>
     </dcat:dataset>
 
