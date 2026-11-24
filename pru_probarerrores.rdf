@@ -12,7 +12,7 @@
 		 xmlns:skos="http://www.w3.org/2004/02/skos/core#"
          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
 
-  <dcat:Catalog rdf:about="http://nsip.dcat-ap-es.ejemplo.org/catalogo-protegido">
+  <dcat:Catalog>
     <dct:title></dct:title>
 
     <dcat:dataset>
