@@ -46,7 +46,7 @@
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N760d179c4ffe4da5a4821cd2d5c6c53d">
+          <dct:PeriodOfTime rdf:nodeID="Na8b78a4d220348d2ae62d9bfd769a6f6">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -149,7 +149,7 @@
     <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
     <dct:temporal>
-      <dct:PeriodOfTime rdf:nodeID="Ne5b903c669814d788b00089bf33a3f6b">
+      <dct:PeriodOfTime rdf:nodeID="N284219b193f24d319cf801cfa021b1f6">
         <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
       </dct:PeriodOfTime>
     </dct:temporal>
@@ -297,7 +297,7 @@
     <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
     <dct:temporal>
-      <dct:PeriodOfTime rdf:nodeID="Nf505aa93384642af9f0ae7548da040cd">
+      <dct:PeriodOfTime rdf:nodeID="N015c45cb22cc4080ab2f6ed4555085e3">
         <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
       </dct:PeriodOfTime>
     </dct:temporal>
@@ -793,7 +793,7 @@
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N45918adee5c94bb3b37d8051f70734d2">
+          <dct:PeriodOfTime rdf:nodeID="N5b0b0666abcb45f195cf03f1163fe412">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-09-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -862,7 +862,7 @@
     <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
     <dct:temporal>
-      <dct:PeriodOfTime rdf:nodeID="Nebbce73afd474021bbc34179b4646bfb">
+      <dct:PeriodOfTime rdf:nodeID="N6b9185a78ec942f4a8cc7d7f405b8f75">
         <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
       </dct:PeriodOfTime>
     </dct:temporal>
@@ -1200,7 +1200,7 @@
     <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
     <dct:temporal>
-      <dct:PeriodOfTime rdf:nodeID="N5e9cf06c7f3f4ea189e5d4390dad2e95">
+      <dct:PeriodOfTime rdf:nodeID="N106d363aeb194715b26e7bc426d6a44b">
         <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T00:00:00+00:00</dcat:startDate>
         <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-12-31T00:00:00+00:00</dcat:endDate>
       </dct:PeriodOfTime>
@@ -1329,138 +1329,6 @@
     <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
     <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_ac64a52d"/>
   </dcat:Dataset>
-  <dcat:Dataset rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b">
-    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-    <dct:title xml:lang="es">Mapa de áreas de riesgo ambiental por inundación fluvial T=500 años</dct:title>
-    <dct:description xml:lang="es">Mapa de riesgo ambiental (áreas) correspondiente a un escenario de baja probabilidad de inundación (periodo de retorno de 500 años), teniendo en cuenta la información relativa a masas de agua, captaciones, zonas de uso recreativo y Hábitats.</dct:description>
-    <dcat:landingPage rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b"/>
-    <dct:identifier>38940357-6f97-4e79-a424-33fe613a176b</dct:identifier>
-    <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset"/>
-    <dcat:keyword xml:lang="es">500-años</dcat:keyword>
-    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-10-08T00:00:00+00:00</dct:modified>
-    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
-    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
-    <dct:conformsTo rdf:resource="http://data.europa.eu/930/"/>
-    <dct:conformsTo rdf:resource="http://www.opengis.net/def/crs/EPSG/0/4258"/>
-    <dct:isReferencedBy>
-      <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=38940357-6f97-4e79-a424-33fe613a176b&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
-    </dct:isReferencedBy>
-    <dcat:theme rdf:resource="http://inspire.ec.europa.eu/theme/nz"/>
-    <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
-    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
-    <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
-    <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
-    <dct:temporal>
-      <dct:PeriodOfTime rdf:nodeID="N6fc4be405500429faf29c1147dda3505">
-        <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
-      </dct:PeriodOfTime>
-    </dct:temporal>
-    <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
-    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-    <dcat:distribution>
-      <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b/resource/8ff6a073-f056-4f46-a974-6d2dc536a118">
-        <dct:title xml:lang="es">NZ.ExposedElement</dct:title>
-        <dct:description xml:lang="es">Áreas de importancia medioambiental de origen fluvial T=500 años</dct:description>
-        <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
-        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wms"/>
-        <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"/>
-        <dcat:accessURL rdf:resource="https://gis.miteco.gob.es/geoserver/agua/Zif_riesgo_medamb_q500/wms?request=GetCapabilities&amp;service=WMS"/>
-        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:modified>
-        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
-        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
-        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
-        <dcat:accessService rdf:resource="https://gis.miteco.gob.es/geoserver/agua/Zif_riesgo_medamb_q500/wms"/>
-      </dcat:Distribution>
-    </dcat:distribution>
-    <dcat:distribution>
-      <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b/resource/e2c86a1f-f4b0-4862-8e47-982a0acf2d7e">
-        <dct:title xml:lang="es">Descripción del Servicio de Áreas de importancia medioambiental de origen fluvial T=500 años</dct:title>
-        <dct:description xml:lang="es">GetCapabilities</dct:description>
-        <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
-        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"/>
-        <dcat:accessURL rdf:resource="https://gis.miteco.gob.es/geoserver/agua/Zif_riesgo_medamb_q500/wms?request=GetCapabilities&amp;service=WMS"/>
-        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:modified>
-        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
-        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
-        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
-      </dcat:Distribution>
-    </dcat:distribution>
-    <dcat:distribution>
-      <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b/resource/2c203f98-bf0e-4a3f-b9a1-b49f20d6ef4d">
-        <dct:title xml:lang="es">Enlace de descarga del servicio ATOM</dct:title>
-        <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
-        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-        <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
-        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
-        <dcat:accessURL rdf:resource="https://gis.miteco.gob.es/descargas/atom/catalog.atom"/>
-        <dcat:downloadURL rdf:resource="https://gis.miteco.gob.es/descargas/atom/catalog.atom"/>
-        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:modified>
-        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
-        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
-        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
-      </dcat:Distribution>
-    </dcat:distribution>
-    <dcat:distribution>
-      <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b/resource/ec45164a-bce4-45c5-8d2c-543f344f4ad8">
-        <dct:title xml:lang="es">Servicio de descarga de objetos geográficos OGC API Features</dct:title>
-        <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
-        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMTS_SRVC"/>
-        <dcat:accessURL rdf:resource="https://gis.miteco.gob.es/geoserver/ogc/features/v1?request=GetCapabilities&amp;service=WMTS"/>
-        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:modified>
-        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
-        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
-        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
-      </dcat:Distribution>
-    </dcat:distribution>
-    <dcat:distribution>
-      <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b/resource/9f9c7b3e-c95a-485c-8c17-b38ee0530701">
-        <dct:title xml:lang="es">Visor cartográfico del SNCZI</dct:title>
-        <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
-        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
-        <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
-        <dcat:accessURL rdf:resource="https://sig.miteco.gob.es/snczi"/>
-        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:modified>
-        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
-        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
-        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
-      </dcat:Distribution>
-    </dcat:distribution>
-    <dcat:distribution>
-      <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b/resource/b6507def-f16f-4d4a-80c1-755e42f24d3c">
-        <dct:title xml:lang="es">Enlace a la página de descargas de la IDE del Ministerio</dct:title>
-        <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
-        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
-        <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-        <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
-        <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
-        <dcat:accessURL rdf:resource="https://www.miteco.gob.es/es/cartografia-y-sig/ide/descargas/agua/riesgo-inundacion-fluvial-t500.html"/>
-        <dcat:downloadURL rdf:resource="https://www.miteco.gob.es/es/cartografia-y-sig/ide/descargas/agua/riesgo-inundacion-fluvial-t500.html"/>
-        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:modified>
-        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
-        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
-        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
-      </dcat:Distribution>
-    </dcat:distribution>
-    <adms:status rdf:resource="http://publications.europa.eu/resource/authority/distribution-status/COMPLETED"/>
-    <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
-    <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_ac64a52d"/>
-  </dcat:Dataset>
   <dcat:DataService rdf:about="https://wms.mapama.gob.es/sig/Agua/ERHIN/SubcuencasNivales">
     <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
     <dct:title xml:lang="en">Web Map Service (WMS)</dct:title>
@@ -1492,7 +1360,7 @@
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N2f3f7980ee4b4902b6121e6143ec02b3">
+          <dct:PeriodOfTime rdf:nodeID="N1de2481826b049ebbd0ee7c70f4c3372">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-09-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -1569,7 +1437,7 @@
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nc42cff2390984dccb954691da0f455e8">
+          <dct:PeriodOfTime rdf:nodeID="N4da8330893b84d53a0dd5246f3683198">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-01-10T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -1742,7 +1610,7 @@ Para dar cumplimiento a estos objetivos medioambientales se parte de la delimita
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nf7f7f3730b2a4469960b739245254b7a">
+          <dct:PeriodOfTime rdf:nodeID="Nb1a94e91af6942b8ac30b51919cb1483">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1911-10-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-09-30T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -1890,7 +1758,7 @@ Para dar cumplimiento a estos objetivos medioambientales se parte de la delimita
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N8d51f100cf4e4fc2adcbda077ac3eddb">
+          <dct:PeriodOfTime rdf:nodeID="N424de434c5f44a4b9de0332a1a4f730a">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2002-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -1966,7 +1834,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N8e26b0ced54041e98ac1dcaf55266094">
+          <dct:PeriodOfTime rdf:nodeID="Nfa606ad5b1464ab18227121f37e620e5">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-29T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-01-01T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -2043,7 +1911,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nf8403847c35b4aafb7c27535dabf660d">
+          <dct:PeriodOfTime rdf:nodeID="N1d3e68120cc147fcb397085a030ad632">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-10-29T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-01-01T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -2191,7 +2059,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N44149f0bdf0f4f138c7ea3c29cabc6a0">
+          <dct:PeriodOfTime rdf:nodeID="N0fcd2b5cf49541a3b9a403c765154de2">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -2260,7 +2128,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N511a761c46ca4f72a579bad7867eb56e">
+          <dct:PeriodOfTime rdf:nodeID="N6978f209b20f465ab464093d9acb8939">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -2297,7 +2165,7 @@ La puesta en marcha de nuevos programas de control que permitan obtener informac
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nbcda326708a546a180b640ed17fb6fc7">
+          <dct:PeriodOfTime rdf:nodeID="N2b0e556ecf724bfeb74f20445989cbad">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-04-20T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -4187,7 +4055,7 @@ Para evaluar los datos registrados a partir de 2020 se ha utilizado el vigente R
     <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
     <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
     <dct:temporal>
-      <dct:PeriodOfTime rdf:nodeID="N0dae5eced280427e92efe4c14ee7ac84">
+      <dct:PeriodOfTime rdf:nodeID="Ndf3b8370e63d499985141ef66b358ea6">
         <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
       </dct:PeriodOfTime>
     </dct:temporal>
@@ -6007,7 +5875,7 @@ Por organización y claridad se establecen 2 niveles de acceso a los ficheros AT
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N19f60141f9d64c30844203d29cabd7bc">
+          <dct:PeriodOfTime rdf:nodeID="Nd681e1e5d3eb4badb530fa21b72f87b8">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-01-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -6041,7 +5909,7 @@ Por organización y claridad se establecen 2 niveles de acceso a los ficheros AT
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N911b280077fa42a3b500b7ea70066300">
+          <dct:PeriodOfTime rdf:nodeID="N46af591d2ef94da69591c9d8d4172584">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -6082,7 +5950,7 @@ Por organización y claridad se establecen 2 niveles de acceso a los ficheros AT
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N8fd5aaefbbed4847bf133f942869b06b">
+          <dct:PeriodOfTime rdf:nodeID="N9d86b5ac8ff245089b32fa30ec0cf2b1">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -6122,7 +5990,7 @@ Por organización y claridad se establecen 2 niveles de acceso a los ficheros AT
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N1b4294a678fe477591a9efb3113c224a">
+          <dct:PeriodOfTime rdf:nodeID="N5c03c7adfaec4e9c8a5576e934d88463">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -6163,7 +6031,7 @@ Por organización y claridad se establecen 2 niveles de acceso a los ficheros AT
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nd66c43013f3a4039aed06a861e4c5a80">
+          <dct:PeriodOfTime rdf:nodeID="N792726ebfe90485db3dac4f279552c38">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -6203,7 +6071,7 @@ Por organización y claridad se establecen 2 niveles de acceso a los ficheros AT
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N62401e719bc4400c97b93002997867c1">
+          <dct:PeriodOfTime rdf:nodeID="Ncf3bb84cddee4417945d40e980d257cb">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -6279,7 +6147,7 @@ Esta cartografía solo recoge los límites entre Confederaciones Hidrográficas,
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N163657cd9c9543e19889f56d361ae379">
+          <dct:PeriodOfTime rdf:nodeID="Nba12530ef3094c38827174a3b3fb3931">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-04-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -6321,7 +6189,7 @@ Esta cartografía solo recoge los límites entre Confederaciones Hidrográficas,
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nd348b52a35a1434098843be3087b3bb2">
+          <dct:PeriodOfTime rdf:nodeID="Nfda6bad8cea247228abfa42e94132fa3">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -6362,7 +6230,7 @@ Esta cartografía solo recoge los límites entre Confederaciones Hidrográficas,
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Ne1cf290b83394e2c86ae6646bc0ab4df">
+          <dct:PeriodOfTime rdf:nodeID="N40bb0c82a286446b964f17d5185f7d0e">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -6403,7 +6271,7 @@ Esta cartografía solo recoge los límites entre Confederaciones Hidrográficas,
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nda705daa5a6b4de9989216d501ededfc">
+          <dct:PeriodOfTime rdf:nodeID="Nc16a5fc3fd8d486993a8a6a4015709dd">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -6444,7 +6312,7 @@ Esta cartografía solo recoge los límites entre Confederaciones Hidrográficas,
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N6a764ce667b04eeeaf405316d826a67d">
+          <dct:PeriodOfTime rdf:nodeID="N90c458c1d6dc4e0ca9ca077727d53d2b">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -6485,7 +6353,7 @@ Esta cartografía solo recoge los límites entre Confederaciones Hidrográficas,
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N704a7757f3bd4c388bb34a5be26a67f7">
+          <dct:PeriodOfTime rdf:nodeID="N001eddf3a96f49f6809591bf485df840">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -6525,7 +6393,7 @@ Esta cartografía solo recoge los límites entre Confederaciones Hidrográficas,
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N35e638ff318a459e80511d0c9aaaadfa">
+          <dct:PeriodOfTime rdf:nodeID="Nd4167511416d4a6db7c21d2ca234eaed">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-04-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -6566,7 +6434,7 @@ Esta cartografía solo recoge los límites entre Confederaciones Hidrográficas,
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N93323a5a508d4e978d953d0cf22c7654">
+          <dct:PeriodOfTime rdf:nodeID="Nff71d0b6885d4ddab1925de2069e4e4c">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -6607,7 +6475,7 @@ Esta cartografía solo recoge los límites entre Confederaciones Hidrográficas,
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N72f90fb14e71427191dd888322158137">
+          <dct:PeriodOfTime rdf:nodeID="Nc93a662bb5f34f8fb48f22e6bb238e9a">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -6648,7 +6516,7 @@ Esta cartografía solo recoge los límites entre Confederaciones Hidrográficas,
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nefd7bb8871344e069a231e3921c85b8e">
+          <dct:PeriodOfTime rdf:nodeID="Nef60520ddb0645609aeeec2269b1e9fa">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -6689,7 +6557,7 @@ Esta cartografía solo recoge los límites entre Confederaciones Hidrográficas,
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nb411c7bceaf24d66b42e492ba0f1d4cc">
+          <dct:PeriodOfTime rdf:nodeID="Nb9f9a524f31744c694f6b9fd5a74d284">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -6730,7 +6598,7 @@ Esta cartografía solo recoge los límites entre Confederaciones Hidrográficas,
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nccc37bd7a155470fa879bbe3fb3b3154">
+          <dct:PeriodOfTime rdf:nodeID="N65c5e30786c94867ae566420a8d9489d">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -6767,7 +6635,7 @@ Esta cartografía solo recoge los límites entre Confederaciones Hidrográficas,
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nfc4e95eb8ac14ab4a914a925bf853761">
+          <dct:PeriodOfTime rdf:nodeID="Na5a7b2bc4a1c4434b8e7728158c92104">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-09-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -6812,7 +6680,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N5a5c5d0fe8dd4578ab274ca7562b2925">
+          <dct:PeriodOfTime rdf:nodeID="N7a5bec3dc8a0429b91623873fc39864e">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-01-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-12-31T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -6856,7 +6724,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nd09fbe8b17204d91b6f9d8ecf35d54a2">
+          <dct:PeriodOfTime rdf:nodeID="N67513eb6cd6143d092e75cb339fdc5a5">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-04-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -6895,7 +6763,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N20342b79031c4b7695bf78e04f48ecdf">
+          <dct:PeriodOfTime rdf:nodeID="N205ef000e86b4d339deaf881554debea">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-04-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -6934,7 +6802,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N04f9e7ae95c049e8bb1832b51a111b20">
+          <dct:PeriodOfTime rdf:nodeID="N3d2578a85af64571bce1ac6d3a3232f4">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-04-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -6974,7 +6842,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Ncffe38130dd64d4791cea3436f3ab912">
+          <dct:PeriodOfTime rdf:nodeID="N47f346577764420faa975965e9a0be10">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-04-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7013,7 +6881,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N5c19280cb32d472db950d1bf88eabce9">
+          <dct:PeriodOfTime rdf:nodeID="Na8a95c4e5d0b43a8adea780cb92f217d">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-30T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -7053,7 +6921,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N0d3a4ea8b9b94746ac0bf6b965b2cedb">
+          <dct:PeriodOfTime rdf:nodeID="N135cc62df6c74454b0e7b47c73082275">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-30T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -7093,7 +6961,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N765ff79b06e94240803276cd647b00bd">
+          <dct:PeriodOfTime rdf:nodeID="N3b9bff20033d4aa690211c3148ecc796">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2011-10-01T00:00:00+00:00</dcat:startDate>
             <dcat:endDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-09-30T00:00:00+00:00</dcat:endDate>
           </dct:PeriodOfTime>
@@ -7181,7 +7049,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nd04294a0dbeb413195790232b9f10764">
+          <dct:PeriodOfTime rdf:nodeID="Nb8128866d53f48a68cfe4abb1048d24b">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7222,7 +7090,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nce2e59d3f5d845a6b2f623f47e053cf6">
+          <dct:PeriodOfTime rdf:nodeID="Nd56857b29cbe4a58bbe689a8048cc7a8">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7262,7 +7130,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N8d73d95725fa4ecd8e9e22f4a136ecf4">
+          <dct:PeriodOfTime rdf:nodeID="Nc1651e8774584d7abb392485eb2e9c86">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7302,7 +7170,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nd3f11ccd7d414f33b43a6fa87c3d2634">
+          <dct:PeriodOfTime rdf:nodeID="Nfbc0b8ae78ba460aa912c3b04af6ebd5">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7343,7 +7211,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Nf561ddab843644d8825dd5408ed6565c">
+          <dct:PeriodOfTime rdf:nodeID="N2edf7732de1444c7baf6f39c5e8acbb8">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7383,7 +7251,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N9cf483cc76bd4f0684db7733230fdf4b">
+          <dct:PeriodOfTime rdf:nodeID="N7a712446d6484d45b06ccfec2fbe73f0">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7423,7 +7291,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="Ndcb0a68b890e4462aed8c21dc9bfb3a0">
+          <dct:PeriodOfTime rdf:nodeID="N81f827b524d0424daebf513b4e563677">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7462,7 +7330,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N977273116e3347c2b9876c191e2ec735">
+          <dct:PeriodOfTime rdf:nodeID="Ndcf76500512341a3824ec5bd93178d00">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7501,7 +7369,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N77d37c26d3d34067abd46f0fd6ffd9b9">
+          <dct:PeriodOfTime rdf:nodeID="N5151c885d97a4a9b94f1a025e8799e92">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7540,7 +7408,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N6ccc58d05abd4361ae2fa703d9b0bc7a">
+          <dct:PeriodOfTime rdf:nodeID="Ne3d7288e065f4b048638944fd4a15925">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7579,7 +7447,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N7088fa7548e146b8afb7af4810d92038">
+          <dct:PeriodOfTime rdf:nodeID="N9428b6923bcb47b5a779ed8fca034d43">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7599,7 +7467,45 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
     </dcat:dataset>
     <dcat:dataset rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/887ca76a-0adc-45f9-bbc6-89905e092f26"/>
     <dcat:dataset rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/9221d023-746f-493b-9716-f0d6733077a9"/>
-    <dcat:dataset rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b"/>
+    <dcat:dataset>
+      <dcat:Dataset rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title xml:lang="es">Mapa de áreas de riesgo ambiental por inundación fluvial T=500 años</dct:title>
+        <dct:description xml:lang="es">Mapa de riesgo ambiental (áreas) correspondiente a un escenario de baja probabilidad de inundación (periodo de retorno de 500 años), teniendo en cuenta la información relativa a masas de agua, captaciones, zonas de uso recreativo y Hábitats.</dct:description>
+        <dcat:landingPage rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b"/>
+        <dct:identifier>38940357-6f97-4e79-a424-33fe613a176b</dct:identifier>
+        <dct:type rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset"/>
+        <dcat:keyword xml:lang="es">500-años</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-10-08T00:00:00+00:00</dct:modified>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
+        <dct:conformsTo rdf:resource="http://data.europa.eu/930/"/>
+        <dct:conformsTo rdf:resource="http://www.opengis.net/def/crs/EPSG/0/4258"/>
+        <dct:isReferencedBy rdf:resource="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=38940357-6f97-4e79-a424-33fe613a176b&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
+        <dcat:theme rdf:resource="http://inspire.ec.europa.eu/theme/nz"/>
+        <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/medio-ambiente"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENVI"/>
+        <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
+        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:nodeID="Nf6cf83883e70420cb692e4bfa2d9776c">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
+        <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dcat:distribution rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b/resource/8ff6a073-f056-4f46-a974-6d2dc536a118"/>
+        <dcat:distribution rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b/resource/e2c86a1f-f4b0-4862-8e47-982a0acf2d7e"/>
+        <dcat:distribution rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b/resource/2c203f98-bf0e-4a3f-b9a1-b49f20d6ef4d"/>
+        <dcat:distribution rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b/resource/ec45164a-bce4-45c5-8d2c-543f344f4ad8"/>
+        <dcat:distribution rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b/resource/9f9c7b3e-c95a-485c-8c17-b38ee0530701"/>
+        <dcat:distribution rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b/resource/b6507def-f16f-4d4a-80c1-755e42f24d3c"/>
+        <adms:status rdf:resource="http://publications.europa.eu/resource/authority/distribution-status/COMPLETED"/>
+        <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+        <dcatap:hvdCategory rdf:resource="http://data.europa.eu/bna/c_ac64a52d"/>
+      </dcat:Dataset>
+    </dcat:dataset>
     <dcat:dataset>
       <dcat:Dataset rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/56417c7d-0988-4d4c-bd45-b3d98aab2329">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
@@ -7621,7 +7527,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N07efdc53a0204beca62eaf6568851c33">
+          <dct:PeriodOfTime rdf:nodeID="N02d448b67e424d84abafd54fbfa3db59">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7660,7 +7566,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/kos/role/E05068001/contact"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E05068001"/>
         <dct:temporal>
-          <dct:PeriodOfTime rdf:nodeID="N81ccc892e09043cfbc405f38644e742d">
+          <dct:PeriodOfTime rdf:nodeID="N6ef36e80afd54a22999bf473a7870738">
             <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-08-01T00:00:00+00:00</dcat:startDate>
           </dct:PeriodOfTime>
         </dct:temporal>
@@ -7779,7 +7685,16 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
     <dcat:dataset rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/b2747c0f-a56c-4854-b950-90e99b0d0c49"/>
     <dcat:dataset rdf:resource="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/96a7573e-2fd9-4b17-adf2-8d0d56452581"/>
   </dcat:Catalog>
-
+  <hydra:PagedCollection rdf:about="https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/catalogo1.rdf">
+    <hydra:nextPage>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/catalogo2.rdf</hydra:nextPage>
+    <hydra:next>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/catalogo2.rdf</hydra:next>
+    <hydra:firstPage>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/catalogo1.rdf</hydra:firstPage>
+    <hydra:first>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/catalogo1.rdf</hydra:first>
+    <hydra:lastPage>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/catalogo11.rdf</hydra:lastPage>
+    <hydra:last>https://raw.githubusercontent.com/eminguel/fede/refs/heads/main/catalogo11.rdf</hydra:last>
+    <hydra:totalItems rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1037</hydra:totalItems>
+    <hydra:itemsPerPage rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</hydra:itemsPerPage>
+  </hydra:PagedCollection>
   <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/c4fd48cf-5cec-47ea-9aab-6abb9ab047a7/resource/5512afc7-ef05-4f03-929b-0f2e4dce78c7">
     <dct:title xml:lang="es">Enlace de descarga del servicio ATOM</dct:title>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
@@ -8862,6 +8777,19 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
     <dcat:accessURL rdf:resource="https://www.mapama.gob.es/app/descargas/descargafichero.aspx?f=gml-subcuencasnivales.zip"/>
     <dcat:downloadURL rdf:resource="https://www.mapama.gob.es/app/descargas/descargafichero.aspx?f=gml-subcuencasnivales.zip"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
+    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+    <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b/resource/ec45164a-bce4-45c5-8d2c-543f344f4ad8">
+    <dct:title xml:lang="es">Servicio de descarga de objetos geográficos OGC API Features</dct:title>
+    <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMTS_SRVC"/>
+    <dcat:accessURL rdf:resource="https://gis.miteco.gob.es/geoserver/ogc/features/v1?request=GetCapabilities&amp;service=WMTS"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
@@ -10590,6 +10518,22 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
     <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
     <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
   </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b/resource/8ff6a073-f056-4f46-a974-6d2dc536a118">
+    <dct:title xml:lang="es">NZ.ExposedElement</dct:title>
+    <dct:description xml:lang="es">Áreas de importancia medioambiental de origen fluvial T=500 años</dct:description>
+    <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+    <dct:conformsTo rdf:resource="http://www.opengis.net/def/serviceType/ogc/wms"/>
+    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"/>
+    <dcat:accessURL rdf:resource="https://gis.miteco.gob.es/geoserver/agua/Zif_riesgo_medamb_q500/wms?request=GetCapabilities&amp;service=WMS"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
+    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+    <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+    <dcat:accessService rdf:resource="https://gis.miteco.gob.es/geoserver/agua/Zif_riesgo_medamb_q500/wms"/>
+  </dcat:Distribution>
   <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/cc94abe9-75a1-4362-8de2-c8b8e1f7cc00/resource/b5177c7f-fb39-487c-b73a-e3e83724c7a6">
     <dct:title xml:lang="es">Visor cartográfico del SNCZI</dct:title>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
@@ -11197,6 +11141,20 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
     <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
     <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
   </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b/resource/9f9c7b3e-c95a-485c-8c17-b38ee0530701">
+    <dct:title xml:lang="es">Visor cartográfico del SNCZI</dct:title>
+    <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+    <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+    <dcat:accessURL rdf:resource="https://sig.miteco.gob.es/snczi"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
+    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+    <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+  </dcat:Distribution>
   <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/3e590e9c-7027-4237-979d-da80c9f35e40/resource/ee6a80e1-92a5-4ded-989c-3fbc737c8c00">
     <dct:title xml:lang="es">Geoportal del Ministerio</dct:title>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
@@ -11662,6 +11620,20 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
     <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMTS_SRVC"/>
     <dcat:accessURL rdf:resource="https://gis.miteco.gob.es/geoserver/ogc/features/v1?request=GetCapabilities&amp;service=WMTS"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
+    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+    <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b/resource/e2c86a1f-f4b0-4862-8e47-982a0acf2d7e">
+    <dct:title xml:lang="es">Descripción del Servicio de Áreas de importancia medioambiental de origen fluvial T=500 años</dct:title>
+    <dct:description xml:lang="es">GetCapabilities</dct:description>
+    <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/WMS_SRVC"/>
+    <dcat:accessURL rdf:resource="https://gis.miteco.gob.es/geoserver/agua/Zif_riesgo_medamb_q500/wms?request=GetCapabilities&amp;service=WMS"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
@@ -12937,6 +12909,21 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
     <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
     <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
   </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b/resource/b6507def-f16f-4d4a-80c1-755e42f24d3c">
+    <dct:title xml:lang="es">Enlace a la página de descargas de la IDE del Ministerio</dct:title>
+    <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+    <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+    <dcat:accessURL rdf:resource="https://www.miteco.gob.es/es/cartografia-y-sig/ide/descargas/agua/riesgo-inundacion-fluvial-t500.html"/>
+    <dcat:downloadURL rdf:resource="https://www.miteco.gob.es/es/cartografia-y-sig/ide/descargas/agua/riesgo-inundacion-fluvial-t500.html"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
+    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+    <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+  </dcat:Distribution>
   <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/d2f590a1-56c9-436f-8d64-9ae024ac75bf/resource/80d130f3-58f7-45f3-bced-9e8ebcf0bdef">
     <dct:title xml:lang="es">Enlace a la página de descargas de la IDE del Ministerio</dct:title>
     <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
@@ -13392,6 +13379,21 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
     <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/HTML"/>
     <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
     <dcat:accessURL rdf:resource="https://sig.mapama.gob.es/geoportal"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
+    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+    <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
+  </dcat:Distribution>
+  <dcat:Distribution rdf:about="https://catalogo.datosabiertos.miteco.gob.es/catalogo/dataset/38940357-6f97-4e79-a424-33fe613a176b/resource/2c203f98-bf0e-4a3f-b9a1-b49f20d6ef4d">
+    <dct:title xml:lang="es">Enlace de descarga del servicio ATOM</dct:title>
+    <cnt:characterEncoding>UTF-8</cnt:characterEncoding>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+    <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+    <dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+    <dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/XML"/>
+    <dcat:accessURL rdf:resource="https://gis.miteco.gob.es/descargas/atom/catalog.atom"/>
+    <dcat:downloadURL rdf:resource="https://gis.miteco.gob.es/descargas/atom/catalog.atom"/>
     <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:modified>
     <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-07-10T00:00:00+00:00</dct:issued>
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
@@ -13997,6 +13999,7 @@ Las subcuencas vertientes son consistentes con la información geográfica de �
   <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=8a82bf1c-238f-4184-b37c-955e68ecc23d&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
   <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=4ec17280-83f2-49ce-8d7d-7f43308de947&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
   <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=1dc5b326-590a-492a-93e9-ab8cc28145e8&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
+  <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=38940357-6f97-4e79-a424-33fe613a176b&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
   <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=920ecde9-5343-4d1d-9a52-b2b08123a1f8&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
   <rdfs:Resource rdf:about="https://gis.miteco.gob.es/geoserver/agua/ZIF_Riesgo_ECO_Q10/wms?request=getcapabilities&amp;service=wms"/>
   <rdfs:Resource rdf:about="https://www.mapama.gob.es/ide/metadatos/srv/spa/csw?service=CSW&amp;version=2.0.2&amp;request=GetRecordById&amp;id=68de70b5-117a-4943-b864-f856218be37f&amp;elementSetName=full&amp;outputSchema=http://www.isotc211.org/2005/gmd&amp;OutputFormat=application/xml"/>
