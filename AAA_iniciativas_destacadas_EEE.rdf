@@ -53,11 +53,10 @@
 
 	<dcat:Dataset rdf:about="https://catalogo.datosabiertos.aporta.gob.es/catalogo/dataset/7709f44a-9b05-4bb4-bcb0-982f94eb742e">
         <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
-        <dct:title xml:lang="es">Dataset con 1 iniciativa destacada y 3 adms:identifier</dct:title>
-        <dct:description xml:lang="en">White certificate system performance rates. Accumulated data for "Certificados de Ahorros Energéticos" requests since system in 2023 to current date.</dct:description>
-        <dct:description xml:lang="es">Rendimiento del Sistema de Certificados de Ahorro de Energía (Sistema de CAE). Datos de expedientes tramitados desde la puesta en marcha del sistema en 2023.</dct:description>
+        <dct:title xml:lang="es">Dataset CODSI con 1 iniciativa destacada y 3 adms:identifier</dct:title>
+        <dct:description xml:lang="es">Dataset CODSI con 1 iniciativa destacada y 3 adms:identifier</dct:description>
         <dcat:landingPage rdf:resource="https://catalogo.datosabiertos.aporta.gob.es/catalogo/dataset/7709f44a-9b05-4bb4-bcb0-982f94eb742e"/>
-        <dct:identifier>DATASET-CON-UNA-INICIATIVA-DESTACADA-TRES-ADMS-IDENTIFIER</dct:identifier>
+        <dct:identifier>DATASET-CODSIC</dct:identifier>
         <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/MONTHLY"/>
         <dct:type rdf:resource="http://id.loc.gov/vocabulary/marcgt/dtb"/>
         <dcat:keyword xml:lang="es">ahorro</dcat:keyword>
@@ -76,26 +75,11 @@
         <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
         <dct:provenance>
           <dct:ProvenanceStatement rdf:nodeID="Ned6c7ee7c685485ebd4170d506598eab">
-            <dct:description xml:lang="es">Datos recogidos a partir de las solicitudes de los interesados en la sede electrónica del MITERD. Los datos se han formateado, se han eliminado errores manuales de introducción y datos confidenciales de los solicitantes.</dct:description>
+            <dct:description xml:lang="es">Datos recogidos a partir de bla bla</dct:description>
           </dct:ProvenanceStatement>
         </dct:provenance>
         <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-        <dcat:distribution>
-			<dcat:Distribution rdf:about="https://catalogo.datosabiertos.aporta.gob.es/catalogo/dataset/7709f44a-9b05-4bb4-bcb0-982f94eb742e/resource/135a457a-b14a-4d96-814b-477a90cdeb6b">
-				<dct:title xml:lang="es">20251130 Sistema de CAE</dct:title>
-				<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
-				<dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
-				<dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
-				<dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/csv"/>
-				<dcat:accessURL rdf:resource="https://catalogo.datosabiertos.aporta.gob.es/catalogo/dataset/7709f44a-9b05-4bb4-bcb0-982f94eb742e/resource/135a457a-b14a-4d96-814b-477a90cdeb6b/download/20251130-sistema_de_cae.csv?request=GetCapabilities&amp;service=WMS"/>
-				<dcat:downloadURL rdf:resource="https://www.miteco.gob.es/es/energia/eficiencia/cae/normativa.html"/>
-				<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-17T00:00:00+00:00</dct:modified>
-				<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-01-22T00:00:00+00:00</dct:issued>
-				<dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
-				<dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4331284</dcat:byteSize>
-				<dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
-			</dcat:Distribution>
-		</dcat:distribution>
+
 		<adms:identifier>
 			<adms:Identifier rdf:nodeID="N9f69d3e947a140d3aeec4e476fbe1427">
 				<skos:notation>adms_identifier1</skos:notation>
@@ -113,17 +97,26 @@
 				<foaf:homepage rdf:resource="https://www.idee.es"/>
 			</adms:Identifier>
 		</adms:identifier>
-		<adms:identifier>
-			<adms:Identifier rdf:nodeID="N5e3b83b8c3a74f59ba4e49e185617673">
-				<skos:notation>ESMAGRAMAWMSENP20101220</skos:notation>
-				<foaf:page rdf:resource="https://uri-page-01"/>
-				<foaf:page rdf:resource="https://uri-page-02"/>
-				<foaf:homepage rdf:resource="http://uri-iniciativa-destacada3"/>
-			</adms:Identifier>
-		</adms:identifier>
 		
         <adms:status rdf:resource="http://publications.europa.eu/resource/authority/distribution-status/COMPLETED"/>
         <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+		
+        <dcat:distribution>
+			<dcat:Distribution rdf:about="https://catalogo.datosabiertos.aporta.gob.es/catalogo/dataset/7709f44a-9b05-4bb4-bcb0-982f94eb742e/resource/135a457a-b14a-4d96-814b-477a90cdeb6b">
+				<dct:title xml:lang="es">20251130 Sistema de CAE</dct:title>
+				<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
+				<dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+				<dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+				<dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/csv"/>
+				<dcat:accessURL rdf:resource="https://catalogo.datosabiertos.aporta.gob.es/catalogo/dataset/7709f44a-9b05-4bb4-bcb0-982f94eb742e/resource/135a457a-b14a-4d96-814b-477a90cdeb6b/download/20251130-sistema_de_cae.csv?request=GetCapabilities&amp;service=WMS"/>
+				<dcat:downloadURL rdf:resource="https://www.miteco.gob.es/es/energia/eficiencia/cae/normativa.html"/>
+				<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-17T00:00:00+00:00</dct:modified>
+				<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-01-22T00:00:00+00:00</dct:issued>
+				<dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+				<dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4331284</dcat:byteSize>
+				<dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+			</dcat:Distribution>
+		</dcat:distribution>
     </dcat:Dataset>
 	
 
