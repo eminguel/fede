@@ -1860,7 +1860,7 @@ Cartagena: November 2025</dct:description>
     <dcat:accessURL rdf:resource="https://api-features.ign.es/collections/administrativeboundary"/>
     <dcat:accessURL rdf:resource="https://api-features.ign.es/collections/administrativeunit"/>
     <dcat:accessURL rdf:resource="https://centrodedescargas.cnig.es/CentroDescargas/limites-municipales-provinciales-autonomicos"/>
-    <dcat:accessURL rdf:resource="https://vt-unidades-administrativas.ign.es/1.0.0/uadministrativa/{z}/{x}/{y}.pbf"/>
+     <!--<dcat:accessURL rdf:resource="https://vt-unidades-administrativas.ign.es/1.0.0/uadministrativa/{z}/{x}/{y}.pbf"/>-->
     <dcat:accessURL rdf:resource="https://www.ign.es/atom/dataset_feeds/lin_lim_mun.es.xml"/>
     <dcat:accessURL rdf:resource="https://www.ign.es/wms-inspire/unidades-administrativas?REQUEST=GetCapabilities&amp;SERVICE=WMS&amp;VERSION=1.3.0"/>
     <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/html"/>
@@ -1919,7 +1919,8 @@ Cartagena: November 2025</dct:description>
     <dcat:accessURL rdf:resource="https://servicios.idee.es/wcs-inspire/mdt?request=GetCapabilities&amp;service=WCS&amp;version=2.0.1"/>
     <dcat:accessURL rdf:resource="https://servicios.idee.es/wms-inspire/mdt?request=GetCapabilities&amp;service=WMS&amp;VERSION=1.3.0"/>
     <dcat:accessURL rdf:resource="https://servicios.idee.es/wmts/mdt?request=GetCapabilities&amp;service=WMTS&amp;VERSION=1.0.0"/>
-    <dcat:accessURL rdf:resource="https://xyz-mdt.idee.es/1.0.0/raster-dem/{z}/{x}/{y}.png"/>
+    <!--<dcat:accessURL rdf:resource="https://xyz-mdt.idee.es/1.0.0/raster-dem/{z}/{x}/{y}.png"/>-->
+
     <dcat:mediaType rdf:resource="https://www.iana.org/assignments/media-types/text/html"/>
     <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg_impl/2023/138/oj"/>
     <dcatap:applicableLegislation rdf:resource="http://data.europa.eu/eli/reg/2008/1205"/>
