@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:hydra="http://www.w3.org/ns/hydra/core#"
+  xmlns:dct="http://purl.org/dc/terms/"
+  xmlns:vcard="http://www.w3.org/2006/vcard/ns#"
+  xmlns:dcatap="http://data.europa.eu/r5r/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:odrs="http://schema.theodi.org/odrs#"
+  xmlns:cnt="http://www.w3.org/2011/content#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:adms="http://www.w3.org/ns/adms#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:locn="http://www.w3.org/ns/locn#"
+  xmlns:eli="http://data.europa.eu/eli/ontology#"
+>
+
+	<dcat:Catalog rdf:about="https://catalogo.datosabiertos.aporta.gob.es/catalogo">
+		<cnt:characterEncoding>UTF-8</cnt:characterEncoding>
+		<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
+		<dct:language>
+		<dct:LinguisticSystem rdf:about="http://publications.europa.eu/resource/authority/language/ENG"/>
+		</dct:language>
+		<dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
+		<dcat:themeTaxonomy rdf:resource="http://inspire.ec.europa.eu/theme"/>
+		<dcat:themeTaxonomy rdf:resource="http://datos.gob.es/kos/sector-publico/sector"/>
+		<dcat:themeTaxonomy rdf:resource="http://publications.europa.eu/resource/authority/data-theme"/>
+		<foaf:homepage rdf:resource="https://catalogo.datosabiertos.aporta.gob.es"/>
+		<dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+		<dct:conformsTo rdf:resource="http://data.europa.eu/r5r/"/>
+		<dct:rights>
+			<odrs:RightsStatement rdf:about="https://catalogo.datosabiertos.aporta.gob.es/catalogo/rights">
+				<rdfs:label xml:lang="en">Rights related to the re-use of the Open Data Catalogue</rdfs:label>
+				<rdfs:label xml:lang="es">Derechos relativos a la reutilización del Catálogo de Datos Abiertos</rdfs:label>
+				<odrs:attributionText xml:lang="en">Attribution of authorship to the organisation.</odrs:attributionText>
+				<odrs:attributionText xml:lang="es">Atribución de la autoría al organismo.</odrs:attributionText>
+				<odrs:dataLicense rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+				<odrs:attributionURL rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+			</odrs:RightsStatement>
+		</dct:rights>
+		<dct:title xml:lang="es">Datos Abiertos TEST SDA-1906</dct:title>
+		<dct:description xml:lang="es">Portal de datos abiertos CKAN - Producción</dct:description>
+		<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-17T13:37:50+00:00</dct:modified>
+		<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-12-11T10:08:36+00:00</dct:issued>
+		<dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+	   
+
+		<dcat:dataset rdf:resource="https://catalogo.datosabiertos.aporta.gob.es/catalogo/dataset/7709f44a-9b05-4bb4-bcb0-982f94eb742e"/>
+
+	</dcat:Catalog>
+
+	<dcat:Dataset rdf:about="https://catalogo.datosabiertos.aporta.gob.es/catalogo/dataset/7709f44a-9b05-4bb4-bcb0-982f94eb742e">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+        <dct:title xml:lang="es">Dataset con 1 iniciativa destacada y 3 adms:identifier</dct:title>
+        <dct:description xml:lang="en">White certificate system performance rates. Accumulated data for "Certificados de Ahorros Energéticos" requests since system in 2023 to current date.</dct:description>
+        <dct:description xml:lang="es">Rendimiento del Sistema de Certificados de Ahorro de Energía (Sistema de CAE). Datos de expedientes tramitados desde la puesta en marcha del sistema en 2023.</dct:description>
+        <dcat:landingPage rdf:resource="https://catalogo.datosabiertos.aporta.gob.es/catalogo/dataset/7709f44a-9b05-4bb4-bcb0-982f94eb742e"/>
+        <dct:identifier>DATASET-CON-UNA-INICIATIVA-DESTACADA-TRES-ADMS-IDENTIFIER</dct:identifier>
+        <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/MONTHLY"/>
+        <dct:type rdf:resource="http://id.loc.gov/vocabulary/marcgt/dtb"/>
+        <dcat:keyword xml:lang="es">ahorro</dcat:keyword>
+        <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-17T00:00:00+00:00</dct:modified>
+        <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-11-30T00:00:00+00:00</dct:issued>
+        <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
+        <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/energia"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.aporta.gob.es/kos/role/E0DAT0001/contact"/>
+        <dct:temporal>
+          <dct:PeriodOfTime rdf:nodeID="Ne67a93ca2e7a4f1d95294e4e35764880">
+            <dcat:startDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-11-01T00:00:00+00:00</dcat:startDate>
+          </dct:PeriodOfTime>
+        </dct:temporal>
+        <dct:spatial rdf:resource="http://datos.gob.es/recurso/sector-publico/territorio/Pais/España"/>
+        <dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+        <dct:provenance>
+          <dct:ProvenanceStatement rdf:nodeID="Ned6c7ee7c685485ebd4170d506598eab">
+            <dct:description xml:lang="es">Datos recogidos a partir de las solicitudes de los interesados en la sede electrónica del MITERD. Los datos se han formateado, se han eliminado errores manuales de introducción y datos confidenciales de los solicitantes.</dct:description>
+          </dct:ProvenanceStatement>
+        </dct:provenance>
+        <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+        <dcat:distribution>
+			<dcat:Distribution rdf:about="https://catalogo.datosabiertos.aporta.gob.es/catalogo/dataset/7709f44a-9b05-4bb4-bcb0-982f94eb742e/resource/135a457a-b14a-4d96-814b-477a90cdeb6b">
+				<dct:title xml:lang="es">20251130 Sistema de CAE</dct:title>
+				<dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
+				<dct:license rdf:resource="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+				<dct:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+				<dcat:mediaType rdf:resource="http://www.iana.org/assignments/media-types/text/csv"/>
+				<dcat:accessURL rdf:resource="https://catalogo.datosabiertos.aporta.gob.es/catalogo/dataset/7709f44a-9b05-4bb4-bcb0-982f94eb742e/resource/135a457a-b14a-4d96-814b-477a90cdeb6b/download/20251130-sistema_de_cae.csv?request=GetCapabilities&amp;service=WMS"/>
+				<dcat:downloadURL rdf:resource="https://www.miteco.gob.es/es/energia/eficiencia/cae/normativa.html"/>
+				<dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-04-17T00:00:00+00:00</dct:modified>
+				<dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2026-01-22T00:00:00+00:00</dct:issued>
+				<dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+				<dcat:byteSize rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4331284</dcat:byteSize>
+				<dcatap:availability rdf:resource="http://publications.europa.eu/resource/authority/planned-availability/AVAILABLE"/>
+			</dcat:Distribution>
+		</dcat:distribution>
+		<adms:identifier>
+			<adms:Identifier rdf:nodeID="N9f69d3e947a140d3aeec4e476fbe1427">
+				<skos:notation>adms_identifier1</skos:notation>
+			 </adms:Identifier>
+		</adms:identifier>
+		<adms:identifier>
+			<adms:Identifier rdf:nodeID="N86c1c501ba0443fbada493317f9946c2">
+			<skos:notation>adms_identifier2</skos:notation>
+			</adms:Identifier>
+		</adms:identifier>
+		<adms:identifier>
+			<adms:Identifier rdf:nodeID="N90d62eab030d43b6bafc4d6382041a21">
+				<skos:notation>adms_identifier3</skos:notation>
+				<foaf:page rdf:resource="https://www.idee.es/csw-codsi-idee/srv/api/records/spaignsioseAR2017/formatters/xml"/>
+				<foaf:homepage rdf:resource="https://www.idee.es"/>
+			</adms:Identifier>
+		</adms:identifier>
+		<adms:identifier>
+			<adms:Identifier rdf:nodeID="N5e3b83b8c3a74f59ba4e49e185617673">
+				<skos:notation>ESMAGRAMAWMSENP20101220</skos:notation>
+				<foaf:page rdf:resource="https://uri-page-01"/>
+				<foaf:page rdf:resource="https://uri-page-02"/>
+				<foaf:homepage rdf:resource="http://uri-iniciativa-destacada3"/>
+			</adms:Identifier>
+		</adms:identifier>
+		
+        <adms:status rdf:resource="http://publications.europa.eu/resource/authority/distribution-status/COMPLETED"/>
+        <dct:publisher rdf:resource="http://datos.gob.es/recurso/sector-publico/org/Organismo/E0DAT0001"/>
+    </dcat:Dataset>
+	
+
+
+
+	<vcard:Kind rdf:about="https://catalogo.datosabiertos.aporta.gob.es/kos/role/E0DAT0001/contact">
+		<vcard:fn xml:lang="es">Adrián Ruiz Soriano</vcard:fn>
+		<vcard:hasEmail rdf:resource="mailto:bzn-cae@miteco.es"/>
+		<vcard:hasURL rdf:resource="https://www.miteco.gob.es/es/energia/eficiencia/cae.html"/>
+		<vcard:hasURL rdf:resource="https://www.miteco.gob.es/"/>
+		<vcard:role rdf:resource="http://id.loc.gov/vocabulary/relators/mdc"/>
+	</vcard:Kind>
+
+	<foaf:Agent rdf:about="https://catalogo.datosabiertos.aporta.gob.es/kos/role/E0DAT0001/creator">
+		<foaf:name xml:lang="es">Área de Contaminación Acústica de la Subdirección General de la Prevención de la Contaminación</foaf:name>
+		<foaf:mbox rdf:resource="mailto:bzn-datos@miteco.es"/>
+
+		<dct:type rdf:resource="http://purl.org/adms/publishertype/NationalAuthority"/>
+		<dct:identifier>E0DAT0001</dct:identifier>
+		<foaf:homepage rdf:resource="https://www.miteco.gob.es/"/>
+	</foaf:Agent>
+	
+</rdf:RDF>
