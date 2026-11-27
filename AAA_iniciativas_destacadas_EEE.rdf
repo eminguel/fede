@@ -64,7 +64,10 @@
         <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-11-30T00:00:00+00:00</dct:issued>
         <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/SPA"/>
         <dcat:theme rdf:resource="http://datos.gob.es/kos/sector-publico/sector/energia"/>
-        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ENER"/>
+        <dcat:theme rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/TopicCategory/planningCadastre"/>
+		<dcat:theme rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/TopicCategory/transportation"/>
+		<dcat:theme rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/TopicCategory/location"/>
+		<dcat:theme rdf:resource="http://inspire.ec.europa.eu/metadata-codelist/TopicCategory/planningCadastre"/>
         <dcat:contactPoint rdf:resource="https://catalogo.datosabiertos.aporta.gob.es/kos/role/E0DAT0001/contact"/>
         <dct:temporal>
           <dct:PeriodOfTime rdf:nodeID="Ne67a93ca2e7a4f1d95294e4e35764880">
